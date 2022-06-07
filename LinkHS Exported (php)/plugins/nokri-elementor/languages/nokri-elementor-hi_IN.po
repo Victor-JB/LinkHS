@@ -1,0 +1,1989 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nokri Elementor Widgets\n"
+"POT-Creation-Date: 2021-11-17 19:05+0500\n"
+"PO-Revision-Date: 2021-11-17 19:05+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: nokri-elementor.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: nokri-elementor.php:53
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+"\"% 1 $ एस\" को स्थापित और सक्रिय करने के लिए \"% 2 $ एस\" की आवश्यकता होती है।"
+
+#: nokri-elementor.php:54
+msgid "Nokri Elementor widgets"
+msgstr "नोकरी एलिमेंटर विजेट्स"
+
+#: nokri-elementor.php:56
+msgid "Elementor "
+msgstr "एलिमेंटर"
+
+#: nokri-elementor.php:65 nokri-elementor.php:77
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr "\"% 1 $ एस\" की आवश्यकता है \"% 2 $ एस\" संस्करण % 3 $ एस या उससे अधिक।"
+
+#: nokri-elementor.php:66 nokri-elementor.php:78
+msgid "Nokri Elementor widgets "
+msgstr "नोकरी एलिमेंटर विजेट्स"
+
+#: nokri-elementor.php:67
+msgid "Elementor"
+msgstr "एलिमेंटर"
+
+#: nokri-elementor.php:79
+msgid "PHP"
+msgstr "पीएचपी"
+
+#: plugin.php:106
+msgid "Nokri Widgets"
+msgstr "नोकरी विजेट्स"
+
+#: shortcodes-html.php:20
+msgid "No Image"
+msgstr "कोई छवि नहीं"
+
+#: shortcodes-html.php:76 shortcodes-html.php:89
+msgid "Image Not Found"
+msgstr "छवि नहीं मिली"
+
+#: widgets/about_tabs.php:18
+msgid "Faqs Tab"
+msgstr "पूछे जाने वाले टैब"
+
+#: widgets/about_tabs.php:47 widgets/advertisment.php:47
+#: widgets/call_action4.php:47 widgets/cand_emp_sec.php:47
+#: widgets/contact_us.php:47 widgets/hero_premium_section.php:47
+#: widgets/hero_section3.php:47 widgets/how_works.php:47
+#: widgets/jobs_cand_cat_section.php:47 widgets/main_section_paralex.php:47
+#: widgets/premium_jobs.php:47 widgets/premium_jobs_grid.php:47
+#: widgets/premium_jobs_with_tabs2.php:47 widgets/pricing.php:69
+#: widgets/pricing_cand.php:84 widgets/pricing_modern.php:50
+#: widgets/recent_jobs.php:47 widgets/recent_jobs_list.php:47
+#: widgets/signin.php:47 widgets/signup.php:47
+msgid "Basic"
+msgstr "बुनियादी"
+
+#: widgets/about_tabs.php:54 widgets/categories_slider.php:58
+#: widgets/featured_candidates.php:74 widgets/hero_section.php:176
+#: widgets/hero_section1.php:135 widgets/hero_section2.php:147
+#: widgets/hero_section3.php:224 widgets/job_location_images.php:83
+#: widgets/main_section_paralex.php:137 widgets/search_paralex_2.php:111
+#: widgets/search_paralex_2_new.php:111 widgets/search_paralex_sidebar.php:213
+msgid "Select Country"
+msgstr "देश का चयन करें"
+
+#: widgets/about_tabs.php:57 widgets/blog_post_modern.php:58
+#: widgets/blog_post_modern.php:112 widgets/blog_posts.php:58
+#: widgets/blog_posts.php:112 widgets/categories_slider.php:61
+#: widgets/categories_with_images.php:58
+#: widgets/categories_with_images_new.php:58 widgets/emp_list.php:57
+#: widgets/featured_candidates.php:58 widgets/featured_candidates.php:77
+#: widgets/featured_candidates2.php:58 widgets/featured_candidates2.php:87
+#: widgets/featured_candidates3.php:58 widgets/featured_candidates3.php:87
+#: widgets/pricing.php:58 widgets/pricing_cand.php:60 widgets/pricing_cand.php:73
+#: widgets/recent_jobs.php:58 widgets/recent_jobs_list.php:58
+#: widgets/signup.php:215 widgets/success_stories.php:58
+#: widgets/success_stories1.php:58 widgets/success_stories1.php:80
+#: widgets/success_stories_slider.php:58 widgets/top_hirings.php:57
+msgid "Select Option"
+msgstr "विकल्प का चयन करें"
+
+#: widgets/about_tabs.php:58 widgets/categories_with_images.php:59
+#: widgets/categories_with_images_new.php:59 widgets/emp_list.php:58
+#: widgets/featured_candidates.php:59 widgets/featured_candidates2.php:59
+#: widgets/featured_candidates3.php:59 widgets/pricing_cand.php:61
+#: widgets/recent_jobs.php:59 widgets/recent_jobs_list.php:59
+#: widgets/success_stories.php:59 widgets/success_stories_slider.php:59
+#: widgets/top_hirings.php:58
+msgid "Sky BLue"
+msgstr "आसमानी"
+
+#: widgets/about_tabs.php:59 widgets/blog_post_modern.php:59
+#: widgets/blog_posts.php:59 widgets/categories_slider.php:63
+#: widgets/categories_with_images.php:60
+#: widgets/categories_with_images_new.php:60 widgets/emp_list.php:59
+#: widgets/featured_candidates.php:60 widgets/featured_candidates2.php:60
+#: widgets/featured_candidates3.php:60 widgets/pricing_cand.php:62
+#: widgets/recent_jobs.php:60 widgets/recent_jobs_list.php:60
+#: widgets/success_stories.php:60 widgets/success_stories1.php:81
+#: widgets/success_stories_slider.php:60 widgets/top_hirings.php:59
+msgid "White"
+msgstr "सफेद"
+
+#: widgets/about_tabs.php:67 widgets/about_us.php:55 widgets/app_section.php:55
+#: widgets/appsection_modern.php:61 widgets/call_action.php:65
+#: widgets/call_action2.php:70 widgets/call_action3.php:63
+#: widgets/call_action4.php:77 widgets/categories_with_image2.php:73
+#: widgets/categories_with_images.php:67 widgets/client_with_bg.php:56
+#: widgets/contact_us.php:55 widgets/contact_us.php:92 widgets/emp_list.php:67
+#: widgets/hero_premium_section.php:64 widgets/hero_section.php:75
+#: widgets/hero_section1.php:66 widgets/hero_section2.php:66
+#: widgets/hero_section3.php:79 widgets/job_location_images.php:56
+#: widgets/jobs_cand_cat_section.php:64 widgets/jobs_cand_cat_section.php:227
+#: widgets/jobs_cand_cat_section.php:285 widgets/main_section_paralex.php:66
+#: widgets/search_paralex_2.php:72 widgets/search_paralex_2_new.php:72
+#: widgets/search_paralex_sidebar.php:72 widgets/search_paralex_sidebar.php:79
+#: widgets/top_hirings.php:67 widgets/top_hirings_slider.php:63
+msgid "Section Heading"
+msgstr "अनुभाग शीर्षक"
+
+#: widgets/about_tabs.php:75 widgets/about_us.php:69 widgets/app_section.php:62
+#: widgets/appsection_modern.php:68 widgets/contact_us.php:62
+msgid "Section Detail"
+msgstr "सेक्शन डिटेल"
+
+#: widgets/about_tabs.php:82
+msgid "Section Quote"
+msgstr "सेक्शन कोट"
+
+#: widgets/about_tabs.php:91
+msgid "Add Tabs"
+msgstr "टैब्स जोड़ें"
+
+#: widgets/about_tabs.php:100 widgets/about_us.php:109 widgets/about_us.php:126
+#: widgets/hero_section1.php:172 widgets/hero_section1.php:229
+msgid "Title"
+msgstr "शीर्षक"
+
+#: widgets/about_tabs.php:109 widgets/about_us.php:118 widgets/signup.php:255
+msgid "Details"
+msgstr "विवरण"
+
+#: widgets/about_us.php:18
+msgid "About us"
+msgstr "हमारे बारे में"
+
+#: widgets/about_us.php:47 widgets/app_section.php:47
+#: widgets/appsection_modern.php:47 widgets/blog_post_modern.php:47
+#: widgets/blog_posts.php:47 widgets/call_action.php:47
+#: widgets/call_action2.php:47 widgets/call_action3.php:47
+#: widgets/categories_slider.php:51 widgets/categories_with_image2.php:66
+#: widgets/categories_with_images.php:48
+#: widgets/categories_with_images_new.php:48 widgets/client_with_bg.php:47
+#: widgets/emp_list.php:47 widgets/employer_slider.php:47
+#: widgets/featured_candidates.php:47 widgets/featured_candidates2.php:47
+#: widgets/featured_candidates3.php:47 widgets/hero_section.php:47
+#: widgets/hero_section1.php:47 widgets/hero_section2.php:47
+#: widgets/job_location_images.php:47 widgets/search_paralex_2.php:47
+#: widgets/search_paralex_2_new.php:47 widgets/search_paralex_sidebar.php:47
+#: widgets/top_hirings.php:47 widgets/top_hirings_slider.php:47
+msgid "Basic)"
+msgstr "बेसिक)"
+
+#: widgets/about_us.php:62
+msgid "Section Sub Heading"
+msgstr "सेक्शन सब हेडिंग"
+
+#: widgets/about_us.php:79 widgets/app_section.php:72
+#: widgets/appsection_modern.php:78
+msgid "Image Section)"
+msgstr "इमेज सेक्शन)"
+
+#: widgets/about_us.php:87 widgets/about_us.php:131 widgets/about_us.php:138
+#: widgets/app_section.php:112 widgets/app_section.php:138
+#: widgets/app_section.php:200 widgets/appsection_modern.php:118
+#: widgets/appsection_modern.php:144 widgets/appsection_modern.php:209
+#: widgets/call_action2.php:61 widgets/featured_candidates.php:159
+#: widgets/how_works.php:96 widgets/success_stories1.php:60
+msgid "Image"
+msgstr "चित्र"
+
+#: widgets/about_us.php:92 widgets/app_section.php:85
+#: widgets/appsection_modern.php:91
+msgid "767 x 467"
+msgstr "७६७ एक्स ४६७"
+
+#: widgets/about_us.php:100
+msgid "Add more"
+msgstr "अधिक जोड़ें"
+
+#: widgets/about_us.php:129 widgets/how_works.php:94 widgets/signin.php:80
+#: widgets/signin.php:92 widgets/signup.php:80 widgets/signup.php:92
+msgid "Select option"
+msgstr "विकल्प का चयन करें"
+
+#: widgets/about_us.php:130 widgets/about_us.php:148 widgets/how_works.php:95
+msgid "Icon"
+msgstr "आइकन"
+
+#: widgets/about_us.php:153 widgets/how_works.php:112
+#: widgets/search_paralex_2.php:66 widgets/search_paralex_2_new.php:66
+msgid "Click to explore more icons"
+msgstr "अधिक आइकन एक्सप्लोर करने के लिए क्लिक करें"
+
+#: widgets/about_us.php:153 widgets/how_works.php:112
+#: widgets/search_paralex_2.php:66 widgets/search_paralex_2_new.php:66
+msgid "Get Icons"
+msgstr "चिह्न प्राप्त करें"
+
+#: widgets/about_us.php:195 widgets/about_us.php:218 widgets/app_section.php:175
+#: widgets/appsection_modern.php:184 widgets/call_action2.php:166
+#: widgets/call_action4.php:171 widgets/cand_emp_sec.php:210
+#: widgets/categories_slider.php:130 widgets/categories_slider.php:155
+#: widgets/categories_with_image2.php:205 widgets/categories_with_image2.php:229
+#: widgets/categories_with_images.php:169 widgets/categories_with_images.php:195
+#: widgets/categories_with_images_new.php:161
+#: widgets/categories_with_images_new.php:195 widgets/client_with_bg.php:125
+#: widgets/emp_list.php:257 widgets/employer_slider.php:162
+#: widgets/featured_candidates2.php:164 widgets/featured_candidates3.php:162
+#: widgets/hero_premium_section.php:402 widgets/hero_premium_section.php:421
+#: widgets/hero_section.php:402 widgets/hero_section1.php:471
+#: widgets/hero_section3.php:440 widgets/how_works.php:228
+#: widgets/how_works.php:266 widgets/job_location_images.php:140
+#: widgets/job_location_images.php:170 widgets/jobs_cand_cat_section.php:763
+#: widgets/jobs_cand_cat_section.php:789 widgets/jobs_cand_cat_section.php:831
+#: widgets/premium_jobs_with_tabs.php:408 widgets/premium_jobs_with_tabs2.php:215
+#: widgets/recent_jobs_list.php:211 widgets/success_stories.php:184
+#: widgets/success_stories1.php:194 widgets/success_stories1.php:200
+#: widgets/success_stories_slider.php:160 widgets/top_hirings.php:145
+#: widgets/top_hirings.php:147 widgets/top_hirings_slider.php:149
+#: widgets/top_hirings_slider.php:154
+msgid "image"
+msgstr "छवि"
+
+#: widgets/advertisment.php:18
+msgid "Advertisment"
+msgstr "विज्ञापन"
+
+#: widgets/advertisment.php:58
+msgid "Enter your code"
+msgstr "अपना कोड दर्ज करे"
+
+#: widgets/app_section.php:18
+msgid "App Section"
+msgstr "अनुप्रयोग अनुभाग"
+
+#: widgets/app_section.php:80 widgets/appsection_modern.php:86
+msgid "Back ground image"
+msgstr "पृष् भूमि प्रतिबिंब"
+
+#: widgets/app_section.php:91 widgets/appsection_modern.php:97
+#: widgets/success_stories1.php:67
+msgid "Section image"
+msgstr "अनुभाग छवि"
+
+#: widgets/app_section.php:96 widgets/appsection_modern.php:102
+msgid "444 x 592"
+msgstr "४४४ एक्स ५९२"
+
+#: widgets/app_section.php:105 widgets/appsection_modern.php:111
+msgid "Play store"
+msgstr "प्ले स्टोर"
+
+#: widgets/app_section.php:117 widgets/app_section.php:143
+#: widgets/appsection_modern.php:123 widgets/appsection_modern.php:149
+msgid "150 x 50"
+msgstr "१५० एक्स ५०"
+
+#: widgets/app_section.php:123 widgets/app_section.php:149
+#: widgets/appsection_modern.php:129 widgets/appsection_modern.php:155
+msgid "Play Store Link"
+msgstr "Play स्टोर लिंक"
+
+#: widgets/app_section.php:131 widgets/appsection_modern.php:137
+msgid "App store"
+msgstr "App स्टोर"
+
+#: widgets/app_section.php:185 widgets/appsection_modern.php:194
+msgid "playStore"
+msgstr "प्लेस्टोर"
+
+#: widgets/app_section.php:194 widgets/appsection_modern.php:203
+msgid "AppStore"
+msgstr "Appstore"
+
+#: widgets/appsection_modern.php:18
+msgid "App Section MOdern"
+msgstr "अनुप्रयोग अनुभाग"
+
+#: widgets/appsection_modern.php:54 widgets/hero_premium_section.php:71
+#: widgets/main_section_paralex.php:73 widgets/search_paralex_2_new.php:79
+msgid "Section Tagline"
+msgstr "खंड टैगलाइन"
+
+#: widgets/blog_post_modern.php:18
+msgid "Blog post Modern"
+msgstr "ब्लॉग पोस्ट आधुनिक"
+
+#: widgets/blog_post_modern.php:55 widgets/blog_posts.php:55
+msgid "Select Posts color"
+msgstr "पदों का रंग चुनें"
+
+#: widgets/blog_post_modern.php:60 widgets/blog_posts.php:60
+#: widgets/success_stories1.php:82
+msgid "Gray"
+msgstr "ग्रे"
+
+#: widgets/blog_post_modern.php:67 widgets/blog_posts.php:67
+#: widgets/categories_with_images_new.php:67 widgets/contact_us.php:106
+#: widgets/featured_candidates.php:67 widgets/featured_candidates2.php:67
+#: widgets/featured_candidates3.php:67 widgets/how_works.php:55
+#: widgets/how_works.php:150 widgets/main_section_paralex.php:175
+#: widgets/main_section_paralex.php:211 widgets/premium_jobs.php:55
+#: widgets/premium_jobs_grid.php:55 widgets/premium_jobs_with_tabs.php:69
+#: widgets/premium_jobs_with_tabs.php:132 widgets/premium_jobs_with_tabs2.php:54
+#: widgets/pricing.php:77 widgets/pricing_cand.php:91
+#: widgets/pricing_modern.php:58 widgets/recent_jobs.php:67
+#: widgets/recent_jobs_list.php:67 widgets/search_paralex_2.php:139
+#: widgets/search_paralex_2_new.php:150 widgets/success_stories.php:67
+#: widgets/success_stories1.php:92 widgets/success_stories_slider.php:69
+msgid "Section Title"
+msgstr "अनुभाग शीर्षक"
+
+#: widgets/blog_post_modern.php:74 widgets/blog_posts.php:74
+#: widgets/call_action4.php:84 widgets/categories_with_image2.php:80
+#: widgets/categories_with_images_new.php:75 widgets/featured_candidates2.php:74
+#: widgets/featured_candidates3.php:74 widgets/hero_section3.php:87
+#: widgets/how_works.php:62 widgets/how_works.php:157
+#: widgets/job_location_images.php:63 widgets/jobs_cand_cat_section.php:295
+#: widgets/premium_jobs.php:62 widgets/premium_jobs_grid.php:62
+#: widgets/premium_jobs_with_tabs.php:79 widgets/premium_jobs_with_tabs.php:142
+#: widgets/premium_jobs_with_tabs2.php:61 widgets/pricing.php:85
+#: widgets/pricing_cand.php:98 widgets/pricing_modern.php:65
+#: widgets/signin.php:62 widgets/signup.php:62 widgets/success_stories.php:75
+#: widgets/success_stories1.php:99 widgets/success_stories_slider.php:76
+#: widgets/top_hirings.php:74 widgets/top_hirings_slider.php:70
+msgid "Section Description"
+msgstr "अनुभाग वर्णन"
+
+#: widgets/blog_post_modern.php:85 widgets/blog_posts.php:85
+msgid "Post Options"
+msgstr "पोस्ट विकल्प"
+
+#: widgets/blog_post_modern.php:93 widgets/blog_posts.php:93
+msgid "Number Of Post To Show"
+msgstr "दिखाने के लिए पोस्ट की संख्या"
+
+#: widgets/blog_post_modern.php:101 widgets/blog_posts.php:101
+msgid "Number of words in title"
+msgstr "शीर्षक में शब्दों की संख्या"
+
+#: widgets/blog_post_modern.php:109 widgets/blog_posts.php:109
+msgid "Select Posts Order"
+msgstr "पदों का चयन करें आदेश"
+
+#: widgets/blog_post_modern.php:113 widgets/blog_posts.php:113
+msgid "ASCENDING"
+msgstr "बढ़ते क्रम में"
+
+#: widgets/blog_post_modern.php:114 widgets/blog_posts.php:114
+msgid "DESCENDING"
+msgstr "घटते क्रम में"
+
+#: widgets/blog_post_modern.php:123 widgets/categories_with_images_new.php:86
+#: widgets/jobs_cand_cat_section.php:340
+msgid "Categories"
+msgstr "श्रेणियाँ"
+
+#: widgets/blog_post_modern.php:133 widgets/blog_posts.php:133
+#: widgets/hero_premium_section.php:93 widgets/hero_section.php:114
+#: widgets/hero_section1.php:84 widgets/hero_section2.php:96
+#: widgets/hero_section3.php:173 widgets/jobs_cand_cat_section.php:207
+#: widgets/premium_jobs_with_tabs.php:47
+msgid "Category"
+msgstr "वर्ग"
+
+#: widgets/blog_post_modern.php:141 widgets/blog_posts.php:141
+msgid "Add Category"
+msgstr "श्रेणी जोड़ें"
+
+#: widgets/blog_posts.php:18
+msgid "Blog post"
+msgstr "ब्लॉग पोस्ट"
+
+#: widgets/blog_posts.php:123 widgets/categories_slider.php:73
+#: widgets/categories_with_image2.php:128 widgets/categories_with_images.php:99
+#: widgets/hero_section1.php:165 widgets/main_section_paralex.php:168
+#: widgets/search_paralex_2.php:132 widgets/search_paralex_2_new.php:143
+msgid "Hot Cats"
+msgstr "गर्म बिल्लियों"
+
+#: widgets/blog_posts.php:221
+msgid "Read More"
+msgstr "आगे पढ़ें"
+
+#: widgets/call_action.php:18
+msgid "Call To Action"
+msgstr "कार्रवाई करने के लिए कॉल"
+
+#: widgets/call_action.php:54 widgets/call_action2.php:54
+#: widgets/call_action3.php:54 widgets/call_action4.php:54
+#: widgets/cand_emp_sec.php:54 widgets/categories_with_image2.php:54
+#: widgets/hero_premium_section.php:54 widgets/hero_section.php:54
+#: widgets/hero_section1.php:54 widgets/hero_section1.php:217
+#: widgets/hero_section2.php:54 widgets/hero_section3.php:67
+#: widgets/jobs_cand_cat_section.php:54 widgets/jobs_cand_cat_section.php:305
+#: widgets/main_section_paralex.php:54 widgets/search_paralex_2.php:54
+#: widgets/search_paralex_2_new.php:54 widgets/search_paralex_sidebar.php:54
+msgid "Background Image"
+msgstr "पछौकड़ बिंब"
+
+#: widgets/call_action.php:57
+msgid "Ouput of the shortcode will be look like this."
+msgstr "शॉर्टकोड के ouput इस तरह लग रहे हो जाएगा ।"
+
+#: widgets/call_action.php:59 widgets/call_action3.php:56
+#: widgets/contact_us.php:74 widgets/jobs_cand_cat_section.php:57
+#: widgets/pricing.php:101 widgets/pricing.php:109 widgets/signin.php:71
+#: widgets/signup.php:71
+msgid "263x394"
+msgstr "263x394"
+
+#: widgets/call_action.php:72
+msgid "Button 1 Title"
+msgstr "बटन 1 शीर्षक"
+
+#: widgets/call_action.php:81 widgets/call_action2.php:86
+#: widgets/call_action3.php:80
+msgid "Links)"
+msgstr "लिंक)"
+
+#: widgets/call_action.php:88 widgets/call_action2.php:93
+#: widgets/call_action3.php:87 widgets/emp_list.php:75
+msgid "Some Detail"
+msgstr "कुछ विवरण"
+
+#: widgets/call_action.php:95 widgets/call_action.php:116
+#: widgets/call_action2.php:100 widgets/call_action3.php:94
+#: widgets/cand_emp_sec.php:99 widgets/cand_emp_sec.php:150
+#: widgets/cand_emp_sec1.php:84 widgets/cand_emp_sec1.php:136
+#: widgets/cand_emp_sec2.php:91 widgets/cand_emp_sec2.php:150
+#: widgets/categories_with_image2.php:111 widgets/categories_with_images.php:82
+#: widgets/emp_list.php:82 widgets/how_works.php:180
+#: widgets/main_section_paralex.php:225 widgets/premium_jobs.php:147
+#: widgets/premium_jobs_grid.php:154 widgets/premium_jobs_with_tabs.php:188
+#: widgets/premium_jobs_with_tabs2.php:103 widgets/success_stories.php:89
+#: widgets/top_hirings.php:101 widgets/top_hirings_slider.php:98
+msgid "Link"
+msgstr "लिंक"
+
+#: widgets/call_action.php:97 widgets/call_action.php:118
+#: widgets/call_action2.php:102 widgets/call_action3.php:96
+#: widgets/cand_emp_sec.php:101 widgets/cand_emp_sec.php:152
+#: widgets/cand_emp_sec1.php:86 widgets/cand_emp_sec1.php:138
+#: widgets/cand_emp_sec2.php:93 widgets/cand_emp_sec2.php:152
+#: widgets/categories_with_image2.php:113 widgets/categories_with_images.php:84
+#: widgets/client_with_bg.php:85 widgets/emp_list.php:84
+#: widgets/hero_section3.php:103 widgets/how_works.php:182
+#: widgets/main_section_paralex.php:227 widgets/premium_jobs.php:149
+#: widgets/premium_jobs_grid.php:156 widgets/premium_jobs_with_tabs.php:190
+#: widgets/premium_jobs_with_tabs2.php:105 widgets/recent_jobs.php:83
+#: widgets/recent_jobs_list.php:90 widgets/success_stories.php:91
+#: widgets/top_hirings.php:103 widgets/top_hirings_slider.php:100
+msgid "https://your-link.com"
+msgstr "https://your-link.com"
+
+#: widgets/call_action.php:109
+msgid "Button 2 title"
+msgstr "बटन 2 शीर्षक"
+
+#: widgets/call_action2.php:18
+msgid "Call To Action 2"
+msgstr "2 कार्रवाई करने के लिए कॉल"
+
+#: widgets/call_action2.php:77 widgets/hero_section.php:82
+msgid "Section Details"
+msgstr "अनुभाग विवरण"
+
+#: widgets/call_action3.php:18
+msgid "Call To Action 3"
+msgstr "कॉल करने के लिए कार्रवाई-3"
+
+#: widgets/call_action3.php:70 widgets/call_action4.php:70
+#: widgets/employer_slider.php:62 widgets/hero_section1.php:73
+#: widgets/jobs_cand_cat_section.php:71 widgets/search_paralex_2.php:79
+#: widgets/search_paralex_sidebar.php:65
+msgid "Section tagline"
+msgstr "खंड टैगलाइन"
+
+#: widgets/call_action4.php:18
+msgid "Call To Action 4"
+msgstr "कॉल करने के लिए कार्रवाई-4"
+
+#: widgets/call_action4.php:56
+msgid "1920 x 473"
+msgstr "1920 x 473"
+
+#: widgets/call_action4.php:62 widgets/how_works.php:69 widgets/how_works.php:164
+#: widgets/jobs_cand_cat_section.php:315
+msgid "Section Image"
+msgstr "अनुभाग छवि"
+
+#: widgets/call_action4.php:64
+msgid "692 x 463"
+msgstr "692 x 463"
+
+#: widgets/call_action4.php:94
+msgid "Count"
+msgstr "गणनाः"
+
+#: widgets/call_action4.php:102 widgets/search_paralex_sidebar.php:96
+msgid "Number"
+msgstr "संख्या"
+
+#: widgets/call_action4.php:109 widgets/search_paralex_sidebar.php:103
+msgid "Story title"
+msgstr "कहानी का शीर्षक"
+
+#: widgets/call_action4.php:117 widgets/search_paralex_sidebar.php:111
+#: widgets/success_stories.php:151
+msgid "Select"
+msgstr "चुनें"
+
+#: widgets/cand_emp_sec.php:18
+msgid "Candidate/employer Section"
+msgstr "उम्मीदवार/नियोक्ता अनुभाग"
+
+#: widgets/cand_emp_sec.php:56 widgets/hero_section1.php:222
+msgid "64 by 64"
+msgstr "४५ एक्स ४५"
+
+#: widgets/cand_emp_sec.php:63 widgets/cand_emp_sec1.php:48
+#: widgets/cand_emp_sec2.php:48 widgets/signup.php:158 widgets/signup.php:365
+msgid "Employer"
+msgstr "नियोक्ता"
+
+#: widgets/cand_emp_sec.php:70 widgets/cand_emp_sec1.php:55
+#: widgets/cand_emp_sec2.php:55
+msgid "Employer Image"
+msgstr "नियोक्ता छवि"
+
+#: widgets/cand_emp_sec.php:72 widgets/cand_emp_sec.php:123
+#: widgets/hero_section1.php:59 widgets/hero_section2.php:59
+#: widgets/main_section_paralex.php:59 widgets/search_paralex_sidebar.php:59
+msgid "1263 x 147"
+msgstr "१२६३ एक्स १४७"
+
+#: widgets/cand_emp_sec.php:78
+msgid "Employer Heading"
+msgstr "नियोक्ता शीर्षक"
+
+#: widgets/cand_emp_sec.php:85 widgets/cand_emp_sec1.php:70
+#: widgets/cand_emp_sec2.php:77
+msgid "Employer Description"
+msgstr "नियोक्ता विवरण"
+
+#: widgets/cand_emp_sec.php:92 widgets/cand_emp_sec.php:143
+#: widgets/cand_emp_sec1.php:77 widgets/cand_emp_sec1.php:129
+#: widgets/cand_emp_sec2.php:84 widgets/cand_emp_sec2.php:143
+#: widgets/categories_with_image2.php:103 widgets/categories_with_images.php:74
+#: widgets/hero_section1.php:243 widgets/how_works.php:173
+#: widgets/main_section_paralex.php:218 widgets/premium_jobs.php:140
+#: widgets/premium_jobs_grid.php:147 widgets/premium_jobs_with_tabs.php:178
+#: widgets/premium_jobs_with_tabs2.php:96 widgets/recent_jobs.php:74
+#: widgets/recent_jobs_list.php:81 widgets/signup.php:266
+#: widgets/success_stories.php:82
+msgid "Button text"
+msgstr "बटन पाठ"
+
+#: widgets/cand_emp_sec.php:114 widgets/cand_emp_sec1.php:100
+#: widgets/cand_emp_sec2.php:107
+msgid "Candidates"
+msgstr "उंमीदवारों"
+
+#: widgets/cand_emp_sec.php:121 widgets/cand_emp_sec1.php:107
+#: widgets/cand_emp_sec2.php:114
+msgid "Candidate Image"
+msgstr "उम्मीदवार छवि"
+
+#: widgets/cand_emp_sec.php:129 widgets/cand_emp_sec1.php:115
+#: widgets/cand_emp_sec2.php:129
+msgid "Candidate Heading"
+msgstr "उम्मीदवार शीर्षक"
+
+#: widgets/cand_emp_sec.php:136 widgets/cand_emp_sec1.php:122
+#: widgets/cand_emp_sec2.php:136
+msgid "Candidate Description"
+msgstr "उम्मीदवार विवरण"
+
+#: widgets/cand_emp_sec1.php:18
+msgid "Candidate/employer Section 1"
+msgstr "उम्मीदवार/नियोक्ता धारा 1"
+
+#: widgets/cand_emp_sec1.php:57 widgets/cand_emp_sec2.php:57
+msgid "570 x 303"
+msgstr "७६७ एक्स ४६७"
+
+#: widgets/cand_emp_sec1.php:63 widgets/cand_emp_sec2.php:70
+msgid "Emploer Heading"
+msgstr "एम्प्लोयर हेडिंग"
+
+#: widgets/cand_emp_sec1.php:109 widgets/cand_emp_sec2.php:116
+msgid "570 x 299"
+msgstr "७६७ एक्स ४६७"
+
+#: widgets/cand_emp_sec2.php:18
+msgid "Candidate/employer Section 2"
+msgstr "उम्मीदवार/नियोक्ता धारा 2"
+
+#: widgets/cand_emp_sec2.php:63
+msgid "Emploer Tagline"
+msgstr "एम्प्लोयर टैगलाइन"
+
+#: widgets/cand_emp_sec2.php:122
+msgid "Candidate tagline"
+msgstr "उम्मीदवार टैगलाइन"
+
+#: widgets/categories_slider.php:18
+msgid "Categories Slider"
+msgstr "बिल्लियों स्लाइडर"
+
+#: widgets/categories_slider.php:62
+msgid "Blue"
+msgstr "आसमानी"
+
+#: widgets/categories_slider.php:82 widgets/categories_slider.php:90
+#: widgets/categories_with_image2.php:137 widgets/categories_with_image2.php:157
+#: widgets/categories_with_images.php:108 widgets/categories_with_images.php:128
+#: widgets/categories_with_images_new.php:95
+#: widgets/categories_with_images_new.php:115
+#: widgets/hero_premium_section.php:131 widgets/hero_section.php:144
+#: widgets/hero_section1.php:189 widgets/main_section_paralex.php:184
+#: widgets/main_section_paralex.php:192 widgets/main_section_paralex.php:241
+#: widgets/main_section_paralex.php:249 widgets/search_paralex_2.php:148
+#: widgets/search_paralex_2.php:156 widgets/search_paralex_2_new.php:159
+#: widgets/search_paralex_2_new.php:167
+msgid "Select hot categories"
+msgstr "हॉट श्रेणियां चुनें"
+
+#: widgets/categories_slider.php:134 widgets/categories_slider.php:160
+#: widgets/categories_with_images.php:173 widgets/categories_with_images.php:200
+#: widgets/categories_with_images_new.php:165
+#: widgets/categories_with_images_new.php:203 widgets/job_location_images.php:144
+#: widgets/job_location_images.php:175 widgets/jobs_cand_cat_section.php:794
+#: widgets/main_section_paralex.php:506 widgets/main_section_paralex.php:527
+msgid "Opening"
+msgstr "खोला जा रहा है"
+
+#: widgets/categories_slider.php:136 widgets/categories_slider.php:162
+#: widgets/categories_with_image2.php:183 widgets/categories_with_image2.php:184
+#: widgets/categories_with_images.php:175 widgets/categories_with_images.php:202
+#: widgets/categories_with_images_new.php:168
+#: widgets/categories_with_images_new.php:206 widgets/emp_list.php:189
+#: widgets/job_location_images.php:146 widgets/job_location_images.php:177
+#: widgets/jobs_cand_cat_section.php:767 widgets/jobs_cand_cat_section.php:769
+#: widgets/jobs_cand_cat_section.php:796 widgets/main_section_paralex.php:508
+#: widgets/main_section_paralex.php:525
+msgid "Openings"
+msgstr "उद्घाटन"
+
+#: widgets/categories_with_image2.php:18
+msgid "Categories With Background"
+msgstr "पृष्ठभूमि के साथ श्रेणियां"
+
+#: widgets/categories_with_image2.php:47
+msgid "Images)"
+msgstr "छवियाँ"
+
+#: widgets/categories_with_image2.php:88
+msgid "Opening Text"
+msgstr "पाठ खोलना"
+
+#: widgets/categories_with_image2.php:95
+msgid "Multiple openings text"
+msgstr "एकाधिक उद्घाटन पाठ"
+
+#: widgets/categories_with_image2.php:146 widgets/categories_with_images.php:117
+#: widgets/categories_with_images_new.php:104
+#: widgets/jobs_cand_cat_section.php:246
+msgid "Category Image"
+msgstr "श्रेणी छवि"
+
+#: widgets/categories_with_image2.php:151 widgets/categories_with_images.php:122
+#: widgets/categories_with_images_new.php:109
+#: widgets/hero_premium_section.php:124 widgets/jobs_cand_cat_section.php:248
+msgid "64x64"
+msgstr "64x64"
+
+#: widgets/categories_with_images.php:18
+msgid "Categories With Images"
+msgstr "छवियों के साथ श्रेणियां"
+
+#: widgets/categories_with_images.php:55
+#: widgets/categories_with_images_new.php:55
+msgid "Select Background color"
+msgstr "पृष्ठभूमि रंग का चयन करें ।"
+
+#: widgets/categories_with_images_new.php:18
+msgid "Animated Categories"
+msgstr "एनिमेटेड श्रेणियां"
+
+#: widgets/client_with_bg.php:18
+msgid "Our Client"
+msgstr "हमारे ग्राहक"
+
+#: widgets/client_with_bg.php:66
+msgid "Clients"
+msgstr "ग्राहक"
+
+#: widgets/client_with_bg.php:75
+msgid "Select client image"
+msgstr "ग्राहक छवि का चयन करें"
+
+#: widgets/client_with_bg.php:77
+msgid "150 x 150"
+msgstr "१५० एक्स १५०"
+
+#: widgets/client_with_bg.php:83
+msgid "Client Link"
+msgstr "क्लाइंट लिंक"
+
+#: widgets/client_with_bg.php:97
+msgid "Select Clients"
+msgstr "ग्राहकों का चयन करें"
+
+#: widgets/contact_us.php:18
+msgid "Contact Us"
+msgstr "हमसे संपर्क करें"
+
+#: widgets/contact_us.php:69 widgets/pricing.php:99
+msgid "Background image"
+msgstr "पछौकड़ बिंब"
+
+#: widgets/contact_us.php:84
+msgid "Contact Form"
+msgstr "संपर्क फ़ॉर्म"
+
+#: widgets/contact_us.php:99
+msgid "Form Input"
+msgstr "प्रपत्र इनपुट"
+
+#: widgets/contact_us.php:114
+msgid "Adress"
+msgstr "पता"
+
+#: widgets/contact_us.php:121
+msgid "Email"
+msgstr "ईमेल"
+
+#: widgets/contact_us.php:128
+msgid "Phone"
+msgstr "फ़ोन"
+
+#: widgets/contact_us.php:135 widgets/signup.php:301
+msgid "Facebook"
+msgstr "Facebook"
+
+#: widgets/contact_us.php:142
+msgid "Twitter"
+msgstr "Twitter"
+
+#: widgets/contact_us.php:149 widgets/signup.php:315
+msgid "Linkedin"
+msgstr "लिंक्डइन"
+
+#: widgets/contact_us.php:156
+msgid "Google+"
+msgstr "Google+"
+
+#: widgets/contact_us.php:186 widgets/contact_us.php:188
+#: widgets/contact_us.php:190 widgets/contact_us.php:192 widgets/emp_list.php:198
+#: widgets/emp_list.php:202 widgets/emp_list.php:206 widgets/emp_list.php:210
+msgid "icon"
+msgstr "प्रतीक"
+
+#: widgets/emp_list.php:18
+msgid "Employer List"
+msgstr "नियोक्ता सूची"
+
+#: widgets/emp_list.php:54 widgets/employer_slider.php:54
+#: widgets/top_hirings.php:54 widgets/top_hirings_slider.php:54
+msgid "Select Backgroun color"
+msgstr "बैकग्रून रंग का चयन करें"
+
+#: widgets/emp_list.php:98 widgets/emp_list.php:115
+#: widgets/employer_slider.php:80 widgets/employer_slider.php:97
+#: widgets/top_hirings.php:84 widgets/top_hirings.php:115
+#: widgets/top_hirings_slider.php:80 widgets/top_hirings_slider.php:112
+msgid "Select Employers"
+msgstr "नियोक्ताओं का चयन करें"
+
+#: widgets/emp_list.php:107 widgets/employer_slider.php:89
+#: widgets/top_hirings.php:93 widgets/top_hirings_slider.php:89
+msgid "Select employer"
+msgstr "नियोक्ता का चयन करें"
+
+#: widgets/emp_list.php:224
+msgid "Followed"
+msgstr "बाद"
+
+#: widgets/emp_list.php:228
+msgid "Follow"
+msgstr "अनुसरण करें"
+
+#: widgets/employer_slider.php:18
+msgid "Top Hiring employers"
+msgstr "टॉप हायरिंग नियोक्ता"
+
+#: widgets/employer_slider.php:56
+msgid "2560*1707"
+msgstr "2560*1707"
+
+#: widgets/employer_slider.php:70 widgets/signup.php:111
+msgid "Section heading"
+msgstr "अनुभाग शीर्षक"
+
+#: widgets/featured_candidates.php:18
+msgid "Featured candidates"
+msgstr "विशेष रुप से प्रदर्शित उम्मीदवार"
+
+#: widgets/featured_candidates.php:55
+msgid "Select Bg color"
+msgstr "बीजी रंग का चयन करें"
+
+#: widgets/featured_candidates.php:78 widgets/featured_candidates2.php:88
+#: widgets/featured_candidates3.php:88 widgets/jobs_cand_cat_section.php:196
+msgid "Featured"
+msgstr "चित्रित किया"
+
+#: widgets/featured_candidates.php:79 widgets/featured_candidates2.php:89
+#: widgets/featured_candidates3.php:89 widgets/jobs_cand_cat_section.php:195
+msgid "Simple"
+msgstr "सरल"
+
+#: widgets/featured_candidates.php:167 widgets/featured_candidates2.php:172
+#: widgets/featured_candidates3.php:169 widgets/jobs_cand_cat_section.php:717
+msgid "View Profile"
+msgstr "प्रोफ़ाइल देखें"
+
+#: widgets/featured_candidates2.php:18
+msgid "Featured candidates 2"
+msgstr "विशेष रुप से प्रदर्शित उम्मीदवार"
+
+#: widgets/featured_candidates2.php:55 widgets/featured_candidates3.php:55
+msgid "Section Backgroun color"
+msgstr "सेक्शन बैकग्रून रंग"
+
+#: widgets/featured_candidates2.php:84 widgets/featured_candidates3.php:84
+msgid "Select Candidate type"
+msgstr "सभी उंमीदवार प्रकार दिखाएं"
+
+#: widgets/featured_candidates3.php:18
+msgid "Featured candidates 3"
+msgstr "विशेष रुप से प्रदर्शित उम्मीदवार"
+
+#: widgets/hero_premium_section.php:18
+msgid "Hero Premium Section "
+msgstr "हीरो अनुभाग नई"
+
+#: widgets/hero_premium_section.php:78
+msgid "Hide/show tabs and slider"
+msgstr "टैब और स्लाइडर छुपाएँ/शो करें"
+
+#: widgets/hero_premium_section.php:81 widgets/hero_premium_section.php:104
+#: widgets/hero_premium_section.php:215 widgets/hero_section.php:125
+#: widgets/hero_section.php:166 widgets/hero_section1.php:96
+#: widgets/hero_section1.php:154 widgets/hero_section2.php:108
+#: widgets/hero_section2.php:166 widgets/hero_section3.php:185
+#: widgets/hero_section3.php:243 widgets/jobs_cand_cat_section.php:172
+#: widgets/jobs_cand_cat_section.php:194 widgets/jobs_cand_cat_section.php:218
+#: widgets/jobs_cand_cat_section.php:276 widgets/premium_jobs_with_tabs.php:59
+#: widgets/premium_jobs_with_tabs.php:122
+msgid "Select an option"
+msgstr "\"इक आप्शन चुनो\""
+
+#: widgets/hero_premium_section.php:82 widgets/hero_premium_section.php:105
+#: widgets/hero_premium_section.php:216 widgets/jobs_cand_cat_section.php:173
+#: widgets/jobs_cand_cat_section.php:219 widgets/jobs_cand_cat_section.php:277
+#: widgets/premium_jobs_with_tabs.php:60 widgets/premium_jobs_with_tabs.php:123
+msgid "Show"
+msgstr "दिखाना"
+
+#: widgets/hero_premium_section.php:83 widgets/hero_premium_section.php:106
+#: widgets/hero_premium_section.php:217 widgets/jobs_cand_cat_section.php:174
+#: widgets/jobs_cand_cat_section.php:220 widgets/jobs_cand_cat_section.php:278
+#: widgets/premium_jobs_with_tabs.php:61 widgets/premium_jobs_with_tabs.php:124
+msgid "Hide"
+msgstr "छिपाना"
+
+#: widgets/hero_premium_section.php:101
+msgid "Hide/Show Categories Slider"
+msgstr "छुपाएँ/शो श्रेणियाँ स्लाइडर"
+
+#: widgets/hero_premium_section.php:114 widgets/hero_section.php:135
+#: widgets/hero_section1.php:106 widgets/hero_section1.php:115
+#: widgets/hero_section1.php:180 widgets/hero_section2.php:118
+#: widgets/hero_section2.php:127 widgets/hero_section3.php:195
+#: widgets/jobs_cand_cat_section.php:238 widgets/jobs_cand_cat_section.php:255
+#: widgets/main_section_paralex.php:94 widgets/main_section_paralex.php:102
+#: widgets/premium_jobs_with_tabs.php:90 widgets/premium_jobs_with_tabs.php:99
+#: widgets/search_paralex_sidebar.php:182
+msgid "Select categories"
+msgstr "श्रेणियां चुनें"
+
+#: widgets/hero_premium_section.php:122
+msgid "Select category image"
+msgstr "श्रेणी छवि का चयन करें"
+
+#: widgets/hero_premium_section.php:142 widgets/hero_premium_section.php:150
+msgid "Tabs"
+msgstr "अग्रिम खोज-टैब्स"
+
+#: widgets/hero_premium_section.php:153
+msgid "Select your desired"
+msgstr "अपने वांछित का चयन करें"
+
+#: widgets/hero_premium_section.php:154
+msgid "Down"
+msgstr "नीचे"
+
+#: widgets/hero_premium_section.php:155
+msgid "Left"
+msgstr "बाएं"
+
+#: widgets/hero_premium_section.php:156
+msgid "Right"
+msgstr "सही"
+
+#: widgets/hero_premium_section.php:163 widgets/premium_jobs.php:81
+#: widgets/premium_jobs.php:89 widgets/premium_jobs_grid.php:88
+#: widgets/premium_jobs_grid.php:96 widgets/premium_jobs_with_tabs.php:152
+#: widgets/premium_jobs_with_tabs2.php:76 widgets/recent_jobs.php:107
+#: widgets/recent_jobs.php:115 widgets/recent_jobs_list.php:114
+#: widgets/recent_jobs_list.php:122
+msgid "Number fo Jobs"
+msgstr "संख्या के लिए नौकरियां"
+
+#: widgets/hero_premium_section.php:171 widgets/jobs_cand_cat_section.php:93
+#: widgets/jobs_cand_cat_section.php:129
+msgid "Order By"
+msgstr "आदेश द्वारा"
+
+#: widgets/hero_premium_section.php:174 widgets/jobs_cand_cat_section.php:96
+#: widgets/jobs_cand_cat_section.php:132 widgets/premium_jobs.php:92
+#: widgets/premium_jobs_grid.php:99 widgets/premium_jobs_with_tabs.php:166
+#: widgets/premium_jobs_with_tabs2.php:87 widgets/recent_jobs.php:118
+#: widgets/recent_jobs_list.php:125
+msgid "Select Job order"
+msgstr "कार्य क्रम का चयन करें"
+
+#: widgets/hero_premium_section.php:175 widgets/jobs_cand_cat_section.php:97
+#: widgets/jobs_cand_cat_section.php:133 widgets/premium_jobs.php:93
+#: widgets/premium_jobs_grid.php:100 widgets/premium_jobs_with_tabs.php:167
+#: widgets/premium_jobs_with_tabs2.php:88 widgets/recent_jobs.php:119
+#: widgets/recent_jobs_list.php:126
+msgid "ASC"
+msgstr "Asc"
+
+#: widgets/hero_premium_section.php:176 widgets/jobs_cand_cat_section.php:98
+#: widgets/jobs_cand_cat_section.php:134 widgets/premium_jobs.php:94
+#: widgets/premium_jobs_grid.php:101 widgets/premium_jobs_with_tabs.php:168
+#: widgets/premium_jobs_with_tabs2.php:89 widgets/recent_jobs.php:120
+#: widgets/recent_jobs_list.php:127
+msgid "DESC"
+msgstr "Desc"
+
+#: widgets/hero_premium_section.php:184 widgets/hero_premium_section.php:233
+msgid "Select Job class"
+msgstr "जॉब दिनांक चुनें"
+
+#: widgets/hero_premium_section.php:192 widgets/hero_premium_section.php:241
+msgid "Select job class"
+msgstr "जॉब दिनांक चुनें"
+
+#: widgets/hero_premium_section.php:204 widgets/jobs_cand_cat_section.php:339
+msgid "Slider"
+msgstr "बिल्लियों स्लाइडर"
+
+#: widgets/hero_premium_section.php:212 widgets/jobs_cand_cat_section.php:169
+msgid "Hide/Show Slider"
+msgstr "छुपाएँ/दिखाएँ स्लाइडर"
+
+#: widgets/hero_premium_section.php:224
+msgid "Slider title"
+msgstr "स्लाइडर शीर्षक"
+
+#: widgets/hero_premium_section.php:350 widgets/hero_premium_section.php:562
+#: widgets/jobs_cand_cat_section.php:452 widgets/jobs_cand_cat_section.php:599
+#: widgets/premium_jobs.php:280 widgets/premium_jobs_grid.php:278
+#: widgets/recent_jobs.php:234
+msgid "logo"
+msgstr "लोगो"
+
+#: widgets/hero_premium_section.php:502 widgets/hero_premium_section.php:506
+#: widgets/jobs_cand_cat_section.php:558 widgets/premium_jobs_with_tabs.php:367
+msgid "Apply now"
+msgstr "अभी आवेदन  करें"
+
+#: widgets/hero_premium_section.php:510 widgets/jobs_cand_cat_section.php:473
+msgid "Apply Now"
+msgstr "अभी लागू करें"
+
+#: widgets/hero_premium_section.php:574
+msgid " Type :"
+msgstr "प्रकार:"
+
+#: widgets/hero_premium_section.php:575
+msgid "Date :"
+msgstr "दिनांक:"
+
+#: widgets/hero_premium_section.php:675 widgets/hero_section.php:427
+#: widgets/hero_section1.php:513 widgets/hero_section2.php:410
+#: widgets/hero_section3.php:498
+msgid "Search here"
+msgstr "यहाँ खोजें"
+
+#: widgets/hero_section.php:18
+msgid "Hero Section "
+msgstr "हीरो अनुभाग नई"
+
+#: widgets/hero_section.php:64
+msgid "Arrow Image"
+msgstr "तीर चिह्न"
+
+#: widgets/hero_section.php:69
+msgid "64 x 64"
+msgstr "४५ एक्स ४५"
+
+#: widgets/hero_section.php:89 widgets/hero_section2.php:73
+#: widgets/hero_section3.php:148 widgets/search_paralex_2.php:86
+#: widgets/search_paralex_2_new.php:86 widgets/search_paralex_sidebar.php:140
+msgid "Keyword title"
+msgstr "कीवर्ड शीर्षक"
+
+#: widgets/hero_section.php:96 widgets/hero_section2.php:80
+#: widgets/hero_section3.php:155 widgets/search_paralex_sidebar.php:147
+msgid "Category title"
+msgstr "श्रेणी शीर्षक"
+
+#: widgets/hero_section.php:103 widgets/hero_section2.php:87
+#: widgets/hero_section3.php:165 widgets/search_paralex_sidebar.php:154
+msgid "Location title"
+msgstr "स्थान शीर्षक"
+
+#: widgets/hero_section.php:122 widgets/hero_section1.php:93
+#: widgets/hero_section2.php:105 widgets/hero_section3.php:182
+msgid "Do you want to show Sub Categories"
+msgstr "क्या आप उप श्रेणियां दिखाना चाहते है"
+
+#: widgets/hero_section.php:126 widgets/hero_section.php:167
+#: widgets/hero_section1.php:97 widgets/hero_section1.php:155
+#: widgets/hero_section2.php:109 widgets/hero_section2.php:167
+#: widgets/hero_section3.php:186 widgets/hero_section3.php:244
+#: widgets/signin.php:81 widgets/signin.php:93 widgets/signin.php:177
+#: widgets/signup.php:81 widgets/signup.php:93 widgets/signup.php:216
+msgid "Yes"
+msgstr "हाँ"
+
+#: widgets/hero_section.php:127 widgets/hero_section.php:168
+#: widgets/hero_section1.php:98 widgets/hero_section1.php:156
+#: widgets/hero_section2.php:110 widgets/hero_section2.php:168
+#: widgets/hero_section3.php:187 widgets/hero_section3.php:245
+#: widgets/signin.php:82 widgets/signin.php:94 widgets/signin.php:178
+#: widgets/signup.php:82 widgets/signup.php:94 widgets/signup.php:217
+msgid "No"
+msgstr "नहीं"
+
+#: widgets/hero_section.php:155 widgets/hero_section1.php:125
+#: widgets/hero_section2.php:137 widgets/hero_section3.php:214
+#: widgets/job_location_images.php:73
+msgid "Location"
+msgstr "स्थान"
+
+#: widgets/hero_section.php:163 widgets/hero_section1.php:151
+#: widgets/hero_section2.php:163 widgets/hero_section3.php:240
+msgid "Do you want to show Sub location"
+msgstr "स्थान"
+
+#: widgets/hero_section.php:184 widgets/hero_section1.php:143
+#: widgets/hero_section2.php:155 widgets/hero_section3.php:232
+#: widgets/job_location_images.php:99
+msgid "Select Countries"
+msgstr "चुनिंदा देशों"
+
+#: widgets/hero_section.php:434 widgets/hero_section.php:435
+#: widgets/hero_section1.php:518 widgets/hero_section1.php:519
+#: widgets/hero_section2.php:416 widgets/hero_section2.php:417
+#: widgets/hero_section3.php:504 widgets/hero_section3.php:505
+#: widgets/main_section_paralex.php:577 widgets/main_section_paralex.php:578
+#: widgets/search_paralex_sidebar.php:398 widgets/search_paralex_sidebar.php:399
+msgid "Select Category"
+msgstr "श्रेणी का चयन करें"
+
+#: widgets/hero_section.php:443 widgets/hero_section.php:444
+#: widgets/hero_section1.php:524 widgets/hero_section1.php:525
+#: widgets/hero_section2.php:425 widgets/hero_section2.php:426
+#: widgets/hero_section3.php:513 widgets/hero_section3.php:514
+#: widgets/main_section_paralex.php:585 widgets/main_section_paralex.php:586
+#: widgets/search_paralex_2.php:333 widgets/search_paralex_2_new.php:368
+#: widgets/search_paralex_sidebar.php:405 widgets/search_paralex_sidebar.php:406
+msgid "Select Location"
+msgstr "स्थान का चयन करें"
+
+#: widgets/hero_section.php:451 widgets/hero_section1.php:531
+#: widgets/hero_section3.php:521 widgets/main_section_paralex.php:593
+#: widgets/search_paralex_2_new.php:375 widgets/search_paralex_sidebar.php:124
+#: widgets/search_paralex_sidebar.php:410
+msgid "Search"
+msgstr "खोजें"
+
+#: widgets/hero_section1.php:18
+msgid "Hero Section 1"
+msgstr "खोज"
+
+#: widgets/hero_section1.php:199
+msgid "Button Section"
+msgstr "बटन सेक्शन"
+
+#: widgets/hero_section1.php:206
+msgid "Do you want to show"
+msgstr "क्या आप दिखाना चाहते हैं"
+
+#: widgets/hero_section1.php:209 widgets/main_section_paralex.php:114
+#: widgets/main_section_paralex.php:157 widgets/search_paralex_2_new.php:132
+#: widgets/search_paralex_sidebar.php:194
+msgid "yes"
+msgstr "हाँ"
+
+#: widgets/hero_section1.php:210 widgets/main_section_paralex.php:115
+#: widgets/main_section_paralex.php:158 widgets/search_paralex_2_new.php:133
+#: widgets/search_paralex_sidebar.php:195
+msgid "no"
+msgstr "नहीं"
+
+#: widgets/hero_section1.php:236
+msgid "tagline"
+msgstr "टैगलाइन"
+
+#: widgets/hero_section2.php:18
+msgid "Hero Section 2"
+msgstr "हीरो सेक्शन 2"
+
+#: widgets/hero_section2.php:178
+msgid "Side Button"
+msgstr "साइड बटन"
+
+#: widgets/hero_section2.php:186
+msgid "side tagline"
+msgstr "साइड टैगलाइन"
+
+#: widgets/hero_section2.php:193 widgets/hero_section2.php:200
+msgid "side title"
+msgstr "साइड टाइटल"
+
+#: widgets/hero_section3.php:18
+msgid "Hero Section 3"
+msgstr "हीरो सेक्शन 3"
+
+#: widgets/hero_section3.php:54
+msgid "Section For"
+msgstr "के लिए अनुभाग"
+
+#: widgets/hero_section3.php:57
+msgid "Jobs Search"
+msgstr "नौकरियां खोज"
+
+#: widgets/hero_section3.php:58
+msgid "Employers Search"
+msgstr "नियोक्ताओं का चयन करें"
+
+#: widgets/hero_section3.php:59 widgets/pricing.php:198 widgets/pricing.php:201
+#: widgets/pricing_modern.php:188 widgets/pricing_modern.php:191
+msgid "Candidates Search"
+msgstr "उंमीदवारों खोज"
+
+#: widgets/hero_section3.php:72
+msgid "1920 x 727"
+msgstr "1920 x 727"
+
+#: widgets/hero_section3.php:81
+msgid "For color "
+msgstr "फ़ॉंट रंग"
+
+#: widgets/hero_section3.php:81
+msgid "warp text within this tag"
+msgstr "इस टैग में ताना पाठ"
+
+#: widgets/hero_section3.php:94
+msgid "Button Text"
+msgstr "बटन पाठ"
+
+#: widgets/hero_section3.php:101
+msgid "Redirection Link"
+msgstr "रीडायरेक्शन लिंक"
+
+#: widgets/hero_section3.php:115
+msgid "video button title"
+msgstr "वीडियो बटन शीर्षक"
+
+#: widgets/hero_section3.php:122
+msgid "Video Url"
+msgstr "वीडियो यूआरएल (केवल यूट्यूब)"
+
+#: widgets/hero_section3.php:124
+msgid "Only Youtube Video Link Allowed"
+msgstr "अपने वीडियो को फिर से शुरू लिंक रखो (केवल youtube)"
+
+#: widgets/hero_section3.php:133
+msgid "Search Section"
+msgstr "खोज अनुभाग"
+
+#: widgets/hero_section3.php:140
+msgid "Search Image"
+msgstr "खोज छवि"
+
+#: widgets/hero_section3.php:142
+msgid "938 x 252"
+msgstr "938 x 252"
+
+#: widgets/hero_section3.php:204
+msgid "Select categories ( All or Selective )"
+msgstr "श्रेणियां (सभी या चयनित) का चयन करें"
+
+#: widgets/how_works.php:18
+msgid "How it Works"
+msgstr "यह कैसे काम करता है"
+
+#: widgets/how_works.php:71
+msgid "1296*316"
+msgstr "1296*316"
+
+#: widgets/how_works.php:82
+msgid "Steps"
+msgstr "चरणों"
+
+#: widgets/how_works.php:91
+msgid "Select Image option"
+msgstr "इमेज ऑप्शन चुनें"
+
+#: widgets/how_works.php:103
+msgid "Add Image"
+msgstr "添加图片"
+
+#: widgets/how_works.php:110
+msgid "Add Icon"
+msgstr "添加图标"
+
+#: widgets/how_works.php:118
+msgid "Step Title"
+msgstr "सोपान आख्या"
+
+#: widgets/how_works.php:125
+msgid "Step Description"
+msgstr "स्टेप विवरण"
+
+#: widgets/how_works.php:133
+msgid "Add Steps"
+msgstr "स्टेप्स जोड़ें"
+
+#: widgets/how_works.php:143
+msgid "Second Secetion"
+msgstr "दूसरा सेशन"
+
+#: widgets/how_works.php:166
+msgid "570x468"
+msgstr "570x468"
+
+#: widgets/job_location_images.php:18
+msgid "Location With Images"
+msgstr "छवियों के साथ स्थान"
+
+#: widgets/job_location_images.php:91
+msgid "Select Image"
+msgstr "चित्र चुने"
+
+#: widgets/job_location_images.php:93 widgets/top_hirings_slider.php:91
+msgid "190 x 125"
+msgstr "190 x 125"
+
+#: widgets/jobs_cand_cat_section.php:18
+msgid "Jobs,Candidates And Categories"
+msgstr "नौकरियां, उम्मीदवार और श्रेणियां"
+
+#: widgets/jobs_cand_cat_section.php:78
+msgid "Latest Job Tab Name"
+msgstr "नवीनतम नौकरी टैब नाम"
+
+#: widgets/jobs_cand_cat_section.php:85
+msgid "Latest Job number"
+msgstr "नवीनतम नौकरी संख्या"
+
+#: widgets/jobs_cand_cat_section.php:107
+msgid "Premium jobs"
+msgstr "प्रीमियम नौकरियां"
+
+#: widgets/jobs_cand_cat_section.php:114
+msgid "Premium Job Tab Name"
+msgstr "प्रीमियम जॉब टैब नाम"
+
+#: widgets/jobs_cand_cat_section.php:121
+msgid "Premium job Number"
+msgstr "प्रीमियम जॉब नंबर"
+
+#: widgets/jobs_cand_cat_section.php:142
+msgid "Select job Class"
+msgstr "जॉब दिनांक चुनें"
+
+#: widgets/jobs_cand_cat_section.php:150 widgets/premium_jobs.php:114
+#: widgets/premium_jobs_grid.php:121 widgets/premium_jobs_with_tabs.php:207
+#: widgets/premium_jobs_with_tabs2.php:119
+msgid "Select Job Class"
+msgstr "जॉब दिनांक चुनें"
+
+#: widgets/jobs_cand_cat_section.php:161
+msgid "Candidate slider"
+msgstr "उम्मीदवार स्लाइडर"
+
+#: widgets/jobs_cand_cat_section.php:181
+msgid "Slider Title"
+msgstr "स्लाइडर शीर्षक"
+
+#: widgets/jobs_cand_cat_section.php:191
+msgid "Select Candidates Type"
+msgstr "उम्मीदवारों का चयन प्रकार"
+
+#: widgets/jobs_cand_cat_section.php:215
+msgid "Hide/Show Categories"
+msgstr "श्रेणियां छुपाएं/दिखाएं"
+
+#: widgets/jobs_cand_cat_section.php:265 widgets/jobs_cand_cat_section.php:341
+msgid "Qoute"
+msgstr "क्यूउट"
+
+#: widgets/jobs_cand_cat_section.php:273
+msgid "Hide/Show Qoute"
+msgstr "छिपाएं/Qoute दिखाएं"
+
+#: widgets/jobs_cand_cat_section.php:328 widgets/jobs_cand_cat_section.php:347
+msgid "Sorter"
+msgstr "सॉर्टर"
+
+#: widgets/jobs_cand_cat_section.php:336
+msgid "Sort it"
+msgstr "इसके द्वारा सॉर्ट करें"
+
+#: widgets/jobs_cand_cat_section.php:457 widgets/jobs_cand_cat_section.php:604
+msgid "Type:"
+msgstr "प्रकार:"
+
+#: widgets/jobs_cand_cat_section.php:460 widgets/jobs_cand_cat_section.php:607
+#: widgets/premium_jobs.php:293
+msgid "Time:"
+msgstr "समय:"
+
+#: widgets/jobs_cand_cat_section.php:560 widgets/premium_jobs_with_tabs.php:369
+msgid "Applied"
+msgstr "पर लागू"
+
+#: widgets/jobs_cand_cat_section.php:705
+msgid "Profile picture"
+msgstr "प्रोफ़ाइल चित्र"
+
+#: widgets/main_section_paralex.php:18
+msgid "Advance Search - Tabs"
+msgstr "अग्रिम खोज-टैब्स"
+
+#: widgets/main_section_paralex.php:84 widgets/search_paralex_sidebar.php:164
+msgid "categories"
+msgstr "श्रेणियाँ"
+
+#: widgets/main_section_paralex.php:110 widgets/main_section_paralex.php:153
+#: widgets/search_paralex_2_new.php:128
+msgid "Do you want to show sub locations"
+msgstr "क्या आप उप स्थान दिखाना चाहते हैं"
+
+#: widgets/main_section_paralex.php:128 widgets/search_paralex_2.php:102
+#: widgets/search_paralex_2_new.php:102 widgets/search_paralex_sidebar.php:204
+msgid "Countries"
+msgstr "देशों"
+
+#: widgets/main_section_paralex.php:145 widgets/search_paralex_2.php:119
+#: widgets/search_paralex_2_new.php:119 widgets/search_paralex_sidebar.php:221
+msgid "Select Countries ( All or Selective )"
+msgstr "देशों का चयन करें (सभी या चयनात्मक)"
+
+#: widgets/main_section_paralex.php:204
+msgid "Slider Cats"
+msgstr "स्लाइडर बिल्लियों"
+
+#: widgets/main_section_paralex.php:571 widgets/search_paralex_2.php:327
+#: widgets/search_paralex_sidebar.php:394
+msgid "Search Keyword"
+msgstr "कीवर्ड खोजें"
+
+#: widgets/premium_jobs.php:18
+msgid "Premium Jobs"
+msgstr "प्रीमियम नौकरियां"
+
+#: widgets/premium_jobs.php:72 widgets/premium_jobs_grid.php:72
+#: widgets/recent_jobs.php:98 widgets/recent_jobs_list.php:105
+msgid "Settings"
+msgstr "भाषा बदलें"
+
+#: widgets/premium_jobs.php:105 widgets/premium_jobs_grid.php:112
+msgid "Job Class"
+msgstr "नौकरी वर्ग"
+
+#: widgets/premium_jobs.php:122 widgets/premium_jobs_grid.php:129
+#: widgets/premium_jobs_with_tabs.php:215 widgets/premium_jobs_with_tabs2.php:127
+msgid "Select Your Desired ones"
+msgstr "अपने वांछित लोगों का चयन करें"
+
+#: widgets/premium_jobs.php:133 widgets/premium_jobs_grid.php:140
+msgid "Links"
+msgstr "लिंक"
+
+#: widgets/premium_jobs.php:292
+msgid "Type"
+msgstr "प्रकार"
+
+#: widgets/premium_jobs_grid.php:18
+msgid "Premium Jobs Grid"
+msgstr "प्रीमियम नौकरियां"
+
+#: widgets/premium_jobs_grid.php:80
+msgid "Title Limit"
+msgstr "आख्या सीमा"
+
+#: widgets/premium_jobs_with_tabs.php:18
+msgid "Premium Jobs Tabs"
+msgstr "प्रीमियम नौकरियां टैब"
+
+#: widgets/premium_jobs_with_tabs.php:56 widgets/premium_jobs_with_tabs.php:119
+msgid "Hide/Show Tabs"
+msgstr "छुपाएं/दिखाएं टैब"
+
+#: widgets/premium_jobs_with_tabs.php:112 widgets/premium_jobs_with_tabs2.php:69
+msgid "Job Tab"
+msgstr "जॉब टैब"
+
+#: widgets/premium_jobs_with_tabs.php:163
+msgid "Job Order"
+msgstr "नौकरी का आदेश"
+
+#: widgets/premium_jobs_with_tabs2.php:18
+msgid "Premium Jobs Tab2"
+msgstr "प्रीमियम नौकरियां Tab2"
+
+#: widgets/premium_jobs_with_tabs2.php:84
+msgid "Job order"
+msgstr "नौकरी का आदेश"
+
+#: widgets/pricing.php:18
+msgid "Pricing"
+msgstr "मूल्य निर्धारण"
+
+#: widgets/pricing.php:48 widgets/success_stories.php:48
+msgid "Background Options)"
+msgstr "पृष्ठभूमि विकल्प"
+
+#: widgets/pricing.php:55
+msgid "Select background options"
+msgstr "पृष्ठभूमि विकल्प का चयन करें"
+
+#: widgets/pricing.php:59
+msgid "With image"
+msgstr "छवि के साथ"
+
+#: widgets/pricing.php:60
+msgid "Without image"
+msgstr "छवि के बिना"
+
+#: widgets/pricing.php:92 widgets/pricing_modern.php:72
+msgid "Jobs Text"
+msgstr "कार्य पाठ"
+
+#: widgets/pricing.php:107
+msgid "Price Image"
+msgstr "मूल्य छवि"
+
+#: widgets/pricing.php:119 widgets/pricing_cand.php:131
+#: widgets/pricing_modern.php:84
+msgid "Products"
+msgstr "उत्पादों"
+
+#: widgets/pricing.php:127 widgets/pricing_cand.php:139
+#: widgets/pricing_modern.php:92
+msgid "Select Product"
+msgstr "उत्पाद का चयन करें"
+
+#: widgets/pricing.php:135 widgets/pricing_cand.php:155
+#: widgets/pricing_modern.php:115
+msgid "Select Products"
+msgstr "उत्पादों का चयन करें"
+
+#: widgets/pricing.php:168 widgets/pricing_modern.php:144
+msgid "Jobs"
+msgstr "जॉब"
+
+#: widgets/pricing.php:189 widgets/pricing.php:192 widgets/pricing_cand.php:183
+#: widgets/pricing_modern.php:159 widgets/pricing_modern.php:162
+msgid "Validity"
+msgstr "वैधता"
+
+#: widgets/pricing.php:189 widgets/pricing.php:212 widgets/pricing.php:223
+#: widgets/pricing_cand.php:194 widgets/pricing_modern.php:159
+#: widgets/pricing_modern.php:169 widgets/pricing_modern.php:179
+msgid "Lifetime"
+msgstr "जीवन"
+
+#: widgets/pricing.php:192 widgets/pricing.php:226 widgets/pricing_cand.php:197
+#: widgets/pricing_cand.php:215 widgets/pricing_modern.php:162
+#: widgets/pricing_modern.php:182
+msgid "Days"
+msgstr "दिन"
+
+#: widgets/pricing.php:198 widgets/pricing.php:236 widgets/pricing_cand.php:202
+#: widgets/pricing_modern.php:188 widgets/pricing_modern.php:202
+msgid "Unlimited"
+msgstr "अनसंभ"
+
+#: widgets/pricing.php:212 widgets/pricing.php:215 widgets/pricing_modern.php:169
+#: widgets/pricing_modern.php:172
+msgid "Bump up Jobs"
+msgstr "नौकरियों को टक्कर"
+
+#: widgets/pricing.php:223 widgets/pricing.php:226 widgets/pricing_modern.php:179
+#: widgets/pricing_modern.php:182
+msgid "Featured profile"
+msgstr "विशेष रुप से प्रदर्शित प्रोफ़ाइल"
+
+#: widgets/pricing.php:264 widgets/pricing_cand.php:227
+#: widgets/pricing_modern.php:236
+msgid "Free"
+msgstr "मुफ्त"
+
+#: widgets/pricing.php:282 widgets/pricing_cand.php:243
+#: widgets/pricing_cand.php:257 widgets/pricing_modern.php:253
+msgid "Select Plan"
+msgstr "योजना का चयन करें"
+
+#: widgets/pricing_cand.php:18
+msgid "Pricing Candidates"
+msgstr "मूल्य निर्धारण उम्मीदवार"
+
+#: widgets/pricing_cand.php:50
+msgid "Background options"
+msgstr "पृष्ठभूमि विकल्प"
+
+#: widgets/pricing_cand.php:57
+msgid "Section Background"
+msgstr "सेक्शन बैकग्राउंड"
+
+#: widgets/pricing_cand.php:70
+msgid "Section Layout"
+msgstr "सेक्शन लेआउट"
+
+#: widgets/pricing_cand.php:74
+msgid "Style 1"
+msgstr "शैली 1"
+
+#: widgets/pricing_cand.php:75
+msgid "Style 2"
+msgstr "शैली 2"
+
+#: widgets/pricing_cand.php:105
+msgid "Validity txt"
+msgstr "वैधता txt"
+
+#: widgets/pricing_cand.php:112
+msgid "Jobs applied text"
+msgstr "नौकरियां लागू"
+
+#: widgets/pricing_cand.php:120
+msgid "Featured Profile text"
+msgstr "निजी प्रोफ़ाइल पाठ"
+
+#: widgets/pricing_cand.php:147 widgets/pricing_modern.php:100
+msgid "product Description"
+msgstr "उत्पाद विवरण"
+
+#: widgets/pricing_cand.php:185
+msgid "Number Of Jobs"
+msgstr "संख्या में नौकरियां"
+
+#: widgets/pricing_cand.php:187
+msgid "Featured Profile For"
+msgstr "विशेष रुप से प्रदर्शित प्रोफ़ाइल (Y-mm-dd)"
+
+#: widgets/pricing_cand.php:212
+msgid "Unlimited Days"
+msgstr "असीमित दिन"
+
+#: widgets/pricing_modern.php:18
+msgid "Pricing Modern"
+msgstr "मूल्य निर्धारण आधुनिक"
+
+#: widgets/pricing_modern.php:107
+msgid "Product Bg Image"
+msgstr "उत्पाद बीजी छवि"
+
+#: widgets/pricing_modern.php:109
+msgid "370 x 520"
+msgstr "अनुशंसित आकार (३७० X ५००)"
+
+#: widgets/recent_jobs.php:18
+msgid "Recent Jobs"
+msgstr "हाल ही में नौकरियां"
+
+#: widgets/recent_jobs.php:55 widgets/recent_jobs_list.php:55
+msgid "Background Color"
+msgstr "पृष्ठभूमि रंग का चयन करें ।"
+
+#: widgets/recent_jobs.php:81 widgets/recent_jobs_list.php:88
+msgid "Button Link"
+msgstr "बटन लिंक"
+
+#: widgets/recent_jobs_list.php:18
+msgid "Latest Jobs List"
+msgstr "नवीनतम नौकरियां सूची"
+
+#: widgets/recent_jobs_list.php:74
+msgid "Section Descripton"
+msgstr "सेक्शन वर्णन"
+
+#: widgets/search_paralex_2.php:18
+msgid "Search paralex 2"
+msgstr "खोज परएलेक्स 2"
+
+#: widgets/search_paralex_2.php:64 widgets/search_paralex_2_new.php:64
+msgid "Arrow Icons"
+msgstr "तीर चिह्न"
+
+#: widgets/search_paralex_2.php:93 widgets/search_paralex_2_new.php:93
+msgid "Country title"
+msgstr "देश का शीर्षक"
+
+#: widgets/search_paralex_2_new.php:18
+msgid "Hero Section new"
+msgstr "हीरो अनुभाग नई"
+
+#: widgets/search_paralex_2_new.php:362
+msgid "Keyword"
+msgstr "कुंजी-शब्द"
+
+#: widgets/search_paralex_sidebar.php:18
+msgid "Paralex with side search"
+msgstr "पार्श् व खोज के साथ पैराएलेक्स"
+
+#: widgets/search_paralex_sidebar.php:88
+msgid "Add Story"
+msgstr "स्टोरी जोड़ें"
+
+#: widgets/search_paralex_sidebar.php:133
+msgid "Sidebar title"
+msgstr "साइडबार शीर्षक"
+
+#: widgets/search_paralex_sidebar.php:174
+msgid "Select  category"
+msgstr "वर्ग चुनें"
+
+#: widgets/search_paralex_sidebar.php:190
+msgid "Do you want to show sub Category"
+msgstr "क्या आप उप श्रेणी दिखाना चाहते हैं"
+
+#: widgets/signin.php:18
+msgid "Sign In"
+msgstr "साइन इन"
+
+#: widgets/signin.php:55 widgets/signup.php:55
+msgid "Main Heading"
+msgstr "मुख्य शीर्षक"
+
+#: widgets/signin.php:69 widgets/signup.php:69
+msgid "Backgorund Image"
+msgstr "बैकगोरुंड इमेज"
+
+#: widgets/signin.php:77
+msgid "Remember me"
+msgstr "मुझे याद"
+
+#: widgets/signin.php:89 widgets/signup.php:89
+msgid "Show/hide Show password"
+msgstr "शो/हाइड शो पासवर्ड"
+
+#: widgets/signin.php:104 widgets/signup.php:103
+msgid "Fields name"
+msgstr "फ़ील्ड का नाम"
+
+#: widgets/signin.php:112
+msgid "Page heading"
+msgstr "पृष्ठ शीर्ष"
+
+#: widgets/signin.php:119
+msgid "Email address"
+msgstr "ई-मेल सिरनामां"
+
+#: widgets/signin.php:126 widgets/signup.php:132
+msgid "Password Text"
+msgstr "पासवर्ड पाठ"
+
+#: widgets/signin.php:133
+msgid "Forgot Password Text"
+msgstr "पासवर्ड भूल गए पाठ"
+
+#: widgets/signin.php:140
+msgid "Submit Button Text"
+msgstr "बटन टेक्स्ट सबमिट करें"
+
+#: widgets/signin.php:147
+msgid "Already acount text"
+msgstr "पहले से ही acount पाठ"
+
+#: widgets/signin.php:154
+msgid "Signup text"
+msgstr "साइनअप पाठ"
+
+#: widgets/signin.php:165
+msgid "Social fields"
+msgstr "सामाजिक क्षेत्र"
+
+#: widgets/signin.php:173
+msgid "Sidebar"
+msgstr "साइडबार"
+
+#: widgets/signin.php:186
+msgid "heading"
+msgstr "शीर्षक"
+
+#: widgets/signin.php:204 widgets/success_stories.php:131
+#: widgets/success_stories1.php:134 widgets/success_stories_slider.php:111
+msgid "Description"
+msgstr "विवरण"
+
+#: widgets/signin.php:222
+msgid "Facebook txt"
+msgstr "फेसबुक txt"
+
+#: widgets/signin.php:240
+msgid "Gmail txt"
+msgstr "जीमेल टेक्सट"
+
+#: widgets/signin.php:258
+msgid "Linkedin text"
+msgstr "लिंक्डइन पाठ"
+
+#: widgets/signin.php:316 widgets/signup.php:353
+msgid "Your Email"
+msgstr "आपका ईमेल"
+
+#: widgets/signin.php:318 widgets/signup.php:355
+msgid "Your Password"
+msgstr "अपना पासवर्ड"
+
+#: widgets/signin.php:387
+msgid "Forgot your password?"
+msgstr "अपना पासवर्ड भूल गए हैं?"
+
+#: widgets/signup.php:18
+msgid "Sign Up"
+msgstr "साइन अप"
+
+#: widgets/signup.php:77
+msgid "Show/hide Show confirm  password field"
+msgstr "शो/हाइड शो पासवर्ड फ़ील्ड की पुष्टि करें"
+
+#: widgets/signup.php:118
+msgid "Name Txt"
+msgstr "नाम Txt"
+
+#: widgets/signup.php:125
+msgid "Email Txt"
+msgstr "ईमेल Txt"
+
+#: widgets/signup.php:139
+msgid "Employer Button text"
+msgstr "नियोक्ता बटन पाठ"
+
+#: widgets/signup.php:146
+msgid "Candidate Button text"
+msgstr "उंमीदवार बटन पाठ"
+
+#: widgets/signup.php:153
+msgid "Default user"
+msgstr "डिफ़ॉल्ट उपयोगकर्ता"
+
+#: widgets/signup.php:156 widgets/signup.php:246
+msgid "Select desired"
+msgstr "इच्छित का चयन करें"
+
+#: widgets/signup.php:157 widgets/signup.php:367
+msgid "Candidate"
+msgstr "उम्मीदवार"
+
+#: widgets/signup.php:166
+msgid "Agrement Text"
+msgstr "मूल पाठ"
+
+#: widgets/signup.php:174
+msgid "Agrement Link"
+msgstr "ग्रेमेंट लिंक"
+
+#: widgets/signup.php:181
+msgid "Registe Button txt"
+msgstr "रेजिस्ट बटन txt"
+
+#: widgets/signup.php:188
+msgid "Already registerd text"
+msgstr "पहले से ही दर्ज किया गया पाठ"
+
+#: widgets/signup.php:195
+msgid "Login text"
+msgstr "लॉगिन पाठ"
+
+#: widgets/signup.php:205 widgets/signup.php:291
+msgid "Sidebar Section"
+msgstr "साइडबार सेक्शन"
+
+#: widgets/signup.php:212
+msgid "Hide/show sidebar"
+msgstr "शीर्ष पट्टी छुपाएं/"
+
+#: widgets/signup.php:227
+msgid "Sidebar heading"
+msgstr "साइडबार शीर्षक"
+
+#: widgets/signup.php:234
+msgid "Sidebar Details"
+msgstr "साइडबार विवरण"
+
+#: widgets/signup.php:243
+msgid "Select points/social buttons"
+msgstr "चुनें अंक/"
+
+#: widgets/signup.php:247
+msgid "Points"
+msgstr "अंक"
+
+#: widgets/signup.php:248
+msgid "Social buttons"
+msgstr "सामाजिक बटन"
+
+#: widgets/signup.php:257
+msgid "Points separate with | sign"
+msgstr "अंक के साथ अलग । संकेत"
+
+#: widgets/signup.php:276
+msgid "Button link"
+msgstr "बटन लिंक"
+
+#: widgets/signup.php:308
+msgid "Gmail"
+msgstr "जीमेल"
+
+#: widgets/signup.php:351
+msgid "Your Name"
+msgstr "आपका नाम"
+
+#: widgets/signup.php:369
+msgid "Already registered, login here."
+msgstr "पहले से ही पंजीकृत है, यहां लॉगिन ।"
+
+#: widgets/success_stories.php:18
+msgid "Success Stories"
+msgstr "सफलता की कहानियां"
+
+#: widgets/success_stories.php:55 widgets/success_stories1.php:77
+#: widgets/success_stories_slider.php:55
+msgid "Select background color"
+msgstr "पृष्ठभूमि रंग का चयन करें ।"
+
+#: widgets/success_stories.php:108 widgets/success_stories1.php:111
+#: widgets/success_stories_slider.php:88
+msgid "Story Section"
+msgstr "स्टोरी सेक्शन"
+
+#: widgets/success_stories.php:117 widgets/success_stories1.php:120
+#: widgets/success_stories_slider.php:97
+msgid "Story Title"
+msgstr "कहानी का शीर्षक"
+
+#: widgets/success_stories.php:124 widgets/success_stories1.php:127
+#: widgets/success_stories_slider.php:104
+msgid "Designation"
+msgstr "औहदा"
+
+#: widgets/success_stories.php:138 widgets/success_stories1.php:141
+#: widgets/success_stories_slider.php:118
+msgid "Client Image"
+msgstr "क्लाइंट छवि"
+
+#: widgets/success_stories.php:143 widgets/success_stories_slider.php:123
+msgid "45 x 45"
+msgstr "45 x 45"
+
+#: widgets/success_stories1.php:18
+msgid "Success Stories 1"
+msgstr "सफलता की कहानियां 1"
+
+#: widgets/success_stories1.php:48 widgets/success_stories_slider.php:48
+msgid "Background Options"
+msgstr "पृष्ठभूमि विकल्प"
+
+#: widgets/success_stories1.php:55
+msgid "Select background option"
+msgstr "बैकग्राउंड ऑप्शन चुनें"
+
+#: widgets/success_stories1.php:59
+msgid "Color"
+msgstr "रंग"
+
+#: widgets/success_stories1.php:146
+msgid "76 x 76"
+msgstr "76 x 76"
+
+#: widgets/success_stories1.php:152
+msgid "Quote Image"
+msgstr "कोट छवि"
+
+#: widgets/success_stories1.php:157
+msgid "102 x 78"
+msgstr "102 x 78"
+
+#: widgets/success_stories1.php:165 widgets/success_stories_slider.php:132
+msgid "Add Stories"
+msgstr "कहानियाँ जोड़ें"
+
+#: widgets/success_stories_slider.php:18
+msgid "Success Stories Slider"
+msgstr "सफलता की कहानियां स्लाइडर"
+
+#: widgets/top_hirings.php:18
+msgid "Top Hiring"
+msgstr "टॉप हायरिंग"
+
+#: widgets/top_hirings_slider.php:18
+msgid "Top Hiring Slider"
+msgstr "टॉप हायरिंग स्लाइडर"
+
+#: widgets/top_hirings_slider.php:56
+msgid "1920 x 448"
+msgstr "1920 x 448"
+
+#. Plugin Name of the plugin/theme
+msgid "Nokri Elementor Widgets"
+msgstr "नोकरी एलिमेंटेटर विजेट्स"
+
+#. Theme URI of the plugin/theme
+msgid "https://jobs.nokriwp.com/"
+msgstr "https://jobs.nokriwp.com/"
+
+#. Description of the plugin/theme
+msgid "This plugin is essential for the proper theme funcationality."
+msgstr "इस प्लगइन उचित विषय funcationality के लिए आवश्यक है ।"
+
+#. Author of the plugin/theme
+msgid "Scripts Bundle"
+msgstr "स्क्रिप्ट बंडल"
+
+#. Author URI of the plugin/theme
+msgid "http://scriptsbundle.com/"
+msgstr "http://scriptsbundle.com/"

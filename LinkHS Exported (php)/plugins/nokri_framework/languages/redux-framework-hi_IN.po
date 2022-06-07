@@ -1,0 +1,3908 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Project-Id-Version: Nokri Framework\n"
+"POT-Creation-Date: 2021-11-17 19:03+0500\n"
+"PO-Revision-Date: 2021-11-17 19:03+0500\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: hi_IN\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: cpt/custom-feilds.php:5
+msgctxt "Post Type General Name"
+msgid "Custom Fields"
+msgstr "कस्टम फ़ील्ड"
+
+#: cpt/custom-feilds.php:6
+msgctxt "Post Type Singular Name"
+msgid "Custom Feild"
+msgstr "कस्टम फेल्ड"
+
+#: cpt/custom-feilds.php:7
+msgid "Custom Fields"
+msgstr "कस्टम फ़ील्ड"
+
+#: cpt/custom-feilds.php:8 cpt/custom-feilds.php:34
+msgid "Custom Feild"
+msgstr "कस्टम फेल्ड"
+
+#: cpt/custom-feilds.php:9
+msgid "Item Archives"
+msgstr "आइटम अभिलेखागार"
+
+#: cpt/custom-feilds.php:10
+msgid "Item Attributes"
+msgstr "आइटम विशेषताएं"
+
+#: cpt/custom-feilds.php:11 job_post/custom-category-templates.php:742
+msgid "Parent Item:"
+msgstr "पैरेंट आइटम:"
+
+#: cpt/custom-feilds.php:12 job_post/custom-category-templates.php:740
+msgid "All Items"
+msgstr "सभी आइटम"
+
+#: cpt/custom-feilds.php:13 job_post/custom-category-templates.php:744
+msgid "Add New Item"
+msgstr "नया आइटम जोड़ें"
+
+#: cpt/custom-feilds.php:14
+msgid "Add New"
+msgstr "नया जोड़ें"
+
+#: cpt/custom-feilds.php:15
+msgid "New Item"
+msgstr "नया आइटम"
+
+#: cpt/custom-feilds.php:16 job_post/custom-category-templates.php:745
+msgid "Edit Item"
+msgstr "कार्य संपादित करें"
+
+#: cpt/custom-feilds.php:17 job_post/custom-category-templates.php:746
+msgid "Update Item"
+msgstr "आइटम अद्यतन करें"
+
+#: cpt/custom-feilds.php:18 job_post/custom-category-templates.php:747
+msgid "View Item"
+msgstr "प्रोफाइल दिक्खो"
+
+#: cpt/custom-feilds.php:19
+msgid "View Items"
+msgstr "आइटम देखें"
+
+#: cpt/custom-feilds.php:20
+msgid "Search Item"
+msgstr "खोज आइटम"
+
+#: cpt/custom-feilds.php:21
+msgid "Not found"
+msgstr "नहीं मिला"
+
+#: cpt/custom-feilds.php:22
+msgid "Not found in Trash"
+msgstr "कोई प्रत्याशी नहीं मिला"
+
+#: cpt/custom-feilds.php:23
+msgid "Featured Image"
+msgstr "निरूपित चित्र"
+
+#: cpt/custom-feilds.php:24
+msgid "Set featured image"
+msgstr "फ़ीचर्ड छवि सेट करें"
+
+#: cpt/custom-feilds.php:25
+msgid "Remove featured image"
+msgstr "फ़ीचर्ड छवि निकालें"
+
+#: cpt/custom-feilds.php:26
+msgid "Use as featured image"
+msgstr "फ़ीचर्ड छवि के रूप में उपयोग करें"
+
+#: cpt/custom-feilds.php:27
+msgid "Insert into item"
+msgstr "आइटम में संमिलित करें"
+
+#: cpt/custom-feilds.php:28
+msgid "Uploaded to this item"
+msgstr "इस आइटम पर अपलोड किया गया"
+
+#: cpt/custom-feilds.php:29 job_post/custom-category-templates.php:755
+msgid "Items list"
+msgstr "आइटम सूची"
+
+#: cpt/custom-feilds.php:30 job_post/custom-category-templates.php:756
+msgid "Items list navigation"
+msgstr "आइटम सूची नेविगेशन"
+
+#: cpt/custom-feilds.php:31
+msgid "Filter items list"
+msgstr "आइटम सूची फ़िल्टर करें"
+
+#: cpt/custom-feilds.php:35
+msgid "Post Type Description"
+msgstr "पोस्ट प्रकार विवरण"
+
+#: cpt/custom-feilds.php:75
+msgid "Custom Fields For"
+msgstr "कस्टम फ़ील्ड"
+
+#: cpt/custom-feilds.php:90
+msgid "Select Fields For"
+msgstr "अतिरिक्त फ़ील्ड्स"
+
+#: cpt/custom-feilds.php:92
+msgid "Registration"
+msgstr "पंजीकरण"
+
+#: cpt/custom-feilds.php:93 functions.php:1088 index.php:268
+#: user_profile/index.php:124
+msgid "Candidate"
+msgstr "उम्मीदवार"
+
+#: cpt/custom-feilds.php:94 functions.php:1090 index.php:263
+#: user_profile/index.php:119
+msgid "Employer"
+msgstr "नियोक्ता"
+
+#: cpt/custom-feilds.php:136
+msgid "Create Custom Fields Below"
+msgstr "नीचे कस्टम Feilds बनाएँ"
+
+#: cpt/custom-feilds.php:162 cpt/custom-feilds.php:259
+msgid "select an option"
+msgstr "\"इक आप्शन चुनो\""
+
+#: cpt/custom-feilds.php:164 cpt/custom-feilds.php:259
+msgid "Select Required Field"
+msgstr "आवश्यक फ़ील्ड का चयन करें"
+
+#: cpt/custom-feilds.php:165 cpt/custom-feilds.php:259
+msgid "Input"
+msgstr "इनपुट - संख्या रेंज"
+
+#: cpt/custom-feilds.php:166 cpt/custom-feilds.php:259
+msgid "RadioButton"
+msgstr "रेडियो बटन"
+
+#: cpt/custom-feilds.php:167 cpt/custom-feilds.php:259
+msgid "Select Box"
+msgstr "बॉक्स का चयन करें"
+
+#: cpt/custom-feilds.php:168 cpt/custom-feilds.php:259
+msgid "Text Area"
+msgstr "पाठ क्षेत्र"
+
+#: cpt/custom-feilds.php:169 cpt/custom-feilds.php:259 cpt/job-board.php:1219
+msgid "Date"
+msgstr "दिनांक"
+
+#: cpt/custom-feilds.php:170 cpt/custom-feilds.php:259
+msgid "Number"
+msgstr "संख्या"
+
+#: cpt/custom-feilds.php:174 cpt/custom-feilds.php:259
+msgid " Enter Field Label"
+msgstr "फ़ील्ड लेबल दर्ज करें"
+
+#: cpt/custom-feilds.php:178
+msgid "Enter Values (Separate each value with | sign)"
+msgstr "मान दर्ज करें (प्रत्येक मान को $ चिह्न से अलग करें)"
+
+#: cpt/custom-feilds.php:182 cpt/custom-feilds.php:259
+msgid "Is Field required"
+msgstr "फ़ील्ड आवश्यक है"
+
+#: cpt/custom-feilds.php:184 cpt/custom-feilds.php:192
+#: cpt/custom-feilds.php:259 cpt/job-board.php:905 index.php:242 index.php:328
+#: job_post/custom-category-templates.php:72
+#: job_post/custom-category-templates.php:97
+#: job_post/custom-category-templates.php:637
+#: job_post/custom-category-templates.php:661
+msgid "Yes"
+msgstr "हाँ"
+
+#: cpt/custom-feilds.php:185 cpt/custom-feilds.php:193
+#: cpt/custom-feilds.php:259 cpt/job-board.php:912 index.php:247 index.php:333
+#: job_post/custom-category-templates.php:73
+#: job_post/custom-category-templates.php:98
+#: job_post/custom-category-templates.php:638
+#: job_post/custom-category-templates.php:662
+msgid "No"
+msgstr "नहीं"
+
+#: cpt/custom-feilds.php:190
+msgid "Is field show in public profile"
+msgstr "सार्वजनिक प्रोफ़ाइल में फ़ील्ड शो है"
+
+#: cpt/custom-feilds.php:202 cpt/job-board.php:946
+msgid "+ Add More"
+msgstr "अधिक जोड़ें"
+
+#: cpt/custom-feilds.php:259
+msgid "Enter Values (Separate each value with | sign) "
+msgstr "मान दर्ज करें (प्रत्येक मान को $ चिह्न से अलग करें)"
+
+#: cpt/custom-feilds.php:259
+msgid "Is Field show in public profile"
+msgstr "सार्वजनिक प्रोफ़ाइल में फ़ील्ड शो है"
+
+#: cpt/index.php:97
+msgid "Ribbion Text"
+msgstr "रिबबियन पाठ"
+
+#: cpt/index.php:102
+msgid "Green"
+msgstr "हरा"
+
+#: cpt/index.php:105
+msgid "Purple"
+msgstr "बैंगनी"
+
+#: cpt/job-board.php:9
+msgid "Nokri JobBoard"
+msgstr "नोकरी जॉबोर्ड"
+
+#: cpt/job-board.php:38 job_post/custom-category-templates.php:1366
+msgid "Categories"
+msgstr "श्रेणियाँ"
+
+#: cpt/job-board.php:47
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:47
+msgid "Type"
+msgstr "प्रकार"
+
+#: cpt/job-board.php:56
+msgid "Qualifications"
+msgstr "नौकरी की योग्यता"
+
+#: cpt/job-board.php:65
+msgid "Level"
+msgstr "लेवल"
+
+#: cpt/job-board.php:74
+msgid "Salary"
+msgstr "वेतन"
+
+#: cpt/job-board.php:83
+msgid "Salary Type"
+msgstr "वेतन"
+
+#: cpt/job-board.php:93
+msgid "Experience"
+msgstr "अनुभव"
+
+#: cpt/job-board.php:102
+msgid "Currency"
+msgstr "मुद्रा"
+
+#: cpt/job-board.php:111
+msgid "Shift"
+msgstr "Shift"
+
+#: cpt/job-board.php:120
+msgid "Skills"
+msgstr "कौशल"
+
+#: cpt/job-board.php:128
+msgid "Specilization"
+msgstr "स्पेकलाइजेशन"
+
+#: cpt/job-board.php:137
+msgid "Tags"
+msgstr "टैग्स"
+
+#: cpt/job-board.php:146
+msgid "Job Class"
+msgstr "नौकरी वर्ग"
+
+#: cpt/job-board.php:158
+msgid "Locations"
+msgstr "स्थान"
+
+#: cpt/job-board.php:170
+msgid "Map Countries"
+msgstr "मानचित्र देशों"
+
+#: cpt/job-board.php:182 cpt/job-board.php:195
+msgid "Regular Job Info"
+msgstr "नियमित रूप से नौकरी की जानकारी"
+
+#: cpt/job-board.php:184 cpt/job-board.php:199
+msgid "Select regular for free jobs"
+msgstr "मुफ़्त नौकरियों के लिए नियमित चुनें"
+
+#: cpt/job-board.php:186 cpt/job-board.php:210 cpt/job-board.php:553
+#: cpt/job-board.php:898 functions.php:1462
+#: job_post/custom-category-templates.php:590
+#: job_post/custom-category-templates.php:625
+#: job_post/custom-category-templates.php:660
+#: job_post/custom-category-templates.php:670
+#: job_post/custom-category-templates.php:946
+#: job_post/custom-category-templates.php:1125
+#: job_post/custom-category-templates.php:1279
+#: job_post/custom-category-templates.php:1299
+#: job_post/custom-category-templates.php:1336
+msgid "Select Option"
+msgstr "विकल्प का चयन करें"
+
+#: cpt/job-board.php:187 cpt/job-board.php:205
+#: redux-framework/inc/fields/link_color/class-redux-link-color.php:65
+msgid "Regular"
+msgstr "नियमित"
+
+#: cpt/job-board.php:265
+msgid "Category Order"
+msgstr "श्रेणी आदेश"
+
+#: cpt/job-board.php:286
+msgid "County"
+msgstr "काउंटी"
+
+#: cpt/job-board.php:287
+msgid "This should be follow ISO2 like"
+msgstr "यह ISO2 की तरह का पालन किया जाना चाहिए"
+
+#: cpt/job-board.php:287
+msgid "US"
+msgstr "हमें"
+
+#: cpt/job-board.php:287
+msgid "for USA and"
+msgstr "संयुक्त राज्य अमेरिका और"
+
+#: cpt/job-board.php:287
+msgid "CA"
+msgstr "Ca"
+
+#: cpt/job-board.php:287
+msgid "for Canada"
+msgstr "कनाडा के लिए"
+
+#: cpt/job-board.php:287
+msgid "Read More."
+msgstr "आगे पढ़ें"
+
+#: cpt/job-board.php:336
+msgid "Job Expiry"
+msgstr "नौकरी ज़रुर"
+
+#: cpt/job-board.php:380
+msgid "Select BG Color"
+msgstr "बीजी रंग का चयन करें"
+
+#: cpt/job-board.php:383
+msgid "Select Font Color"
+msgstr "बीजी रंग का चयन करें"
+
+#: cpt/job-board.php:425
+msgid "Assign job"
+msgstr "पंजीकरण के समय पैकेज असाइन करें"
+
+#: cpt/job-board.php:434
+msgid "Select Author"
+msgstr "लेखक का चयन करें"
+
+#: cpt/job-board.php:437
+msgid "Select to change"
+msgstr "बदलने के लिए चुनें"
+
+#: cpt/job-board.php:480
+msgid "Submitted Job Reports"
+msgstr "नौकरी की रिपोर्ट प्रस्तुत की"
+
+#: cpt/job-board.php:493
+msgid "Report Details"
+msgstr "विवरण"
+
+#: cpt/job-board.php:504
+msgid "Static feilds"
+msgstr "स्थैतिक फ़ील्ड्स"
+
+#: cpt/job-board.php:532 cpt/job-board.php:534 functions.php:1548
+msgid "Number of vacancies"
+msgstr "रिक्तियों की संख्या"
+
+#: cpt/job-board.php:540
+msgid "Application deadline"
+msgstr "आवेदन की समय सीमा"
+
+#: cpt/job-board.php:542 cpt/job-board.php:1239
+msgid "Application deadline*"
+msgstr "आवेदन की समय सीमा *"
+
+#: cpt/job-board.php:549
+msgid "Apply With Link"
+msgstr "लिंक के साथ लागू करें"
+
+#: cpt/job-board.php:551 cpt/job-board.php:896
+msgid "Select an option"
+msgstr "\"इक आप्शन चुनो\""
+
+#: cpt/job-board.php:560
+msgid "External Link"
+msgstr "बाहरी लिंक"
+
+#: cpt/job-board.php:567
+msgid "Internal Link"
+msgstr "आंतरिक लिंक"
+
+#: cpt/job-board.php:574
+msgid "Email"
+msgstr "ईमेल"
+
+#: cpt/job-board.php:581
+msgid "Whatsapp"
+msgstr "व्हाट्सएप"
+
+#: cpt/job-board.php:594 cpt/job-board.php:596
+msgid "Put Link Here"
+msgstr "लिंक यहां रखो"
+
+#: cpt/job-board.php:607
+msgid "Enter Email"
+msgstr "ईमेल दर्ज करें, जहां पुनरारंभ प्राप्त"
+
+#: cpt/job-board.php:609
+msgid "Enter valid email"
+msgstr "मान्य ईमेल पता दर्ज करें"
+
+#: cpt/job-board.php:620
+msgid "Whatsapp number"
+msgstr "व्हाट्सएप नंबर दर्ज करें"
+
+#: cpt/job-board.php:622
+msgid "Enter valid Whatsapp number"
+msgstr "मान्य व्हाट्सएप नंबर दर्ज करें"
+
+#: cpt/job-board.php:628
+msgid "Select address"
+msgstr "पता चुनें"
+
+#: cpt/job-board.php:630
+msgid "You Current Location"
+msgstr "आप वर्तमान स्थान"
+
+#: cpt/job-board.php:632
+msgid "Enter map address"
+msgstr "मैप पता दर्ज करें"
+
+#: cpt/job-board.php:864
+msgid ""
+"Please check only one taxonomy except categories,location,job class and "
+"skills"
+msgstr "कृपया श्रेणियों, स्थान, नौकरी वर्ग और कौशल को छोड़कर केवल एक वर्गीकरण की जांच करें"
+
+#: cpt/job-board.php:870
+msgid "More than one will not work"
+msgstr "एक से अधिक काम नहीं करेगा"
+
+#: cpt/job-board.php:883
+msgid "Add Questionnaire"
+msgstr "पोर्टफोलियो जोड़ें"
+
+#: cpt/job-board.php:926 cpt/job-board.php:937 cpt/job-board.php:1046
+msgid "Enter Question"
+msgstr "सवाल"
+
+#: cpt/job-board.php:1046
+msgid "DELETE"
+msgstr "मिटाएँ"
+
+#: cpt/job-board.php:1051
+msgid "Are You Sure ?"
+msgstr "क्या आपको यकीन है?"
+
+#: cpt/job-board.php:1084
+msgid "indeed jobs"
+msgstr "वास्तव में नौकरियां"
+
+#: cpt/job-board.php:1085
+msgid "import indeed jobs"
+msgstr "वास्तव में नौकरियां आयात"
+
+#: cpt/job-board.php:1104
+msgid "Publisher ID*"
+msgstr "प्रकाशक आईडी *"
+
+#: cpt/job-board.php:1108
+msgid "How to Find it"
+msgstr "इसे खोजने के लिए कैसे"
+
+#: cpt/job-board.php:1113
+msgid "Job keyword*"
+msgstr "जॉब कीवर्ड"
+
+#: cpt/job-board.php:1117
+msgid "Job title, keywords, or company"
+msgstr "नौकरी का शीर्षक, कीवर्ड या कंपनी"
+
+#: cpt/job-board.php:1122
+msgid "Country*"
+msgstr "देश *"
+
+#: cpt/job-board.php:1127
+msgid "Select country"
+msgstr "देश का चयन करें"
+
+#: cpt/job-board.php:1184
+msgid "Select  country to find jobs from specific country"
+msgstr "विशिष्ट देश से नौकरियां खोजने के लिए देश का चयन करें"
+
+#: cpt/job-board.php:1190
+msgid "Location"
+msgstr "स्थान"
+
+#: cpt/job-board.php:1194
+msgid "city, province, or region"
+msgstr "शहर, प्रांत या क्षेत्र"
+
+#: cpt/job-board.php:1199
+msgid "Job type"
+msgstr "कार्य का प्रकार"
+
+#: cpt/job-board.php:1203
+msgid "Select Job type"
+msgstr "जॉब टाइप का चयन करें"
+
+#: cpt/job-board.php:1204
+msgid "Full time"
+msgstr "पूरा समय"
+
+#: cpt/job-board.php:1205
+msgid "Part time"
+msgstr "अंशकालिक"
+
+#: cpt/job-board.php:1206
+msgid "contract"
+msgstr "अनुबंध"
+
+#: cpt/job-board.php:1207
+msgid "Internship"
+msgstr "इंटर्नशिप"
+
+#: cpt/job-board.php:1208
+msgid "Temporary"
+msgstr "अस्थायी"
+
+#: cpt/job-board.php:1214 cpt/job-board.php:1218
+msgid "Sort by"
+msgstr "इसके द्वारा सॉर्ट करें"
+
+#: cpt/job-board.php:1220
+msgid "Relevance "
+msgstr "प्रासंगिकता"
+
+#: cpt/job-board.php:1226
+msgid "Jobs to import"
+msgstr "आयात करने के लिए नौकरियां"
+
+#: cpt/job-board.php:1231
+msgid "Default 10 ,you can enter maximum  25"
+msgstr "डिफॉल्ट 10, आप अधिकतम 25 दर्ज कर सकते हैं"
+
+#: cpt/job-board.php:1236
+msgid "Expired on"
+msgstr "पर समाप्त हो गई"
+
+#: cpt/job-board.php:1240
+msgid "Add job expiry date"
+msgstr "नौकरी की समाप्ति तिथि जोड़ें"
+
+#: cpt/job-board.php:1246
+msgid "Import indeed jobs"
+msgstr "आयात वास्तव में नौकरियां"
+
+#: cpt/job-board.php:1269
+msgid "Start date"
+msgstr "प्रारंभ दिनांक"
+
+#: cpt/job-board.php:1270
+msgid "End date"
+msgstr "समाप्ति तारीख़"
+
+#: cpt/job-board.php:1271
+msgid "Export Record"
+msgstr "नहीं मिला"
+
+#: functions.php:254
+msgid "Your new password"
+msgstr "अपना नया पासवर्ड"
+
+#: functions.php:255
+msgid "Your new password is: "
+msgstr "अपना नया पासवर्ड"
+
+#: functions.php:280
+msgid "Email server not responding"
+msgstr "ईमेल सर्वर प्रतिसाद नहीं दे रहा है"
+
+#: functions.php:283
+msgid "Email is not resgistered with us."
+msgstr "ईमेल हमारे साथ resgistered नहीं है ।"
+
+#: functions.php:293
+msgid "New Job"
+msgstr "नया काम"
+
+#: functions.php:294
+msgid "Got new ad"
+msgstr "नया विज्ञापन मिला"
+
+#: functions.php:1072 functions.php:1079 user_profile/index.php:111
+msgid "User Type"
+msgstr "उपयोगकर्ता प्रकार"
+
+#: functions.php:1116 functions.php:1134 functions.php:1168
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:499
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:117
+msgid "Imported"
+msgstr "आयात"
+
+#: functions.php:1128 functions.php:1146 functions.php:1162 functions.php:1180
+#: functions.php:1194
+msgid ""
+"Please waiting for a few minutes, do not close the window or refresh the "
+"page until the data is imported."
+msgstr ""
+"कृपया कुछ मिनटों तक प्रतीक्षा करें, विंडो बंद न करें या डेटा आयात होने तक पृष्ठ को ताज़ा न "
+"कर दें ।"
+
+#: functions.php:1205
+msgid "Note: This demo data is already imported."
+msgstr "नोट: यह डेमो डेटा पहले से आयात किया जाता है ।"
+
+#: functions.php:1461
+msgid "This field is required"
+msgstr "एह् खेतर लोड़चदा ऐ!."
+
+#: functions.php:1506
+msgid "Youtube Video Link"
+msgstr "Youtube वीडियो लिंक"
+
+#: functions.php:1516 functions.php:1533
+#: job_post/custom-category-templates.php:1094
+msgid "This field is required."
+msgstr "एह् खेतर लोड़चदा ऐ!."
+
+#: functions.php:1523
+msgid "Click the box below to upload job attachments!"
+msgstr "नौकरी संलग्नक अपलोड करने के लिए नीचे दिए गए बॉक्स पर क्लिक करें!"
+
+#: functions.php:1524
+msgid "upload with a max file size of "
+msgstr "के एक अधिकतम फ़ाइल आकार के साथ अपलोड करें"
+
+#: functions.php:1586
+msgid "Please add valid publisher id."
+msgstr "कृपया वैध प्रकाशक आईडी जोड़ें।"
+
+#: functions.php:1590
+msgid "Please add keyword to search job."
+msgstr "नौकरी खोजने के लिए कीवर्ड जोड़ें।"
+
+#: functions.php:1594
+msgid "Please Select country first."
+msgstr "कृपया पहले देश का चयन करें।"
+
+#: functions.php:1603
+msgid "Something went wrong."
+msgstr "कुछ गलत हो गया ।"
+
+#: functions.php:1613
+msgid "No job found."
+msgstr "कोई नौकरी नहीं मिली"
+
+#: functions.php:1831
+msgid "Published Jobs"
+msgstr "प्रकाशित नौकरियां"
+
+#: functions.php:1831
+msgid "Total Users"
+msgstr "कुल उपयोगकर्ता"
+
+#: functions.php:1831
+msgid "Subscribers"
+msgstr "ग्राहकों"
+
+#: functions.php:1831
+msgid "Registered Companies"
+msgstr "पंजीकृत कंपनियां"
+
+#: functions.php:1831
+msgid "Registered Candidates"
+msgstr "पंजीकृत उम्मीदवार"
+
+#: functions.php:1831
+msgid "Employers Members"
+msgstr "यह संदेश पहले से ही registred नियोक्ताओं के लिए है"
+
+#: functions.php:1913
+msgid "Nokri - Classified WordPress Theme"
+msgstr "नोकरी - वर्गीकृत वर्डप्रेस थीम"
+
+#: functions.php:1917
+msgid "Get Started"
+msgstr "प्रारंभ करने के लिए, हम एक समर्थन हैश जनरेट करने के लिए की आवश्यकता होगी ।"
+
+#: functions.php:1919
+msgid ""
+"Docementation will helps you to understand the theme flow and will help you "
+"to setup the theme accordingly. Click the button below to go to the "
+"docementation."
+msgstr ""
+"डॉक्मेंटेशन आपको थीम फ्लो को समझने में मदद करेगा और आपको तदनुसार थीम सेटअप करने में मदद "
+"करेगा। नीचे दिए गए बटन पर क्लिक करें कि वे डॉक्टेमेंट पर जाएं।"
+
+#: functions.php:1920
+msgid "Docementation"
+msgstr "डॉक्मेंटेशन"
+
+#: functions.php:1923
+msgid "Having Issues? Get Support!"
+msgstr "मुद्दे होने? समर्थन प्राप्त करें!"
+
+#: functions.php:1925
+msgid ""
+"If you are facing any issue regarding setting up the theme. You can contact "
+"our support team they will be very happy to assist you."
+msgstr ""
+"यदि आप विषय स्थापित करने के संबंध में किसी भी मुद्दे का सामना कर रहे हैं । आप हमारी "
+"सहायता टीम से संपर्क कर सकते हैं वे आपकी सहायता करने में बहुत खुश होंगे।"
+
+#: functions.php:1926
+msgid "Get Theme Support"
+msgstr "थीम सपोर्ट प्राप्त करें"
+
+#: functions.php:1929
+msgid "Looking For Customizations?"
+msgstr "अनुकूलन के लिए खोज रहे हैं?"
+
+#: functions.php:1930
+#, fuzzy
+msgid ""
+"Looking to add more features in the theme no problem. Our development team "
+"will customize the theme according to your requirnments. Click the link "
+"below to contact us."
+msgstr ""
+"विषय में अधिक सुविधाओं को जोड़ने के लिए कोई समस्या नहीं देख रहे हैं। हमारी विकास टीम आपकी "
+"आवश्यकताओं के अनुसार विषय को अनुकूलित करेगी। हमसे संपर्क करने के लिए नीचे दिए गए लिंक पर "
+"क्लिक करें।"
+
+#: functions.php:1931
+#, fuzzy
+msgid "Looking For Customization?"
+msgstr "अनुकूलन के लिए खोज रहे हैं?"
+
+#: functions.php:1936
+#, fuzzy
+msgid "by"
+msgstr "द्वारा"
+
+#: functions.php:1936
+msgid "ScriptsBundle"
+msgstr "ScriptsBundle"
+
+#: index.php:173
+msgid "3rd Floor,Link Arcade BBL, USA."
+msgstr "3 तल, लिंक आर्केड बीबीएल, संयुक्त राज्य अमरीका ।"
+
+#: index.php:174
+msgid "Support@domain.com "
+msgstr "Support@domain.com"
+
+#: index.php:176
+msgid "Mon - Sat, 8:00 AM - 6:00 PM"
+msgstr "सोम-शनि, 8:00 AM-6:00 PM"
+
+#: index.php:203 job_post/custom-category-templates.php:1428
+msgid "Package Essentials"
+msgstr "पैकेज आवश्यकताएँ"
+
+#: index.php:221
+msgid "job"
+msgstr "काम"
+
+#: index.php:221
+msgid "Must be an integer value."
+msgstr "कोई पूर्णांक मान होना आवश्यक है ।"
+
+#: index.php:234
+msgid "Is Package Free"
+msgstr "पैकेज मुक्त है"
+
+#: index.php:236 index.php:257
+msgid "Select Option For Package"
+msgstr "पैकेज के लिए विकल्प का चयन करें"
+
+#: index.php:255
+msgid "Package For"
+msgstr "पैकेज के लिए"
+
+#: index.php:275
+msgid "Job alert"
+msgstr "जॉब अलर्ट"
+
+#: index.php:283 job_post/custom-category-templates.php:1438
+msgid "Package Expiry"
+msgstr "पैकेज एक्सपायरी"
+
+#: index.php:284 index.php:290 index.php:294 index.php:340
+msgid "Like 30, 40 or 50 but must be an integer value."
+msgstr "जैसे 30, ४० या ५० लेकिन एक पूर्णांक मान होना चाहिए ।"
+
+#: index.php:285 index.php:295 job_post/custom-category-templates.php:1440
+msgid "Expiry in days, -1 means never experied unless used it."
+msgstr "दिनों में समाप्ति,-1 का मतलब है जब तक यह इस्तेमाल किया experied कभी नहीं ।"
+
+#: index.php:289
+msgid "Number of jobs to apply "
+msgstr "आवेदन करने के लिए नौकरियों की संख्या"
+
+#: index.php:293
+msgid "Number of days to featured "
+msgstr "विशेष रुप से प्रदर्शित करने के लिए दिनों की संख्या"
+
+#: index.php:301 user_profile/index.php:71
+msgid "Bump up job limit"
+msgstr "नया विज्ञापन मिला"
+
+#: index.php:304 index.php:312
+msgid "-1 means never experied unless used it."
+msgstr "दिनों में समाप्ति,-1 का मतलब है जब तक यह इस्तेमाल किया experied कभी नहीं ।"
+
+#: index.php:309
+msgid "Featured profile days"
+msgstr "विशेष रुप से प्रदर्शित प्रोफ़ाइल"
+
+#: index.php:320
+msgid "Is Candidate Search"
+msgstr "प्रत्याशी खोज है"
+
+#: index.php:322
+msgid "Select Option For Candidate Search"
+msgstr "उम्मीदवार खोज के लिए विकल्प का चयन करें"
+
+#: index.php:339
+msgid "Number Of Candidate Searches"
+msgstr "उंमीदवार खोजों की संख्या"
+
+#: index.php:341
+msgid "-1 means unlimited searches"
+msgstr "-1 का अर्थ है असीमित खोजों"
+
+#: job_post/custom-category-templates.php:45
+#: job_post/custom-category-templates.php:130
+#: job_post/custom-category-templates.php:587
+msgid "Field Name"
+msgstr "फ़ील्ड नाम"
+
+#: job_post/custom-category-templates.php:48
+#: job_post/custom-category-templates.php:133
+#: job_post/custom-category-templates.php:594
+msgid "Status"
+msgstr "ऑर्डर स्थिति"
+
+#: job_post/custom-category-templates.php:51
+#: job_post/custom-category-templates.php:136
+msgid "Is Required?"
+msgstr "आवश्यकता"
+
+#: job_post/custom-category-templates.php:56
+msgid "Video URL"
+msgstr "वीडियो यूआरएल (केवल यूट्यूब)"
+
+#: job_post/custom-category-templates.php:62
+#: job_post/custom-category-templates.php:88
+#: job_post/custom-category-templates.php:491
+#: job_post/custom-category-templates.php:496
+#: job_post/custom-category-templates.php:513
+msgid "Show"
+msgstr "दिखाना"
+
+#: job_post/custom-category-templates.php:63
+#: job_post/custom-category-templates.php:89
+#: job_post/custom-category-templates.php:492
+#: job_post/custom-category-templates.php:497
+#: job_post/custom-category-templates.php:514
+msgid "Hide"
+msgstr "छिपाना"
+
+#: job_post/custom-category-templates.php:82
+msgid "Job Attachments"
+msgstr "कार्य अनुलग्नक"
+
+#: job_post/custom-category-templates.php:124
+msgid "Those are default fields you can show or hide them."
+msgstr "वे डिफ़ॉल्ट फ़ील्ड है जिंहें आप उंहें दिखा या छुपा सकते हैं ।"
+
+#: job_post/custom-category-templates.php:139
+#: job_post/custom-category-templates.php:595
+msgid "In Search"
+msgstr "खोजे..."
+
+#: job_post/custom-category-templates.php:172
+msgid "Add More Fields"
+msgstr "और फ़ील्ड्स जोड़ें"
+
+#: job_post/custom-category-templates.php:337
+msgid "icon"
+msgstr "प्रतीक"
+
+#: job_post/custom-category-templates.php:588
+msgid "Slug Name"
+msgstr "नाम"
+
+#: job_post/custom-category-templates.php:589
+msgid "Columns"
+msgstr "स्तंभे"
+
+#: job_post/custom-category-templates.php:591
+msgid "Enter Values"
+msgstr "मान दर्ज करें"
+
+#: job_post/custom-category-templates.php:592
+msgid "Required?"
+msgstr "आवश्यक है?"
+
+#: job_post/custom-category-templates.php:593
+msgid "Remove Field"
+msgstr "फ़ील्ड निकालें"
+
+#: job_post/custom-category-templates.php:599
+msgid "New Field"
+msgstr "पेशा अतिरिक्त क्षेत्र"
+
+#: job_post/custom-category-templates.php:606
+msgid "Click to toggle"
+msgstr "एक क्लिक डेमो आयात"
+
+#: job_post/custom-category-templates.php:626
+msgid "Input - Textfield"
+msgstr "PHP अधिकतम इनपुट Vars"
+
+#: job_post/custom-category-templates.php:627
+msgid "Options - Select Box"
+msgstr "बाहरी विकल्प लागू करें चुनें"
+
+#: job_post/custom-category-templates.php:628
+msgid "Options - Check Box"
+msgstr "खोज बॉक्स दिखाएं"
+
+#: job_post/custom-category-templates.php:629
+msgid "Date - Input"
+msgstr "प्रपत्र इनपुट"
+
+#: job_post/custom-category-templates.php:630
+msgid "Website URL"
+msgstr "वेबसाइट यूआरएल"
+
+#: job_post/custom-category-templates.php:648
+msgid "1/12 Column"
+msgstr "स्तंभ आकार"
+
+#: job_post/custom-category-templates.php:649
+msgid "1/6 Column"
+msgstr "स्तंभ आकार"
+
+#: job_post/custom-category-templates.php:650
+msgid "1/3 Column"
+msgstr "स्तंभ आकार"
+
+#: job_post/custom-category-templates.php:651
+msgid "1/4 Column"
+msgstr "1/4 स्तंभ"
+
+#: job_post/custom-category-templates.php:671
+#: redux-framework/inc/fields/link_color/class-redux-link-color.php:131
+msgid "Active"
+msgstr "सक्रिय"
+
+#: job_post/custom-category-templates.php:672
+msgid "Inactive"
+msgstr "निष्क्रिय"
+
+#: job_post/custom-category-templates.php:682
+msgid "Enter Field title here."
+msgstr "ऐप् स अनुभाग शीर्षक पाठ दर्ज करें"
+
+#: job_post/custom-category-templates.php:689
+msgid "Edit"
+msgstr "संपादित करें"
+
+#: job_post/custom-category-templates.php:690
+msgid ""
+"Enter the slug name, it must be unique and chage it with causion. only alpha "
+"numeric and _"
+msgstr ""
+"स्लग नाम दर्ज करें, यह अद्वितीय और चेतावनी के साथ यह chage होना चाहिए । केवल अल्फा "
+"संख्यात्मक और _"
+
+#: job_post/custom-category-templates.php:698
+msgid "Enter Values seprated by "
+msgstr "द्वारा seprated मान दर्ज करें"
+
+#: job_post/custom-category-templates.php:737
+msgctxt "Taxonomy General Name"
+msgid "Category Templates"
+msgstr "श्रेणी टेंपलेट्स"
+
+#: job_post/custom-category-templates.php:738
+msgctxt "Taxonomy Singular Name"
+msgid "Category Template"
+msgstr "श्रेणी टेंपलेट"
+
+#: job_post/custom-category-templates.php:739
+msgid "Category Templates"
+msgstr "श्रेणी टेंपलेट्स"
+
+#: job_post/custom-category-templates.php:741
+msgid "Parent Item"
+msgstr "पैरेंट आइटम"
+
+#: job_post/custom-category-templates.php:743
+msgid "New Item Name"
+msgstr "नया आइटम नाम"
+
+#: job_post/custom-category-templates.php:748
+msgid "Separate items with commas"
+msgstr "अंक के साथ अलग । संकेत"
+
+#: job_post/custom-category-templates.php:749
+msgid "Add or remove items"
+msgstr "आइटम जोड़ें या निकालें"
+
+#: job_post/custom-category-templates.php:750
+msgid "Choose from the most used"
+msgstr "सबसे अधिक इस्तेमाल से चुनें"
+
+#: job_post/custom-category-templates.php:751
+msgid "Popular Items"
+msgstr "इस प्रकार का कोई आइटम नहीं मिला ।"
+
+#: job_post/custom-category-templates.php:752
+msgid "Search Items"
+msgstr "खोज"
+
+#: job_post/custom-category-templates.php:753
+msgid "Not Found"
+msgstr "नहीं मिली"
+
+#: job_post/custom-category-templates.php:754
+msgid "No items"
+msgstr "इस प्रकार का कोई आइटम नहीं मिला ।"
+
+#: job_post/custom-category-templates.php:782
+msgid "Are You sure you want to remove this field."
+msgstr "क्या आप निश्चयपूर्वक यह अपलोड रद्द करना चाहते हैं?"
+
+#: job_post/custom-category-templates.php:856
+msgid "Duplicate Slug Name"
+msgstr "नाम"
+
+#: job_post/custom-category-templates.php:943
+msgid "Select Template"
+msgstr "किसी टेंपलेट का चयन करें"
+
+#: job_post/custom-category-templates.php:947
+msgid "Default Template"
+msgstr "डिफ़ॉल्ट Redux टेम्पलेट फ़ाइलों को ओवरराइड करने वाली टेम्पलेट फ़ाइलों की सूची."
+
+#: job_post/custom-category-templates.php:950
+msgid ""
+"You can assign this template to only 1st level category. It will not work "
+"with sub categories."
+msgstr ""
+"आप इस टेंपलेट को केवल प्रथम स्तर श्रेणी में असाइन कर सकते हैं । यह उप श्रेणियों के साथ काम "
+"नहीं करेगा ।"
+
+#: job_post/custom-category-templates.php:1166
+msgid "Please enter a valid website URL"
+msgstr "कृपया अपना मांय ईमेल दर्ज करें ।"
+
+#: job_post/custom-category-templates.php:1323
+msgid "Package Essentials/Adons"
+msgstr "पैकेज आवश्यकताएँ"
+
+#: job_post/custom-category-templates.php:1333
+msgid "Category Type/Adosn"
+msgstr "प्रकार"
+
+#: job_post/custom-category-templates.php:1338
+msgid "Categories Based Template"
+msgstr "श्रेणियाँ"
+
+#: job_post/custom-category-templates.php:1341
+msgid "Post Ad - Adons"
+msgstr "पोस्ट No"
+
+#: job_post/custom-category-templates.php:1348
+msgid "Select Adons"
+msgstr "- चुने -"
+
+#: job_post/custom-category-templates.php:1353
+msgid "Featured Ad"
+msgstr "नया विज्ञापन मिला"
+
+#: job_post/custom-category-templates.php:1356
+msgid "Bump Ad"
+msgstr "नया विज्ञापन मिला"
+
+#: job_post/custom-category-templates.php:1439
+msgid "Like 30, 40 or 50 but must be an inter value."
+msgstr "जैसे 30, ४० या ५० लेकिन एक अंतर मूल्य होना चाहिए ।"
+
+#: job_post/custom-category-templates.php:1443
+msgid "Simple Ads"
+msgstr "सरल विज्ञापन"
+
+#: job_post/custom-category-templates.php:1444
+#: job_post/custom-category-templates.php:1448
+#: job_post/custom-category-templates.php:1452
+msgid "Must be an inter value."
+msgstr "कोई पूर्णांक मान होना आवश्यक है ।"
+
+#: job_post/custom-category-templates.php:1447
+msgid "Featured Ads"
+msgstr "फ़ीचर्ड विज्ञापन"
+
+#: job_post/custom-category-templates.php:1451
+msgid "Bump Ads"
+msgstr "विज्ञापन क्रम का चयन करें"
+
+#: job_post/index.php:6
+msgid "Update AD"
+msgstr "अपडेट करें"
+
+#: job_post/index.php:15
+msgid "Update this AD"
+msgstr "प्रोफ़ाइल अद्यतन करें"
+
+#: job_post/index.php:27
+msgid "Ad Type"
+msgstr "प्रकार:"
+
+#: job_post/index.php:38
+msgid "Featured"
+msgstr "चित्रित किया"
+
+#: job_post/index.php:41
+msgid "Simple"
+msgstr "सरल"
+
+#: redux-extensions/extensions-init.php:25
+msgid ""
+"Best if used on new WordPress install & this theme requires PHP version 7.0+"
+msgstr ""
+"सबसे अच्छा अगर नए WordPress पर इस्तेमाल किया स्थापित करें & इस विषय PHP संस्करण 7.0 "
+"की आवश्यकता है +"
+
+#: redux-extensions/extensions-init.php:26
+msgid "Images are for demo purpose only."
+msgstr "छवियां डेमो उद्देश्य के लिए ही हैं ।"
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:247
+msgid "Demo Already Imported"
+msgstr "डेमो पहले से आयात किया गया"
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:274
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:276
+msgid "Demo Importer"
+msgstr "डेमो आयातक"
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:281
+msgid "Works best to import on a new install of WordPress"
+msgstr "सबसे अच्छा काम करता है एक नई WordPress स्थापित करने पर आयात करने के लिए"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:42
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:72
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr "इस WXR फ़ाइल को पढ़ते समय कोई त्रुटि आई"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"विवरण ऊपर दिखाए जाते हैं । आयातक अब एक अलग parser के साथ फिर से कोशिश करेंगे.. ।"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:84
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:89
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:279
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "यह एक WXR फ़ाइल, अनुपलब्ध/अमांय WXR संस्करण संख्या प्रतीत नहीं होता"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:256
+msgid "Theme options Import file could not be found. Please try again."
+msgstr "विषयवस्तु विकल्प आयात फ़ाइल नहीं मिल सकी । कृपया पुन: प्रयास करें ।"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:331
+msgid "Widget Import file could not be found. Please try again."
+msgstr "विजेट आयात फ़ाइल नहीं मिल सकी । कृपया पुन: प्रयास करें ।"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:405
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr "पार्श्व पट्टी विषयवस्तु में मौजूद नहीं है (निष्क्रिय का उपयोग करके)"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:427
+msgid "Site does not support widget"
+msgstr "साइट विजेट का समर्थन नहीं करता"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:450
+msgid "Widget already exists"
+msgstr "विजेट पहले से मौजूद है"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:502
+msgid "Imported to Inactive"
+msgstr "निष्क्रिय पर आयात किया गया"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:509
+msgid "No Title"
+msgstr "कोई शीर्षक नहीं"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:134
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:143
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:194
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:198
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr "आपका खाता सत्यापित किया जा चुका है ।"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr "फ़ाइल मौजूद नहीं है, कृपया पुन: प्रयास करें ।"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr "सब कर दिया."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr "आनंद लो!"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "आयातित उपयोगकर्ताओं के पासवर्ड और भूमिकाओं को अद्यतन करने के लिए याद रखें ।"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"निर्यात फ़ाइल को ढूंढा नहीं जा सका <code>%s</code> । यह संभावना है कि यह एक अनुमतियों "
+"की समस्या के कारण हुआ था ।"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"हो सकता है कि यह WXR फ़ाइल (संस्करण %s) आयातक के इस संस्करण द्वारा समर्थित न हो । "
+"कृपया अद्यतन करने पर विचार करें ।"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr "लेखक %s आयात करने में विफल। उनके लेख वर्तमान उपयोगकर्ता को आबंटित कर दी जाएगी।"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr "लेखकों को असाइन करें"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+"आयातित सामग्री को संपादित करने और सहेजना आसान बनाने के लिए, आप आयातित आइटम के लेखक "
+"को इस साइट के मौजूदा उपयोगकर्ता को पुन: असाइन करना चाह सकते हैं । उदाहरण के लिए, आप "
+"सभी प्रविष्टियों के रूप में प्रविष्टियों को आयात करने के लिए कर सकते हैं <code>admin</code> "
+"।"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"यदि कोई नया उपयोगकर्ता WordPress द्वारा बनाया गया है, एक नया पासवर्ड बेतरतीब ढंग से "
+"उत्पन्न हो जाएगा और नए उपयोगकर्ता की भूमिका %s के रूप में सेट किया जाएगा. मैन्युअल रूप से "
+"नए उपयोगकर्ता के विवरण को बदलने के लिए आवश्यक हो जाएगा."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr "अनुलग्नक आयात करें"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr "फ़ाइल अनुलग्नक डाउनलोड और आयात करें"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr "जमा करें"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr "लेखक आयात करें:"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr "या लॉगिन नाम के साथ नया उपयोगकर्ता बनाएं:"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr "एक नए उपयोगकर्ता के रूप में:"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr "किसी मौजूदा उपयोगकर्ता को पोस्ट असाइन करें:"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr "या किसी मौजूदा उपयोगकर्ता को पोस्ट असाइन करें:"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr "- चुने -"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+"%s के लिए नया उपयोगकर्ता बनाने में विफल । उनके पद मौजूदा यूजर के लिए जिम्मेदार होंगे ।"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr "श्रेणी %s आयात करने में विफल"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "पोस्ट टैग %s आयात करने में विफल"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:511
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "%s %s आयात करने में विफल"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "\" %s\" आयात करने में विफल: अमांय पोस्ट प्रकार %s"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s \" %s\" पहले से मौजूद है ।"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "%s \" %s\" आयात करने में विफल"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr "मेनू स्लग गुम होने के कारण मेनू आइटम छोड़ा गया"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "अमांय मेनू स्लग के कारण मेनू आइटम छोड़ा गया: %s"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr "अनुलग्नक फ़ेच करना सक्षम नहीं है"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr "अमांय फ़ाइल प्रकार"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr "दूरस्थ सर्वर ने प्रतिसाद नहीं दिया"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "रिमोट सर्वर में  त्रुटी है %1$d % 2$s"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr "दूरस्थ फ़ाइल आकार ग़लत है"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr "शूंय आकार फ़ाइल डाउनलोड की गई"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "दूरस्थ फ़ाइल बहुत बड़ी है, सीमा %s है"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr "आयात वर्डप्रेस"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+"इस आयातक का नया संस्करण उपलब्ध है । नए निर्यात फ़ाइलों के साथ संगतता सुनिश्चित करने के "
+"लिए कृपया संस्करण %s पर अद्यतन करें ।"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"हैलो जी! अपने WordPress विस्तारित आरएसएस (WXR) फ़ाइल अपलोड करें और हम इस साइट में "
+"पोस्ट, पेज, टिप्पणियां, कस्टम फ़ील्ड, श्रेणियों, और टैग आयात करेंगे ।"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+"अपलोड करने के लिए WXR (. xml) फ़ाइल चुनें, फिर फ़ाइल और आयात अपलोड करें पर क्लिक करे ।"
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:95
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:115
+msgid "Import Demo"
+msgstr "डेमो आयात करें"
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:99
+msgid "Demo Imported"
+msgstr "आयातित डेमो"
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:115
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:118
+msgid "Please Wait..."
+msgstr "कृपया प्रतीक्षा करो..."
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:119
+msgid "Re-Import"
+msgstr "आयात"
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:125
+msgid "No Demo Data Provided"
+msgstr "कोई डेमो डेटा प्रदान नहीं"
+
+#: redux-framework/framework.php:396 redux-framework/framework.php:405
+msgid "Cheatin&#8217; eh?"
+msgstr "चीकिन ' एह?"
+
+#: redux-framework/inc/classes/class-redux-admin-notices.php:134
+msgid "Dismiss"
+msgstr "खारिज"
+
+#: redux-framework/inc/classes/class-redux-ajax-save.php:40
+#: redux-framework/inc/classes/class-redux-ajax-select2.php:38
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr "अमांय सुरक्षा क्रेडेंशियल ।  कृपया पृष्ठ पुनः लोड करें और पुन: प्रयास करे ।"
+
+#: redux-framework/inc/classes/class-redux-ajax-save.php:50
+#: redux-framework/inc/classes/class-redux-ajax-select2.php:42
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr "अमांय उपयोगकर्ता क्षमता ।  कृपया पृष्ठ पुनः लोड करें और पुन: प्रयास करे ।"
+
+#: redux-framework/inc/classes/class-redux-ajax-save.php:112
+msgid "Your panel has no fields. Nothing to save."
+msgstr "आपके पैनल में कोई फ़ील्ड नहीं है । बचाने के लिए कुछ नहीं ।"
+
+#: redux-framework/inc/classes/class-redux-api.php:143
+msgid "Warning, Premature Initialization"
+msgstr "चेतावनी, समय से पहले आरंभीकरण"
+
+#. translators: This is only shown to developers, should not impact users.
+#: redux-framework/inc/classes/class-redux-api.php:146
+#, php-format
+msgid "was run before the %s hook and was delayed to avoid errors."
+msgstr "%s हुक से पहले चला गया था और त्रुटियों से बचने के लिए देरी हो रही थी ।"
+
+#: redux-framework/inc/classes/class-redux-api.php:363
+msgid "Redux Framework is not installed. Please install it."
+msgstr "रेडक्स फ्रेमवर्क स्थापित नहीं है। कृपया इसे स्थापित करें।"
+
+#: redux-framework/inc/classes/class-redux-api.php:726
+msgid "Unable to create a section due to missing id and title."
+msgstr "आईडी और शीर्षक गुम होने के कारण एक अनुभाग बनाने में असमर्थ।"
+
+#: redux-framework/inc/classes/class-redux-api.php:744
+msgid ""
+"Unable to create a section due an empty section array or the section "
+"variable passed was not an array."
+msgstr ""
+"एक खाली अनुभाग सरणी या अनुभाग चर पारित के कारण एक अनुभाग बनाने में असमर्थ एक सरणी "
+"नहीं था ।"
+
+#: redux-framework/inc/classes/class-redux-args.php:134
+msgid "Regular 400"
+msgstr "नियमित 400"
+
+#: redux-framework/inc/classes/class-redux-args.php:138
+msgid "Regular 400 Italic"
+msgstr "नियमित 400 इटालिक"
+
+#: redux-framework/inc/classes/class-redux-args.php:142
+msgid "Bold 700"
+msgstr "बोल्ड 700"
+
+#: redux-framework/inc/classes/class-redux-args.php:146
+msgid "Bold 700 Italic"
+msgstr "बोल्ड 700 इटालिक"
+
+#. translators: 1: Redux, 2: Link to plugin review
+#: redux-framework/inc/classes/class-redux-args.php:268
+#, php-format
+msgid ""
+"Enjoyed %1$s? Please leave us a %2$s rating. We really appreciate your "
+"support!"
+msgstr ""
+"%1$s मज़ा आया? कृपया हमें %2$s रेटिंग छोड़ दें । हम वास्तव में आपके समर्थन की सराहना करते हैं!"
+
+#: redux-framework/inc/classes/class-redux-args.php:269
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:502
+#: redux-framework/inc/classes/class-redux-user-feedback.php:317
+msgid "Redux"
+msgstr "रेडक्स"
+
+#: redux-framework/inc/classes/class-redux-args.php:276
+#: redux-framework/inc/classes/class-redux-args.php:280
+msgid "Options"
+msgstr "विकल्प"
+
+#: redux-framework/inc/classes/class-redux-args.php:342
+msgid "Redux Framework Notice"
+msgstr "रेडक्स फ्रेमवर्क नोटिस"
+
+#: redux-framework/inc/classes/class-redux-args.php:343
+msgid ""
+"There are references to the Redux Framework support site in your config's "
+msgstr "आपके कॉन्फ़िग में रेडक्स फ्रेमवर्क सपोर्ट साइट के संदर्भ हैं "
+
+#: redux-framework/inc/classes/class-redux-args.php:344
+#: redux-framework/inc/classes/class-redux-args.php:361
+msgid ""
+"argument.  This is sample data.  Please change or remove this data before "
+"shipping your product."
+msgstr ""
+"युक्ति।  यह नमूना डेटा है।  कृपया अपने उत्पाद को शिपिंग करने से पहले इस डेटा को बदलें या "
+"हटा दें।"
+
+#: redux-framework/inc/classes/class-redux-args.php:359
+msgid "Redux Framework Notice:"
+msgstr "रेडक्स फ्रेमवर्क नोटिस:"
+
+#: redux-framework/inc/classes/class-redux-args.php:360
+msgid ""
+"There are references to the Redux Framework support site in your config's"
+msgstr "आपके कॉन्फ़िग में रेडक्स फ्रेमवर्क सपोर्ट साइट के संदर्भ हैं"
+
+#: redux-framework/inc/classes/class-redux-cdn.php:127
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+"कृपया कुछ मिनट प्रतीक्षा करें, फिर पृष्ठ को ताज़ा करने का प्रयास करें । कुछ दूरस्थ रूप से होस्ट "
+"की गई स्क्रिप्ट लोड करने में असमर्थ ।"
+
+#. translators: %s: URL.
+#: redux-framework/inc/classes/class-redux-cdn.php:130
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the %s plugin/"
+"extension to bypass our CDN and avoid this warning"
+msgstr ""
+"यदि आप ऑफ़लाइन विकसित कर रहे हैं, तो कृपया हमारे सीडीएन को बाईपास करने और इस चेतावनी "
+"से बचने के लिए %s प्लगइन/एक्सटेंशन डाउनलोड करें और इंस्टॉल करें"
+
+#. translators: %s: CDN handle.
+#: redux-framework/inc/classes/class-redux-cdn.php:134
+msgid "Redux Framework Warning"
+msgstr "Redux फ्रेमवर्क चेतावनी"
+
+#: redux-framework/inc/classes/class-redux-cdn.php:134
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr "%s CDN अनुपलब्ध है ।  कुछ नियंत्रण ठीक से रेंडर नहीं हो सकते हैं ।"
+
+#. translators: %s: Vendor support URL. %s: Admin pluygins page.
+#: redux-framework/inc/classes/class-redux-cdn.php:182
+#, php-format
+msgid ""
+"The %1$s (or extension) is either not installed or not activated and thus, "
+"some controls may not render properly.  Please ensure that it is installed "
+"and %2$s"
+msgstr ""
+"%1$s (या विस्तार) या तो स्थापित नहीं है या सक्रिय नहीं है और इस प्रकार, कुछ नियंत्रण "
+"ठीक से प्रस्तुत नहीं हो सकते हैं।  कृपया सुनिश्चित करें कि यह स्थापित है और %2$s"
+
+#: redux-framework/inc/classes/class-redux-cdn.php:182
+msgid "activated."
+msgstr "सक्रिय।"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:136
+msgid "Security check failed."
+msgstr "सुरक्षा जांच फेल हो गई।"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:251
+msgid "Loading..."
+msgstr "载入中..."
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:280
+#, php-format
+msgid ""
+"Register <strong>%1$s</strong> to enable automatic Google Font updates "
+"service. Plus unlock all free block templates in the Redux template library."
+msgstr ""
+"<strong>%1$s</strong>स्वचालित Google फ़ॉन्ट अपडेट सेवा को सक्षम करने के लिए रजिस्टर "
+"करें। इसके अलावा रेडक्स टेम्पलेट लाइब्रेरी में सभी फ्री ब्लॉक टेम्पलेट्स अनलॉक करें।"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:285
+#: redux-framework/inc/fields/typography/class-redux-typography.php:739
+msgid "learn more"
+msgstr "और जानो"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:292
+msgid "Register Now"
+msgstr "अब रजिस्टर करें"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:293
+#: redux-framework/inc/classes/class-redux-connection-banner.php:405
+msgid "No thanks"
+msgstr "नहीं धन्यवाद"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:337
+msgid ""
+"You’re almost done. Register for our service to unlock even more tools to "
+"help you build better sites faster in WordPress."
+msgstr ""
+"आप लगभग कर चुके हैं। वर्डप्रेस में तेजी से बेहतर साइटों का निर्माण करने में मदद करने के लिए और "
+"भी अधिक उपकरण अनलॉक करने के लिए हमारी सेवा के लिए रजिस्टर करें।"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:343
+msgid "Dismiss this notice"
+msgstr "इस नोटिस को खारिज"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:358
+msgid "Visit our website to learn more!"
+msgstr "अधिक जानने के लिए हमारी वेबसाइट पर जाएं!"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:370
+msgid ""
+"Redux helps you to take your site to the next level with tools that greatly "
+"enhance your WordPress experience."
+msgstr ""
+"रेडक्स आपको अपनी साइट को अगले स्तर तक ले जाने में मदद करता है, जो आपके वर्डप्रेस अनुभव को "
+"बहुत बढ़ाते हैं।"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:380
+msgid "Build better sites faster with Redux"
+msgstr "रेडक्स के साथ तेजी से बेहतर साइटों का निर्माण करें"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:384
+msgid ""
+"The Redux block library service allows you to build any site you want in "
+"minutes with a click of a button. With over 1,000+ templates, Redux helps "
+"you build sites fast!"
+msgstr ""
+"रेडक्स ब्लॉक लाइब्रेरी सेवा आपको किसी भी साइट को बनाने की अनुमति देती है जो आप एक बटन "
+"के क्लिक के साथ मिनटों में चाहते हैं। 1,000 से अधिक टेम्पलेट्स के साथ, रेडक्स आपको साइटों को "
+"तेजी से बनाने में मदद करता है!"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:393
+msgid ""
+"No registration is required to use Redux as you always have. By registering "
+"for our service you gain access to Google Font updates as well as access to "
+"all free templates in our block template library."
+msgstr ""
+"रेडक्स का उपयोग करने के लिए कोई पंजीकरण की आवश्यकता नहीं है जैसा कि आपके पास हमेशा होता "
+"है। हमारी सेवा के लिए पंजीकरण करके आप Google फ़ॉन्ट अपडेट तक पहुंच प्राप्त करते हैं और साथ "
+"ही हमारे ब्लॉक टेम्पलेट लाइब्रेरी में सभी मुफ्त टेम्पलेट तक पहुंच प्राप्त करते हैं।"
+
+#. translators: 1. Name
+#. phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
+#: redux-framework/inc/classes/class-redux-connection-banner.php:405
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:341
+msgid "No Thanks"
+msgstr "नहीं धन्यवाद"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:409
+#: redux-framework/inc/classes/class-redux-connection-banner.php:456
+#: redux-framework/inc/fields/typography/class-redux-typography.php:738
+msgid "Register"
+msgstr "注册"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:443
+msgid "Redux Logo"
+msgstr "रेडक्स लोगो"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:448
+msgid ""
+"Activate essential WordPress security and performance tools by setting up "
+"Redux"
+msgstr "रेडक्स स्थापित करके आवश्यक वर्डप्रेस सुरक्षा और प्रदर्शन उपकरणों को सक्रिय करें"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:465
+msgid "Security & Backups"
+msgstr "सुरक्षा और बैकअप"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:472
+msgid ""
+"Redux protects you against brute force attacks and unauthorized logins. "
+"Basic protection is always free, while premium plans add unlimited backups "
+"of your whole site, spam protection, malware scanning, and automated fixes."
+msgstr ""
+"Redux आपको जानवर बल हमलों और अनधिकृत लॉगिन के खिलाफ बचाता है। बुनियादी सुरक्षा हमेशा "
+"मुफ्त होती है, जबकि प्रीमियम प्लान आपकी पूरी साइट, स्पैम सुरक्षा, मैलवेयर स्कैनिंग और "
+"स्वचालित सुधारों के असीमित बैकअप जोड़ते हैं।"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:485
+msgid "Built-in Performance"
+msgstr "बिल्ट-इन परफॉर्मेंस"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:492
+msgid ""
+"Activate site accelerator tools and watch your page load times decrease—"
+"we'll optimize your images and serve them from our own powerful global "
+"network of servers, and speed up your mobile site to reduce bandwidth usage."
+msgstr ""
+"साइट त्वरक टूल को सक्रिय करें और अपने पेज लोड समय को कम करते हुए देखें- हम आपकी छवियों को "
+"अनुकूलित करेंगे और उन्हें सर्वर के अपने शक्तिशाली वैश्विक नेटवर्क से परोसेंगे, और बैंडविड्थ उपयोग "
+"को कम करने के लिए अपनी मोबाइल साइट को गति देंगे।"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:507
+msgctxt "a link that closes the modal window that offers to connect Redux"
+msgid "Not now, thank you."
+msgstr "अभी नहीं, धन्यवाद।"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:531
+msgid ""
+"<strong>Redux is activated!</strong> Each site on your network must be "
+"connected individually by an admin on that site."
+msgstr ""
+"<strong>रेडक्स सक्रिय है!</strong> आपके नेटवर्क पर प्रत्येक साइट को उस साइट पर एक "
+"व्यवस्थापक द्वारा व्यक्तिगत रूप से जोड़ा जाना चाहिए।"
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:553
+#, php-format
+msgid ""
+"By clicking the <strong>Register</strong> button, you agree to our <a href="
+"\"%1$s\" target=\"_blank\">terms of service</a>, to create an account, and "
+"to share details of your usage metrics with Redux.io."
+msgstr ""
+"<strong>रजिस्टर</strong> बटन पर क्लिक करके, आप हमारी <a href=\"%1$s\" target="
+"\"_blank\">सेवा की शर्तों</a>से सहमत हैं, एक खाता बनाने के लिए, और Redux.io के साथ "
+"अपने उपयोग मैट्रिक्स का विवरण साझा करने के लिए ।"
+
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:167
+msgid "Gutenberg is currently disabled!"
+msgstr "गुटेनबर्ग वर्तमान में अक्षम है!"
+
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:175
+msgid "Hmm, it seems something else is disabling Gutenberg..."
+msgstr "हंम, ऐसा लगता है कि कुछ और गुटेनबर्ग को अक्षम कर रहा है ..."
+
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:178
+msgid "Your theme author has disabled Gutenberg!"
+msgstr "आपके विषय लेखक ने गुटेनबर्ग को अक्षम कर दिया है!"
+
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:181
+msgid "Looks like something has disabled Gutenberg?"
+msgstr "ऐसा लगता है कि कुछ गुटेनबर्ग अक्षम है?"
+
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:186
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:192
+msgid "Enable Gutenberg"
+msgstr "गुटेनबर्ग को सक्षम करें"
+
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:190
+msgid "Your theme"
+msgstr "आपका विषय"
+
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:210
+msgid "Disable Plugin"
+msgstr "डिसेबल प्लगइन"
+
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:213
+msgid "Disable Plugins"
+msgstr "प्लगइन्स को अक्षम करना"
+
+#. translators: 1. Name
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:332
+msgid "Redux WordPress Plugin"
+msgstr "रेडक्स वर्डप्रेस प्लगइन"
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:616
+#: redux-framework/inc/extensions/customizer/class-redux-extension-customizer.php:695
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr "आपके परिवर्तन है जो सहेजे नहीं गए हैं । क्या आप उंहें अब सहेजना चाहेंगे?"
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:632
+#: redux-framework/inc/extensions/customizer/class-redux-extension-customizer.php:696
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr "क्या आपको यकीन है? रीसेट करने से सभी कस्टम मान खो जाएंगे ।"
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:648
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr "क्या आपको यकीन है? रीसेट करने से इस अनुभाग के सभी कस्टम मान खो जाएंगे ।"
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:664
+#: redux-framework/inc/extensions/customizer/class-redux-extension-customizer.php:697
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+"अपने वर्तमान विकल्प इस पूर्व निर्धारित के मूल्यों के साथ प्रतिस्थापित किया जाएगा । क्या आप "
+"आगे बढ़ना चाहेंगे?"
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:680
+msgid ""
+"Your current options will be replaced with the values of this import. Would "
+"you like to proceed?"
+msgstr ""
+"आपके वर्तमान विकल्पों को इस आयात के मूल्यों के साथ प्रतिस्थापित किया जाएगा। क्या आप आगे "
+"बढ़ना चाहेंगे?"
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:694
+msgid "Please Wait"
+msgstr "कृपया प्रतीक्षा करो"
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:707
+msgid "There was an error saving. Here is the result of your action:"
+msgstr "कोई त्रुटि सहेजा जा रहा था । यहां अपनी कार्रवाई का परिणाम है:"
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:711
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr "आपकी कार्रवाई के साथ एक समस्या थी । कृपया पुन: प्रयास करें या पृष्ठ पुनः लोड करे ।"
+
+#. translators: %1$s Extension friendly name. %2$s: minimum Redux version.
+#: redux-framework/inc/classes/class-redux-extension-abstract.php:225
+#, php-format
+msgid "The %1$s extension requires Redux Framework version %2$s or higher."
+msgstr ""
+"%1$s एक्सटेंशन के लिए रेडक्स फ्रेमवर्क संस्करण %2$s या उससे अधिक की आवश्यकता होती है।"
+
+#: redux-framework/inc/classes/class-redux-extension-abstract.php:225
+msgid "You are currently running Redux Framework version "
+msgstr "आप वर्तमान में रेडक्स फ्रेमवर्क संस्करण चला रहे हैं "
+
+#: redux-framework/inc/classes/class-redux-extension-abstract.php:225
+msgid ""
+"This field will not render in your option panel, and featuress of this "
+"extension will not be available until the latest version of Redux Framework "
+"has been installed."
+msgstr ""
+"यह फ़ील्ड आपके विकल्प पैनल में नहीं होगा, और जब तक रेडक्स फ्रेमवर्क का नवीनतम संस्करण "
+"स्थापित नहीं किया जाता है तब तक इस एक्सटेंशन की विशेषताएं उपलब्ध नहीं होंगी।"
+
+#. translators: %s is the name of an extension
+#: redux-framework/inc/classes/class-redux-extensions.php:92
+#, php-format
+msgid "The `%s` extension was not located properly"
+msgstr "'%s' विस्तार ठीक से स्थित नहीं था"
+
+#: redux-framework/inc/classes/class-redux-field.php:37
+msgid "Field ID"
+msgstr "फ़ील्ड आईडी"
+
+#: redux-framework/inc/classes/class-redux-field.php:38
+#: redux-framework/inc/fields/slides/class-redux-slides.php:130
+#: redux-framework/inc/fields/slides/class-redux-slides.php:265
+msgid "Title"
+msgstr "शीर्षक"
+
+#: redux-framework/inc/classes/class-redux-field.php:39
+msgid "Subtitle"
+msgstr "उपशीर्षक"
+
+#: redux-framework/inc/classes/class-redux-field.php:40
+#: redux-framework/inc/fields/slides/class-redux-slides.php:142
+#: redux-framework/inc/fields/slides/class-redux-slides.php:278
+msgid "Description"
+msgstr "विवरण"
+
+#: redux-framework/inc/classes/class-redux-field.php:41
+msgid "Class"
+msgstr "कक्षा"
+
+#: redux-framework/inc/classes/class-redux-field.php:42
+msgid "Compiler"
+msgstr "कंपाइलर"
+
+#: redux-framework/inc/classes/class-redux-field.php:43
+#: redux-framework/inc/classes/class-redux-page-render.php:988
+msgid "Default"
+msgstr "चूक"
+
+#: redux-framework/inc/classes/class-redux-field.php:44
+msgid "Disabled"
+msgstr "अक्षम"
+
+#: redux-framework/inc/classes/class-redux-field.php:45
+msgid "Hint"
+msgstr "संकेत"
+
+#: redux-framework/inc/classes/class-redux-field.php:46
+msgid "Permissions"
+msgstr "अनुमतियाँ"
+
+#: redux-framework/inc/classes/class-redux-field.php:47
+msgid "Required"
+msgstr "आवश्यकता"
+
+#. translators: %1$s: Upload URL.  %2$s: Codex URL.
+#: redux-framework/inc/classes/class-redux-filesystem.php:142
+#: redux-framework/inc/classes/class-redux-filesystem.php:432
+msgid "File Permission Issues"
+msgstr "फ़ाइल अनुमति समस्याएं"
+
+#: redux-framework/inc/classes/class-redux-filesystem.php:142
+#: redux-framework/inc/classes/class-redux-filesystem.php:432
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that %1$s has the "
+"proper read-write permissions, or modify your wp-config.php file to contain "
+"your FTP login credentials as %2$s."
+msgstr ""
+"हम आवश्यक फ़ाइलों को संशोधित करने में असमर्थ थे। कृपया सुनिश्चित करें कि %1$s में उचित पढ़ने-"
+"लिखने की अनुमति है, या अपने wp-कॉन्फ़िग को संशोधित करें.php %2$s के रूप में अपने एफटीपी "
+"लॉगिन क्रेडेंशियल्स को शामिल करने के लिए फ़ाइल करें।"
+
+#: redux-framework/inc/classes/class-redux-filesystem.php:142
+#: redux-framework/inc/classes/class-redux-filesystem.php:432
+msgid "outlined here"
+msgstr "यहां उल्लिखित"
+
+#: redux-framework/inc/classes/class-redux-functions.php:511
+msgid "Support hash could not be generated. Please try again later."
+msgstr "समर्थन हैश जनरेट नहीं किया जा सका । कृपया बाद में पुन: प्रयास करें ।"
+
+#: redux-framework/inc/classes/class-redux-helpers.php:1265
+msgid "version"
+msgstr "संस्करण"
+
+#: redux-framework/inc/classes/class-redux-helpers.php:1265
+msgid "is out of date. The core version is"
+msgstr "बाहर की बात है। मुख्य संस्करण है"
+
+#: redux-framework/inc/classes/class-redux-page-render.php:172
+msgid "Enable"
+msgstr "कार्य विवरण के लिए url को पुनर्लेखन सक्षम करें"
+
+#: redux-framework/inc/classes/class-redux-page-render.php:177
+msgid "Disable"
+msgstr "अक्षम"
+
+#: redux-framework/inc/classes/class-redux-page-render.php:184
+msgid "moving the mouse over"
+msgstr "माउस पर ले जा रहा है"
+
+#: redux-framework/inc/classes/class-redux-page-render.php:186
+msgid "clicking"
+msgstr "क्लिक"
+
+#. translators: %1$s: Mousr action.  %2$s: Hint status.
+#: redux-framework/inc/classes/class-redux-page-render.php:191
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %1$s the hint icon, offering addition "
+"information about the field in which they appear.  They can be %2$s by using "
+"the link below."
+msgstr ""
+"संकेत टूलिप्स हैं जो संकेत आइकन %1$s करते समय पॉपअप करते हैं, जिस क्षेत्र में वे दिखाई देते हैं, "
+"उसके बारे में अतिरिक्त जानकारी प्रदान करते हैं।  नीचे दिए गए लिंक का उपयोग करके उन्हें %2$s "
+"जा सकता है।"
+
+#: redux-framework/inc/classes/class-redux-page-render.php:196
+msgid "Hints"
+msgstr "संकेत"
+
+#: redux-framework/inc/classes/class-redux-page-render.php:212
+msgid "Hint Tooltip Preferences"
+msgstr "संकेत टूलटिप प्राथमिकताएं"
+
+#. translators: %1$s is the field ID, %2$s is the field type.
+#: redux-framework/inc/classes/class-redux-page-render.php:513
+#, php-format
+msgid "Field %1$s could not be displayed. Field type %2$s was not found."
+msgstr "फील्ड %1$s प्रदर्शित नहीं किया जा सका। फील्ड टाइप %2$s नहीं मिला।"
+
+#: redux-framework/inc/classes/class-redux-panel.php:86
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr "चेतावनी-यह विकल्प पैनल जावास्क्रिप्ट के बिना ठीक से काम नहीं करेगा!"
+
+#: redux-framework/inc/classes/class-redux-panel.php:155
+msgid "Settings Imported!"
+msgstr "सेटिंग्स आयातित!"
+
+#: redux-framework/inc/classes/class-redux-panel.php:176
+msgid "All Defaults Restored!"
+msgstr "सभी डिफ़ॉल्ट बहाल!"
+
+#: redux-framework/inc/classes/class-redux-panel.php:197
+msgid "Section Defaults Restored!"
+msgstr "अनुभाग डिफ़ॉल्ट पुनर्स्थापित!"
+
+#: redux-framework/inc/classes/class-redux-panel.php:218
+msgid "Settings Saved!"
+msgstr "सेटिंग सहेजी गई!"
+
+#: redux-framework/inc/classes/class-redux-panel.php:245
+msgid "Settings have changed, you should save them!"
+msgstr "सेटिंग्स बदल गया है, आप उन्हें बचाना चाहिए!"
+
+#: redux-framework/inc/classes/class-redux-panel.php:259
+msgid "error(s) were found!"
+msgstr "त्रुटि (यां) मिलीं!"
+
+#: redux-framework/inc/classes/class-redux-panel.php:274
+msgid "warning(s) were found!"
+msgstr "चेतावनी (ओं) पाया गया!"
+
+#: redux-framework/inc/classes/class-redux-panel.php:394
+msgid ""
+"Your panel has bundled copies of Redux Framework template files that are "
+"outdated!"
+msgstr "आपके पैनल में रेडक्स फ्रेमवर्क टेम्पलेट फ़ाइलों की बंडल प्रतियां हैं जो पुरानी हैं!"
+
+#: redux-framework/inc/classes/class-redux-panel.php:394
+msgid "Please update them now as functionality issues could arise."
+msgstr "कृपया उन्हें अब अपडेट करें क्योंकि कार्यक्षमता के मुद्दे पैदा हो सकते हैं।"
+
+#: redux-framework/inc/classes/class-redux-rest-api-builder.php:68
+#: redux-framework/inc/classes/class-redux-rest-api-builder.php:83
+msgid "The field type"
+msgstr "फ़ील्ड प्रकार"
+
+#. translators: Number of years
+#: redux-framework/inc/classes/class-redux-user-feedback.php:99
+#, php-format
+msgid "%s years"
+msgstr "%s वर्ष"
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:101
+msgid "a year"
+msgstr "एक साल"
+
+#. translators: Number of weeks
+#: redux-framework/inc/classes/class-redux-user-feedback.php:108
+#, php-format
+msgid "%s weeks"
+msgstr "%s सप्ताह"
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:110
+msgid "a week"
+msgstr "एक सप्ताह"
+
+#. translators: Number of days
+#: redux-framework/inc/classes/class-redux-user-feedback.php:117
+#, php-format
+msgid "%s days"
+msgstr "%s दिन"
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:119
+msgid "a day"
+msgstr "एक दिन"
+
+#. translators: Number of hours
+#: redux-framework/inc/classes/class-redux-user-feedback.php:126
+#, php-format
+msgid "%s hours"
+msgstr "%s घंटा"
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:128
+msgid "an hour"
+msgstr "एक घंटा"
+
+#. translators: Number of minutes
+#: redux-framework/inc/classes/class-redux-user-feedback.php:135
+#, php-format
+msgid "%s minutes"
+msgstr "%s मिनट"
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:137
+msgid "a minute"
+msgstr "एक मिनट"
+
+#. translators: Number of seconds
+#: redux-framework/inc/classes/class-redux-user-feedback.php:144
+#, php-format
+msgid "%s seconds"
+msgstr "%s सेकंड"
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:146
+msgid "a second"
+msgstr "एक  सेकंड"
+
+#. translators: 1. Name
+#: redux-framework/inc/classes/class-redux-user-feedback.php:276
+#, php-format
+msgid "%s WordPress Plugin"
+msgstr "%s वर्डप्रेस प्लगइन"
+
+#. translators: 1. Name
+#: redux-framework/inc/classes/class-redux-user-feedback.php:280
+#, php-format
+msgid "Are you enjoying %s?"
+msgstr "क्या आप %s का आनंद ले रहे हैं?"
+
+#. translators: 1. Name, 2. Time
+#: redux-framework/inc/classes/class-redux-user-feedback.php:283
+#, php-format
+msgid ""
+"You have been using %1$s for %2$s now. Would you mind leaving a review to "
+"let us know know what you think? We'd really appreciate it!"
+msgstr ""
+"आप अब %2$s के लिए %1$s का उपयोग कर रहे हैं । क्या आप हमें यह बताने के लिए समीक्षा छोड़ने "
+"का मन करेंगे कि आपको क्या लगता है? हम वास्तव में इसकी सराहना करते हैं!"
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:287
+msgid "Leave a Review"
+msgstr "समीक्षा छोड़ें"
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:288
+msgid "No thanks / I already have"
+msgstr "धन्यवाद"
+
+#: redux-framework/inc/classes/class-redux-wordpress-data.php:358
+msgid "[unassigned]"
+msgstr "[असाक्षरित]"
+
+#: redux-framework/inc/extensions/customizer/class-redux-extension-customizer.php:721
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr "आपके परिवर्तन है जो सहेजे नहीं गए हैं ।  क्या आप उंहें अब सहेजना चाहेंगे?"
+
+#: redux-framework/inc/extensions/customizer/class-redux-extension-customizer.php:722
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr "क्या आपको यकीन है?  रीसेट करने से सभी कस्टम मान खो जाएंगे ।"
+
+#: redux-framework/inc/extensions/customizer/class-redux-extension-customizer.php:723
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+"अपने वर्तमान विकल्प इस पूर्व निर्धारित के मूल्यों के साथ प्रतिस्थापित किया जाएगा ।  क्या "
+"आप आगे बढ़ना चाहेंगे?"
+
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:97
+msgid "Press return or enter to open this panel"
+msgstr "प्रेस वापसी या इस पैनल को खोलने के लिए दर्ज करें"
+
+#. translators: %s is the site/panel title in the Customizer
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:126
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:167
+msgid "You are customizing"
+msgstr "आप अनुकूलन कर रहे हैं"
+
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:163
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-section.php:147
+msgid "Back"
+msgstr "वापस"
+
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:174
+msgid "Help"
+msgstr "मदद"
+
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-section.php:91
+msgid "Press return or enter to expand"
+msgstr "प्रेस वापसी या विस्तार करने के लिए दर्ज करें"
+
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-section.php:140
+msgid "Press return or enter to open"
+msgstr "प्रेस वापसी या खोलने के लिए दर्ज करें"
+
+#: redux-framework/inc/extensions/import_export/class-redux-extension-import-export.php:84
+msgid "Import / Export"
+msgstr "आयात/निर्यात"
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:77
+msgid "Import Options"
+msgstr "आयात विकल्प"
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:83
+msgid "Import from Clipboard"
+msgstr "क्लिपबोर्ड से आयात"
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:89
+msgid "Upload file"
+msgstr "फाइल अपलोड करें"
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:96
+msgid "Paste your clipboard data here."
+msgstr "यहां अपना क्लिपबोर्ड डेटा चिपकाएं।"
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:109
+msgid "Import"
+msgstr "आयात"
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:112
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+"चेतावनी! यह सभी मौजूदा विकल्प मान को अधिलेखित कर देगा, कृपया सावधानी के साथ आगे बढ़ें!"
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:120
+msgid "Export Options"
+msgstr "निर्यात विकल्प"
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:124
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+"यहां आप अपने वर्तमान विकल्प सेटिंग्स की प्रतिलिपि/ इस सुरक्षित रखें के रूप में आप इसे एक बैकअप "
+"के रूप में उपयोग कर सकते है कुछ गलत जाना चाहिए, या आप इसे उपयोग करने के लिए इस साइट "
+"(या किसी अंय साइट पर अपनी सेटिंग्स को बहाल कर सकते हैं) ।"
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:131
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:133
+msgid "Copy to Clipboard"
+msgstr "क्लिपबोर्ड को कॉपी करें"
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:132
+#: redux-framework/inc/welcome/views/health-report.php:77
+msgid "Copied!"
+msgstr "कॉपी किया गया!"
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:136
+msgid "Export File"
+msgstr "एक्सपोर्ट फाइल"
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:168
+msgid "Your panel has unchanged values, would you like to save them now?"
+msgstr "आपके पैनल में अपरिवर्तित मूल्य हैं, क्या आप उन्हें अब बचाना चाहेंगे?"
+
+#: redux-framework/inc/extensions/options_object/class-redux-extension-options-object.php:72
+#: redux-framework/inc/extensions/options_object/options_object/class-redux-options-object.php:100
+msgid "Options Object"
+msgstr "विकल्प ऑब्जेक्ट"
+
+#: redux-framework/inc/extensions/options_object/options_object/class-redux-options-object.php:106
+msgid "Show Object in Javascript Console Object"
+msgstr "ऑब्जेक्ट को Javascript कंसोल ऑब्जेक्ट में दिखाएं"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:121
+#: redux-framework/inc/fields/color/class-redux-color.php:76
+#: redux-framework/inc/fields/color_gradient/class-redux-color-gradient.php:136
+msgid "Transparent"
+msgstr "पारदर्शी"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:132
+msgid "No Repeat"
+msgstr "कोई दोहराने नहीं"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:133
+msgid "Repeat All"
+msgstr "सभी को दोहराएं"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:134
+msgid "Repeat Horizontally"
+msgstr "क्षैतिज रूप से दोहराएं"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:135
+msgid "Repeat Vertically"
+msgstr "खड़ी दोहराएं"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:136
+#: redux-framework/inc/fields/background/class-redux-background.php:151
+#: redux-framework/inc/fields/background/class-redux-background.php:169
+#: redux-framework/inc/fields/background/class-redux-background.php:187
+#: redux-framework/inc/fields/background/class-redux-background.php:206
+msgid "Inherit"
+msgstr "इनहेरिट"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:139
+msgid "Background Repeat"
+msgstr "पृष्ठभूमि दोहराव"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:152
+#: redux-framework/inc/fields/background/class-redux-background.php:170
+msgid "Border Box"
+msgstr "बॉर्डर बॉक्स"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:153
+#: redux-framework/inc/fields/background/class-redux-background.php:171
+msgid "Content Box"
+msgstr "कंटेंट बॉक्स"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:154
+#: redux-framework/inc/fields/background/class-redux-background.php:172
+msgid "Padding Box"
+msgstr "पैडिंग बॉक्स"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:157
+msgid "Background Clip"
+msgstr "पृष्ठभूमि क्लिप"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:175
+msgid "Background Origin"
+msgstr "पृष् ठभूमि उद्गम"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:188
+msgid "Cover"
+msgstr "आवरण"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:189
+msgid "Contain"
+msgstr "नियंत्रित करना"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:192
+msgid "Background Size"
+msgstr "पृष्ठभूमि आकार"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:204
+msgid "Fixed"
+msgstr "निश्चित"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:205
+msgid "Scroll"
+msgstr "स्क्रॉल"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:209
+msgid "Background Attachment"
+msgstr "पृष्ठभूमि अनुलग्नक"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:221
+msgid "Left Top"
+msgstr "लेफ्ट टॉप"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:222
+msgid "Left center"
+msgstr "लेफ्ट सेंटर"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:223
+msgid "Left Bottom"
+msgstr "बाएं नीचे"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:224
+msgid "Center Top"
+msgstr "केंद्र शीर्ष"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:225
+msgid "Center Center"
+msgstr "केंद्र केंद्र"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:226
+msgid "Center Bottom"
+msgstr "केंद्र नीचे"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:227
+msgid "Right Top"
+msgstr "राइट टॉप"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:228
+msgid "Right center"
+msgstr "सही केंद्र"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:229
+msgid "Right Bottom"
+msgstr "दाएं नीचे"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:232
+msgid "Background Position"
+msgstr "पृष् ठभूमि स्थिति"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:287
+#: redux-framework/inc/fields/media/class-redux-media.php:89
+msgid "No media selected"
+msgstr "कोई मीडिया चयनित नहीं"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:332
+#: redux-framework/inc/fields/media/class-redux-media.php:244
+#: redux-framework/inc/fields/slides/class-redux-slides.php:107
+#: redux-framework/inc/fields/slides/class-redux-slides.php:251
+msgid "Upload"
+msgstr "上传"
+
+#: redux-framework/inc/fields/background/class-redux-background.php:339
+#: redux-framework/inc/fields/media/class-redux-media.php:251
+#: redux-framework/inc/fields/multi_text/class-redux-multi-text.php:60
+#: redux-framework/inc/fields/multi_text/class-redux-multi-text.php:77
+#: redux-framework/inc/fields/multi_text/class-redux-multi-text.php:99
+#: redux-framework/inc/fields/slides/class-redux-slides.php:118
+#: redux-framework/inc/fields/slides/class-redux-slides.php:253
+msgid "Remove"
+msgstr "हटाना"
+
+#: redux-framework/inc/fields/border/class-redux-border.php:106
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:165
+msgid "All"
+msgstr "所有"
+
+#: redux-framework/inc/fields/border/class-redux-border.php:123
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:223
+#: redux-framework/inc/fields/typography/class-redux-typography.php:641
+msgid "Top"
+msgstr "शीर्ष"
+
+#: redux-framework/inc/fields/border/class-redux-border.php:135
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:239
+msgid "Right"
+msgstr "सही"
+
+#: redux-framework/inc/fields/border/class-redux-border.php:147
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:255
+#: redux-framework/inc/fields/typography/class-redux-typography.php:653
+msgid "Bottom"
+msgstr "नीचे"
+
+#: redux-framework/inc/fields/border/class-redux-border.php:159
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:271
+msgid "Left"
+msgstr "बाएं"
+
+#: redux-framework/inc/fields/border/class-redux-border.php:169
+msgid "Solid"
+msgstr "त्रि-आयामी वस्‍तु"
+
+#: redux-framework/inc/fields/border/class-redux-border.php:170
+msgid "Dashed"
+msgstr "डैश्ड"
+
+#: redux-framework/inc/fields/border/class-redux-border.php:171
+msgid "Dotted"
+msgstr "डॉटेड"
+
+#: redux-framework/inc/fields/border/class-redux-border.php:172
+msgid "Double"
+msgstr "दोगुना"
+
+#: redux-framework/inc/fields/border/class-redux-border.php:173
+msgid "None"
+msgstr "कोई नहीं"
+
+#: redux-framework/inc/fields/border/class-redux-border.php:176
+msgid "Border style"
+msgstr "बॉर्डर शैली"
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:92
+msgid "Shadow"
+msgstr "साया"
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:116
+msgid "Horizontal Length "
+msgstr "क्षैतिज लंबाई "
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:125
+msgid "Horizontal Length"
+msgstr "क्षैतिज लंबाई"
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:140
+msgid "Vertical Length "
+msgstr "वर्टिकल लेंथ "
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:149
+msgid "Vertical Length"
+msgstr "वर्टिकल लेंथ"
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:164
+msgid "Blur Radius "
+msgstr "धुंधला त्रिज्या "
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:173
+msgid "Blur Radius"
+msgstr "धुंधला त्रिज्या"
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:188
+msgid "Spread "
+msgstr "फैलना "
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:197
+msgid "Spread"
+msgstr "फैलना"
+
+#: redux-framework/inc/fields/color_rgba/class-redux-color-rgba.php:42
+msgid "Choose"
+msgstr "चुनें"
+
+#: redux-framework/inc/fields/color_rgba/class-redux-color-rgba.php:43
+msgid "Cancel"
+msgstr "कैंसिल करें"
+
+#: redux-framework/inc/fields/color_rgba/class-redux-color-rgba.php:45
+msgid "Select Color"
+msgstr "रंग का चयन करें"
+
+#: redux-framework/inc/fields/dimensions/class-redux-dimensions.php:144
+msgid "Width"
+msgstr "चौड़ाई"
+
+#: redux-framework/inc/fields/dimensions/class-redux-dimensions.php:173
+#: redux-framework/inc/fields/typography/class-redux-typography.php:577
+msgid "Height"
+msgstr "ऊंचाई"
+
+#: redux-framework/inc/fields/dimensions/class-redux-dimensions.php:194
+#: redux-framework/inc/fields/dimensions/class-redux-dimensions.php:198
+#: redux-framework/inc/fields/dimensions/class-redux-dimensions.php:200
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:282
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:283
+msgid "Units"
+msgstr "इकाइयों"
+
+#: redux-framework/inc/fields/gallery/class-redux-gallery.php:48
+msgid "Add/Edit Gallery"
+msgstr "गैलरी जोड़ें/"
+
+#: redux-framework/inc/fields/gallery/class-redux-gallery.php:49
+msgid "Clear Gallery"
+msgstr "स्पष्ट गैलरी"
+
+#: redux-framework/inc/fields/link_color/class-redux-link-color.php:87
+msgid "Hover"
+msgstr "होवर करें"
+
+#: redux-framework/inc/fields/link_color/class-redux-link-color.php:109
+msgid "Visited"
+msgstr "दौरा"
+
+#: redux-framework/inc/fields/link_color/class-redux-link-color.php:153
+msgid "Focus"
+msgstr "ध्यान केंद्रित"
+
+#: redux-framework/inc/fields/multi_text/class-redux-multi-text.php:28
+msgid "Add More"
+msgstr "अधिक जोड़ें"
+
+#: redux-framework/inc/fields/password/class-redux-password.php:53
+msgid "Password"
+msgstr "पासवर्ड"
+
+#: redux-framework/inc/fields/password/class-redux-password.php:54
+msgid "Username"
+msgstr "उपयोगकर्ता नाम"
+
+#: redux-framework/inc/fields/select/class-redux-select.php:106
+#: redux-framework/inc/fields/select_image/class-redux-select-image.php:26
+msgid "Select an item"
+msgstr "किसी आइटम का चयन करें"
+
+#: redux-framework/inc/fields/select/class-redux-select.php:183
+#: redux-framework/inc/fields/select_image/class-redux-select-image.php:145
+msgid "No items of this type were found."
+msgstr "इस प्रकार का कोई आइटम नहीं मिला ।"
+
+#: redux-framework/inc/fields/slides/class-redux-slides.php:32
+msgid "Slide"
+msgstr "फिसलना"
+
+#. translators: New accordion title.
+#. translators:  Content title for new accordion.
+#: redux-framework/inc/fields/slides/class-redux-slides.php:48
+#: redux-framework/inc/fields/slides/class-redux-slides.php:235
+#, php-format
+msgid "New %s"
+msgstr "नया %s"
+
+#: redux-framework/inc/fields/slides/class-redux-slides.php:154
+#: redux-framework/inc/fields/slides/class-redux-slides.php:290
+msgid "URL"
+msgstr "Url"
+
+#: redux-framework/inc/fields/slides/class-redux-slides.php:217
+#: redux-framework/inc/fields/slides/class-redux-slides.php:353
+msgid "Delete"
+msgstr "हटाएँ"
+
+#. translators:  Content title for accordion.
+#: redux-framework/inc/fields/slides/class-redux-slides.php:365
+#, php-format
+msgid "Add %s"
+msgstr "%s जोड़ें"
+
+#: redux-framework/inc/fields/switch/class-redux-switch.php:37
+#, fuzzy
+msgid "On"
+msgstr "पर"
+
+#: redux-framework/inc/fields/switch/class-redux-switch.php:40
+msgid "Off"
+msgstr "बंद करना"
+
+#: redux-framework/inc/fields/text/class-redux-text.php:27
+msgid ""
+"The Text field accepts any form of text and optionally validates the text "
+"before saving the value."
+msgstr ""
+"टेक्स्ट फ़ील्ड किसी भी प्रकार के पाठ को स्वीकार करता है और मूल्य बचाने से पहले वैकल्पिक रूप से "
+"पाठ की पुष्टि करता है।"
+
+#: redux-framework/inc/fields/text/class-redux-text.php:29
+msgid "Display a qTip div when active on the text field."
+msgstr "टेक्स्ट फ़ील्ड पर सक्रिय होने पर एक क्यूटिप डिव प्रदर्शित करें."
+
+#: redux-framework/inc/fields/text/class-redux-text.php:30
+msgid "Placeholder text."
+msgstr "प्लेसहोल्डर पाठ।"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:307
+msgid "Font Family"
+msgstr "फ़ॉंट परिवार"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:309
+msgid "Font family"
+msgstr "फ़ॉन्ट परिवार"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:349
+#: redux-framework/inc/fields/typography/class-redux-typography.php:351
+msgid "Backup Font Family"
+msgstr "बैकअप फ़ॉंट परिवार"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:370
+#: redux-framework/inc/fields/typography/class-redux-typography.php:390
+msgid "Font style"
+msgstr "फ़ॉंट शैली"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:371
+msgid "Font Weight &amp; Style"
+msgstr "फ़ॉंट वजन &amp; शैली"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:388
+msgid "Style"
+msgstr "शैली"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:403
+msgid "Font subsets"
+msgstr "फ़ॉंट सबसेट"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:411
+msgid "Font Subsets"
+msgstr "फ़ॉंट सबसेट"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:414
+msgid "Subsets"
+msgstr "सबसेट"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:416
+msgid "Font script"
+msgstr "फ़ॉंट स्क्रिप्ट"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:430
+#: redux-framework/inc/fields/typography/class-redux-typography.php:431
+#: redux-framework/inc/fields/typography/class-redux-typography.php:433
+#: redux-framework/inc/fields/typography/class-redux-typography.php:435
+msgid "Text Align"
+msgstr "पाठ संरेखण"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:444
+#: redux-framework/inc/fields/typography/class-redux-typography.php:480
+#: redux-framework/inc/fields/typography/class-redux-typography.php:506
+#: redux-framework/inc/fields/typography/class-redux-typography.php:535
+msgid "inherit"
+msgstr "इनहेरिट"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:445
+msgid "left"
+msgstr "बाएं"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:446
+msgid "right"
+msgstr "सही"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:447
+msgid "center"
+msgstr "केंद्र"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:448
+msgid "justify"
+msgstr "सफ़ाई देना"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:449
+#: redux-framework/inc/fields/typography/class-redux-typography.php:479
+msgid "initial"
+msgstr "प्रारंभिक"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:461
+#: redux-framework/inc/fields/typography/class-redux-typography.php:462
+#: redux-framework/inc/fields/typography/class-redux-typography.php:464
+#: redux-framework/inc/fields/typography/class-redux-typography.php:466
+msgid "Text Transform"
+msgstr "पाठ ट्रांस्फ़ॉर्म"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:475
+#: redux-framework/inc/fields/typography/class-redux-typography.php:534
+msgid "none"
+msgstr "कोई नहीं"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:476
+msgid "capitalize"
+msgstr "कैपिटल"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:477
+msgid "uppercase"
+msgstr "अपरकेस"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:478
+msgid "lowercase"
+msgstr "लोअरकेस"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:492
+#: redux-framework/inc/fields/typography/class-redux-typography.php:493
+#: redux-framework/inc/fields/typography/class-redux-typography.php:495
+#: redux-framework/inc/fields/typography/class-redux-typography.php:497
+msgid "Font Variant"
+msgstr "फ़ॉंट वैरिएंट"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:507
+msgid "normal"
+msgstr "सामान्यतः "
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:508
+msgid "small-caps"
+msgstr "छोटी-छोटी टोपियां"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:520
+#: redux-framework/inc/fields/typography/class-redux-typography.php:521
+#: redux-framework/inc/fields/typography/class-redux-typography.php:523
+#: redux-framework/inc/fields/typography/class-redux-typography.php:525
+msgid "Text Decoration"
+msgstr "पाठ सजावट"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:536
+msgid "underline"
+msgstr "रेखांकन"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:537
+msgid "overline"
+msgstr "ओवरलाइन"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:538
+msgid "line-through"
+msgstr "लाइन-थ्रिंग"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:539
+msgid "blink"
+msgstr "पलक झपकना"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:552
+#: redux-framework/inc/fields/typography/class-redux-typography.php:557
+msgid "Font Size"
+msgstr "फ़ॉंट आकार"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:558
+msgid "Size"
+msgstr "आकार"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:571
+#: redux-framework/inc/fields/typography/class-redux-typography.php:576
+msgid "Line Height"
+msgstr "रेखा की ऊंचाई"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:591
+#: redux-framework/inc/fields/typography/class-redux-typography.php:596
+#: redux-framework/inc/fields/typography/class-redux-typography.php:597
+msgid "Word Spacing"
+msgstr "शब्द रिक्ति"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:611
+#: redux-framework/inc/fields/typography/class-redux-typography.php:616
+#: redux-framework/inc/fields/typography/class-redux-typography.php:617
+msgid "Letter Spacing"
+msgstr "अक्षर रिक्ति"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:639
+#: redux-framework/inc/fields/typography/class-redux-typography.php:641
+msgid "Margin Top"
+msgstr "मार्जिन टॉप"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:651
+#: redux-framework/inc/fields/typography/class-redux-typography.php:653
+msgid "Margin Bottom"
+msgstr "नीचे"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:675
+msgid "Font Color"
+msgstr "अचयनित रंग"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:682
+msgid "Font color"
+msgstr "अचयनित रंग"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:736
+msgid ""
+"Your Google Fonts are out of date. In order to update them you must register "
+"for Redux to enable updates."
+msgstr ""
+"आपके Google फ़ॉन्ट आउट ऑफ डेट हैं. उन्हें अपडेट करने के लिए आपको अपडेट सक्षम करने के लिए "
+"रेडक्स के लिए पंजीकरण करना होगा।"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:738
+msgid "to enable font updates"
+msgstr "फ़ॉन्ट अपडेट सक्षम करने के लिए"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:743
+msgid "Automated updates"
+msgstr "स्वचालित अपडेट"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:743
+msgid "one-time update"
+msgstr "एक बार का अपडेट"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:756
+msgid "Shadow Color"
+msgstr "छाया रंग"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:761
+msgid "Shadow color"
+msgstr "छाया रंग"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:773
+#: redux-framework/inc/fields/typography/class-redux-typography.php:782
+msgid "Horizontal"
+msgstr "क्षैतिज"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:790
+#: redux-framework/inc/fields/typography/class-redux-typography.php:799
+msgid "Vertical"
+msgstr "अनुलंब ऑफ़सेट"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:807
+#: redux-framework/inc/fields/typography/class-redux-typography.php:816
+msgid "Blur"
+msgstr "कलंक"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:856
+msgid "Downloading Google Fonts..."
+msgstr "गूगल फोंट डाउनलोड कर रहा है..."
+
+#. translators: Aria title, link title.
+#: redux-framework/inc/fields/typography/class-redux-typography.php:858
+#, php-format
+msgid "Update Failed|msg. %1$s"
+msgstr "अपडेट फेल। msg. %1$s"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:858
+msgid "Retry?"
+msgstr "पुनर्प्रयास?"
+
+#. translators: Javascript reload command, link title.
+#: redux-framework/inc/fields/typography/class-redux-typography.php:860
+#, php-format
+msgid "Updated! %1$s to start using your updated fonts."
+msgstr "अद्यतन! %1$s अपने अपडेटेड फोंट का इस्तेमाल शुरू करें।"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:860
+msgid "Reload the page"
+msgstr "पेज को फिर से लोड करें"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:1286
+msgid "Standard Fonts"
+msgstr "मानक फ़ॉंट"
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:1369
+msgid "Google Webfonts"
+msgstr "गूगल Webfonts"
+
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:44
+msgid "Gradient Type "
+msgstr "ढाल प्रकार "
+
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:53
+msgid "linear"
+msgstr "रेखीय"
+
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:54
+msgid "radial"
+msgstr "अरीय"
+
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:82
+msgid "From Reach "
+msgstr "पहुंच से "
+
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:91
+msgid "From Reach"
+msgstr "पहुंच से"
+
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:105
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:114
+msgid "To Reach"
+msgstr "पहुंचने के लिए"
+
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:135
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:144
+msgid "Gradient Angle"
+msgstr "रेडिएंट एंगल"
+
+#: redux-framework/inc/lib/image-filters/class-redux-image-filters.php:55
+msgid "Filters"
+msgstr "फ़िल्टर"
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:43
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:63
+msgid "RECOMMENDED"
+msgstr "अनुशंसित"
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "If you are submitting to WordPress.org Theme Repository, it is"
+msgstr "यदि आप WordPress.org थीम भंडार में जमा कर रहे हैं, तो यह है"
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "strongly"
+msgstr "जोरदार"
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "suggested that you read"
+msgstr "सुझाव दिया कि आप पढ़ते हैं"
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "this document"
+msgstr "यह दस्तावेज"
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "or your theme will be rejected because of Redux."
+msgstr "या रेडक्स की वजह से आपकी थीम को खारिज कर दिया जाएगा।"
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:50
+#, fuzzy
+msgid "REQUIRED"
+msgstr "आवश्यक है?"
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:50
+msgid "You MUST delete"
+msgstr "आपको हटाना होगा"
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:50
+msgid ""
+"or your theme will be rejected by WP.org theme submission because of Redux."
+msgstr ""
+"या रेडक्स की वजह से WP.org थीम सबमिशन द्वारा आपकी थीम को अस्वीकार कर दिया जाएगा।"
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:63
+msgid ""
+"The following arguments MUST be used for WP.org submissions, or you will be "
+"rejected because of your Redux configuration."
+msgstr ""
+"निम्नलिखित तर्कों का उपयोग WP.org सबमिशन के लिए किया जाना चाहिए, या आपको अपने "
+"रेडक्स कॉन्फ़िगरेशन के कारण अस्वीकार कर दिया जाएगा।"
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:43
+msgid "Redux localization utilities"
+msgstr "Redux स्थानीयकरण उपयोगिताएं"
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:44
+msgid "Redux Resting Diles"
+msgstr "Redux आराम Diles"
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:45
+msgid "Redux Code Styles"
+msgstr "Redux कोड शैलियां"
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:46
+msgid "Redux Unit Testing"
+msgstr "Redux यूनिट परीक्षण"
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:47
+msgid "Redux Plugin File"
+msgstr "Redux प्लगइन फ़ाइल"
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:48
+msgid "Redux Boostrap Tests"
+msgstr "Redux बूटस्ट्रैप टेस्ट"
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:49
+msgid "CI Testing FIle"
+msgstr "CI परीक्षण फ़ाइल"
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:50
+msgid "PHP Unit Testing"
+msgstr "PHP यूनिट परीक्षण"
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:63
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the"
+msgstr ""
+"ऐसा लगता है कि आपने अपने विषय के अंदर पूर्ण रेडक्स पैकेज एम्बेडेड किया है। आपको केवल एम्बेड "
+"करने की आवश्यकता है"
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:63
+msgid ""
+"folder. Embedding anything else will get your rejected from theme "
+"submission. Suspected Redux package file(s):"
+msgstr ""
+"फ़ोल्डर। कुछ और एम्बेडकरने वाले विषय प्रस्तुत करने से आपके अस्वीकृत हो जाएंगे। संदिग्ध रेडक्स पैकेज "
+"फ़ाइल (ओं):"
+
+#. translators: %1$s: santizied value.  %2$s: Old value.
+#: redux-framework/inc/validation/color/class-redux-validation-color.php:34
+#, php-format
+msgid ""
+"Invalid HTML color code %1$s. Please enter a valid code. No value was saved."
+msgstr ""
+"अमान्य एचटीएमएल कलर कोड %1$s। कृपया एक वैध कोड दर्ज करें। कोई मूल्य नहीं बचाया गया था "
+"।"
+
+#. translators: %1$s: santizied value.  %2$s: Old value.
+#: redux-framework/inc/validation/color/class-redux-validation-color.php:46
+#, php-format
+msgid "Sanitized value and saved as %1$s instead of %2$s."
+msgstr "स्वच्छ मूल्य और %2$s के बजाय %1$s के रूप में बचाया।"
+
+#: redux-framework/inc/validation/comma_numeric/class-redux-validation-comma-numeric.php:34
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+"आपको इस विकल्प के लिए सांख्यिक मानों की अल्पविराम से अलग की गई सूची प्रदान करनी होगी ।"
+
+#: redux-framework/inc/validation/css/class-redux-validation-css.php:27
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr "असुरक्षित तार अपने सीएसएस में पाए गए और बाहर फ़िल्टर्ड किया गया है ।"
+
+#: redux-framework/inc/validation/date/class-redux-validation-date.php:27
+msgid "This field must be a valid date."
+msgstr "यह फ़ील्ड कोई मांय दिनांक होना आवश्यक है ।"
+
+#: redux-framework/inc/validation/email/class-redux-validation-email.php:27
+msgid "You must provide a valid email for this option."
+msgstr "आपको इस विकल्प के लिए एक मांय ई-मेल प्रदान करना आवश्यक है ।"
+
+#: redux-framework/inc/validation/html_custom/class-redux-validation-html-custom.php:27
+msgid "Unallowed HTML was found in this field and has been removed."
+msgstr "इस क्षेत्र में बिना अनुमति के एचटीएमएल पाया गया था और इसे हटा दिया गया है।"
+
+#: redux-framework/inc/validation/js/class-redux-validation-js.php:27
+msgid "Javascript has been successfully escaped."
+msgstr "जावास्क्रिप्ट सफलतापूर्वक बच गया है ।"
+
+#: redux-framework/inc/validation/no_html/class-redux-validation-no-html.php:27
+msgid "You must not enter any HTML in this field.  All HTML has been removed."
+msgstr ""
+"आपको इस क्षेत्र में किसी भी एचटीएमएल में प्रवेश नहीं करना चाहिए।  सभी एचटीएमएल को हटा "
+"दिया गया है।"
+
+#: redux-framework/inc/validation/no_special_chars/class-redux-validation-no-special-chars.php:27
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+"आपको इस फ़ील्ड में कोई विशेष वर्ण दर्ज नहीं करना चाहिए, सभी विशेष वर्ण निकाल दिए गए हैं ।"
+
+#: redux-framework/inc/validation/not_empty/class-redux-validation-not-empty.php:27
+msgid "This field cannot be empty. Please provide a value."
+msgstr "यह फ़ील्ड रिक्त नहीं हो सकती । कृपया कोई मान प्रदान करें ।"
+
+#: redux-framework/inc/validation/numeric/class-redux-validation-numeric.php:27
+msgid "You must provide a numerical value for this option."
+msgstr "आपको इस विकल्प के लिए एक संख्यात्मक मान प्रदान करना होगा ।"
+
+#: redux-framework/inc/validation/unique_slug/class-redux-validation-unique-slug.php:29
+msgid "That URL slug is in use, please choose another."
+msgstr "वह यूआरएल स्लग उपयोग में है, कृपया एक और चुनें।"
+
+#: redux-framework/inc/validation/url/class-redux-validation-url.php:27
+msgid "You must provide a valid URL for this option."
+msgstr "आपको इस विकल्प के लिए कोई मांय URL प्रदान करना आवश्यक है ।"
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:87
+msgid "If you like"
+msgstr "यदि आप चाहते हैं"
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:87
+msgid "please leave us a"
+msgstr "कृपया हमें छोड़ एक"
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:87
+msgid "rating. A huge thank you in advance!"
+msgstr "रेटिंग। एक बहुत बड़ा धन्यवाद आप पहले से!"
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:104
+msgid "What is Redux Framework?"
+msgstr "Redux फ्रेमवर्क क्या है?"
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:104
+msgid "Redux Framework"
+msgstr "Redux फ्रेमवर्क"
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:110
+msgid "Redux Health Check"
+msgstr "रेडक्स स्वास्थ्य जांच"
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:206
+msgid "What is Redux?"
+msgstr "रेडक्स क्या है?"
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:211
+msgid "Health Check"
+msgstr "स्वास्थ्य जांच"
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:279
+msgid "Disable Panel Demo"
+msgstr "डिसेबल पैनल डेमो"
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:285
+msgid "Enable Panel Demo"
+msgstr "पैनल डेमो सक्षम करें"
+
+#: redux-framework/inc/welcome/views/about.php:17
+msgid "Welcome to"
+msgstr "पुनः स्वागत है"
+
+#: redux-framework/inc/welcome/views/about.php:21
+msgid ""
+"Redux is the world's most powerful and widely used WordPress interface "
+"builder. We are trusted by millions of developers and end users world-wide."
+msgstr ""
+"रेडक्स दुनिया का सबसे शक्तिशाली और व्यापक रूप से उपयोग किया जाने वाला वर्डप्रेस इंटरफेस "
+"बिल्डर है। हम लाखों डेवलपर्स और अंत उपयोगकर्ताओं द्वारा दुनिया भर में भरोसा कर रहे हैं।"
+
+#: redux-framework/inc/welcome/views/about.php:25
+#: redux-framework/inc/welcome/views/about.php:149
+#: redux-framework/inc/welcome/views/health-report.php:47
+#: redux-framework/inc/welcome/views/health-report.php:875
+msgid "Version"
+msgstr "संस्करण"
+
+#. translators: %s: HTML.
+#: redux-framework/inc/welcome/views/about.php:34
+#, php-format
+msgid "Redux is Where the End User %s Interacts with WordPress"
+msgstr "रेडक्स वह जगह है जहां एंड यूजर %s वर्डप्रेस के साथ इंटरैक्ट करता है"
+
+#: redux-framework/inc/welcome/views/about.php:35
+msgid ""
+"Redux is a foundation on which to build any interface in WordPress. It's "
+"time saved, frustrations reduced, and a unified experience."
+msgstr ""
+"रेडक्स एक नींव है जिस पर वर्डप्रेस में किसी भी इंटरफेस का निर्माण करना है। यह समय बचाया, "
+"कुंठाओं को कम है, और एक एकीकृत अनुभव है ।"
+
+#: redux-framework/inc/welcome/views/about.php:38
+msgid "Metaboxes"
+msgstr "मेटाबॉक्स"
+
+#: redux-framework/inc/welcome/views/about.php:39
+msgid "Taxonomies"
+msgstr "टैक्सोनॉमी"
+
+#: redux-framework/inc/welcome/views/about.php:40
+msgid "User Meta"
+msgstr "यूजर मेटा"
+
+#: redux-framework/inc/welcome/views/about.php:41
+msgid "Options Panel"
+msgstr "विकल्प पैनल"
+
+#: redux-framework/inc/welcome/views/about.php:42
+msgid "Customizer"
+msgstr "अनुकूलक"
+
+#: redux-framework/inc/welcome/views/about.php:43
+msgid "Gutenberg"
+msgstr "गुटेनबर्ग"
+
+#: redux-framework/inc/welcome/views/about.php:57
+msgid "Did I install this?"
+msgstr "क्या मैंने इसे स्थापित किया?"
+
+#: redux-framework/inc/welcome/views/about.php:61
+msgid ""
+"Maybe not! These items are using Redux. If you want to keep using them, "
+"Redux will need to remain installed and activated."
+msgstr ""
+"शायद नहीं! ये आइटम रेडक्स का उपयोग कर रहे हैं। यदि आप उनका उपयोग करते रहना चाहते हैं, "
+"तो रेडक्स को स्थापित और सक्रिय रहने की आवश्यकता होगी।"
+
+#. translators: %1$s: URL, %2$s: close tag.
+#: redux-framework/inc/welcome/views/about.php:72
+#, php-format
+msgid ""
+"Maybe not! If you want to see what Redux is all about, click here to "
+"%1$sActivate Demo Mode%2$s."
+msgstr ""
+"शायद नहीं! यदि आप यह देखना चाहते हैं कि रेडक्स क्या है, तो डेमो मोड%2$s को सक्रिय करने "
+"%1$s के लिए यहां क्लिक करें।"
+
+#: redux-framework/inc/welcome/views/about.php:99
+msgid "Version:"
+msgstr "संस्करण"
+
+#: redux-framework/inc/welcome/views/about.php:104
+#: redux-framework/inc/welcome/views/about.php:157
+msgid "By"
+msgstr "在"
+
+#: redux-framework/inc/welcome/views/about.php:111
+#: redux-framework/inc/welcome/views/health-report.php:863
+msgid "Theme"
+msgstr "थीम"
+
+#: redux-framework/inc/welcome/views/about.php:163
+msgid "Plugin"
+msgstr "प्लगइन"
+
+#: redux-framework/inc/welcome/views/health-report.php:39
+msgid "Redux - Health Report"
+msgstr "रेडक्स - स्वास्थ्य रिपोर्ट"
+
+#: redux-framework/inc/welcome/views/health-report.php:43
+msgid ""
+"Our core mantra at Redux is backward compatibility. With millions instances "
+"worldwide, all we care about is keeping can be assured that we will take "
+"care of you."
+msgstr ""
+"रेडक्स में हमारा मूल मंत्र पिछड़ा अनुकूलता है। दुनिया भर में लाखों उदाहरणों के साथ, हम सभी के "
+"बारे में परवाह रख रहा है आश्वासन दिया जा सकता है कि हम आप का ख्याल रखना होगा ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:56
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr "कृपया समर्थन से संपर्क करते समय अपने टिकट में इस जानकारी को कॉपी और पेस्ट करें:"
+
+#: redux-framework/inc/welcome/views/health-report.php:61
+msgid "Get System Report"
+msgstr "सिस्टम रिपोर्ट प्राप्त करें"
+
+#: redux-framework/inc/welcome/views/health-report.php:67
+msgid "Understanding the Status Report"
+msgstr "स्थिति रिपोर्ट को समझना"
+
+#: redux-framework/inc/welcome/views/health-report.php:78
+msgid "Copy for Support"
+msgstr "प्रतिलिपि अधिकार स्विच"
+
+#: redux-framework/inc/welcome/views/health-report.php:88
+msgid "WordPress Environment"
+msgstr "वर्डप्रेस पर्यावरण"
+
+#: redux-framework/inc/welcome/views/health-report.php:95
+msgid "Home URL"
+msgstr "होम यूआरएल"
+
+#: redux-framework/inc/welcome/views/health-report.php:98
+msgid "The URL of your site's homepage."
+msgstr "आपकी साइट के मुखपृष्ठ का URL ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:104
+msgid "Site URL"
+msgstr "साइट URL"
+
+#: redux-framework/inc/welcome/views/health-report.php:107
+msgid "The root URL of your site."
+msgstr "आपकी साइट का रूट यूआरएल ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:115
+msgid "Redux Version"
+msgstr "Redux संस्करण"
+
+#: redux-framework/inc/welcome/views/health-report.php:118
+msgid "The version of Redux Framework installed on your site."
+msgstr "Redux फ्रेमवर्क के संस्करण आपकी साइट पर स्थापित ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:126
+msgid "Redux Data Directory Writable"
+msgstr "Redux डेटा निर्देशिका लिखने योग्य"
+
+#: redux-framework/inc/welcome/views/health-report.php:129
+#: redux-framework/inc/welcome/views/health-report.php:152
+msgid ""
+"Redux and its extensions write data to the <code>uploads</code> directory. "
+"This directory must be writable."
+msgstr ""
+"Redux और उसके एक्सटेंशन निर्देशिका के लिए डेटा लिखें <code>uploads</code> । यह "
+"निर्देशिका लिखने योग्य होनी चाहिए ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:141
+msgid "To allow data saving, make"
+msgstr "डेटा बचत की अनुमति देने के लिए, बनाने के लिए"
+
+#: redux-framework/inc/welcome/views/health-report.php:141
+msgid "writable."
+msgstr "रिटेबल।"
+
+#: redux-framework/inc/welcome/views/health-report.php:149
+msgid "WP Content URL"
+msgstr "WP सामग्री यूआरएल"
+
+#: redux-framework/inc/welcome/views/health-report.php:160
+msgid "WP Version"
+msgstr "WP संस्करण"
+
+#: redux-framework/inc/welcome/views/health-report.php:163
+msgid "The version of WordPress installed on your site."
+msgstr "WordPress के संस्करण आपकी साइट पर स्थापित."
+
+#: redux-framework/inc/welcome/views/health-report.php:171
+msgid "WP Multisite"
+msgstr "WP Multisite"
+
+#: redux-framework/inc/welcome/views/health-report.php:174
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "चाहे या नहीं आप WordPress Multisite सक्षम है ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:188
+msgid "Permalink Structure"
+msgstr "Permalink संरचना"
+
+#: redux-framework/inc/welcome/views/health-report.php:191
+msgid ""
+"The current permalink structure as defined in WordPress Settings->Permalinks."
+msgstr ""
+"Wordpress सेटिंग्स में परिभाषित के रूप में वर्तमान permalink संरचना-> Permalinks ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:200
+msgid "Front Page Display"
+msgstr "फ्रंट पेज डिस्प्ले"
+
+#: redux-framework/inc/welcome/views/health-report.php:203
+msgid "The current Reading mode of WordPress."
+msgstr "Wordpress के वर्तमान पठन मोड ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:212
+msgid "Front Page"
+msgstr "फ्रंट पेज"
+
+#: redux-framework/inc/welcome/views/health-report.php:215
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr "वर्तमान में चयनित पृष्ठ जो साइट के फ्रंट पेज के रूप में कार्य करता है ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:223
+msgid "Posts Page"
+msgstr "पोस्ट पृष्ठ"
+
+#: redux-framework/inc/welcome/views/health-report.php:226
+msgid "The currently selected page in where blog posts are displayed."
+msgstr "वर्तमान में चयनित पृष्ठ जहां ब्लॉग पोस्ट प्रदर्शित किए जाते हैं ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:237
+msgid "WP Memory Limit"
+msgstr "WP मेमोरी सीमा"
+
+#: redux-framework/inc/welcome/views/health-report.php:240
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+"एक समय में आपकी साइट द्वारा उपयोग की जा सकने वाली मेमोरी (RAM) की अधिकतम मात्रा ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:247
+msgid "We recommend setting memory to at least 40MB. See:"
+msgstr "हम कम से कम 40MB करने के लिए स्मृति की स्थापना की सलाह दें। देखना:"
+
+#: redux-framework/inc/welcome/views/health-report.php:247
+msgid "Increasing memory allocated to PHP"
+msgstr "पीएचपी को आवंटित स्मृति में वृद्धि"
+
+#: redux-framework/inc/welcome/views/health-report.php:256
+msgid "Database Table Prefix"
+msgstr "डेटाबेस तालिका उपसर्ग"
+
+#: redux-framework/inc/welcome/views/health-report.php:259
+msgid "The prefix structure of the current WordPress database."
+msgstr "वर्तमान Wordpress डाटाबेस के उपसर्ग संरचना ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:267
+msgid "WP Debug Mode"
+msgstr "WP डीबग मोड"
+
+#: redux-framework/inc/welcome/views/health-report.php:270
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr "प्रदर्शित करता है कि या नहीं WordPress डिबग मोड में है ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:284
+msgid "Language"
+msgstr "भाषा"
+
+#: redux-framework/inc/welcome/views/health-report.php:287
+msgid "The current language used by WordPress. Default = English"
+msgstr "वर्तमान भाषा WordPress द्वारा इस्तेमाल किया । डिफ़ॉल्ट अंग्रेजी ="
+
+#: redux-framework/inc/welcome/views/health-report.php:299
+msgid "Browser"
+msgstr "ब्राउज़र"
+
+#: redux-framework/inc/welcome/views/health-report.php:306
+msgid "Browser Info"
+msgstr "ब्राउज़र जानकारी"
+
+#: redux-framework/inc/welcome/views/health-report.php:309
+msgid "Information about the current web browser."
+msgstr "उपयोग में वेब ब्राउज़र वर्तमान के बारे में जानकारी ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:326
+msgid "Server Environment"
+msgstr "सर्वर वातावरण"
+
+#: redux-framework/inc/welcome/views/health-report.php:333
+msgid "Server Info"
+msgstr "सर्वर जानकारी"
+
+#: redux-framework/inc/welcome/views/health-report.php:336
+msgid "Information about the web server that is currently hosting your site."
+msgstr "वेब सर्वर के बारे में जानकारी जो वर्तमान में आपकी साइट को होस्ट कर रहा है ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:344
+msgid "Localhost Environment"
+msgstr "स्थानीय होस्ट वातावरण"
+
+#: redux-framework/inc/welcome/views/health-report.php:347
+msgid "Is the server running in a localhost environment."
+msgstr "सर्वर एक स्थानीय होस्ट वातावरण में चल रहा है ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:363
+msgid "PHP Version"
+msgstr "PHP संस्करण"
+
+#: redux-framework/inc/welcome/views/health-report.php:366
+msgid "The version of PHP installed on your hosting server."
+msgstr "PHP के संस्करण आपके होस्टिंग सर्वर पर स्थापित ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:374
+msgid "ABSPATH"
+msgstr "ABSPATH"
+
+#: redux-framework/inc/welcome/views/health-report.php:377
+msgid "The ABSPATH variable on the server."
+msgstr "सर्वर पर ABSPATH चर ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:386
+msgid "PHP Memory Limit"
+msgstr "PHP स्मृति सीमा"
+
+#: redux-framework/inc/welcome/views/health-report.php:390
+#: redux-framework/inc/welcome/views/health-report.php:399
+msgid "The largest filesize that can be contained in one post."
+msgstr "सबसे बड़ी फ़ाइल का साइज़ कि एक पोस्ट में समाहित किया जा सकता है ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:395
+msgid "PHP Post Max Size"
+msgstr "PHP पोस्ट अधिकतम आकार"
+
+#: redux-framework/inc/welcome/views/health-report.php:404
+msgid "PHP Time Limit"
+msgstr "PHP समय सीमा"
+
+#: redux-framework/inc/welcome/views/health-report.php:406
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)."
+msgstr ""
+"(सर्वर lockups से बचने के लिए) समय से पहले अपनी साइट पर एक एकल कार्रवाई पर खर्च करेंगे "
+"(सेकंड में) की मात्रा"
+
+#: redux-framework/inc/welcome/views/health-report.php:411
+msgid "PHP Max Input Vars"
+msgstr "PHP अधिकतम इनपुट Vars"
+
+#: redux-framework/inc/welcome/views/health-report.php:415
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+"अधिक भार से बचने के लिए आपके सर्वर द्वारा किसी एकल फ़ंक्शन के लिए उपयोग किए जा सकने वाले "
+"चरों की अधिकतम संख्या ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:420
+msgid "PHP Display Errors"
+msgstr "PHP प्रदर्शन त्रुटियां"
+
+#: redux-framework/inc/welcome/views/health-report.php:424
+msgid "Determines if PHP will display errors within the browser."
+msgstr "निर्धारित करता है अगर PHP ब्राउज़र के भीतर त्रुटियों को प्रदर्शित करेगा ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:440
+msgid "SUHOSIN Installed"
+msgstr "सुहोसिन संस्थापित"
+
+#: redux-framework/inc/welcome/views/health-report.php:443
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.  "
+"If enabled on your server, Suhosin may need to be configured to increase its "
+"data submission limits."
+msgstr ""
+"Suhosin PHP प्रतिष्ठानों के लिए एक उंनत सुरक्षा प्रणाली है । यह PHP अनुप्रयोगों में अच्छी "
+"तरह से ज्ञात समस्याओं के एक नंबर के खिलाफ एक हाथ पर अपने सर्वर की रक्षा के लिए डिज़ाइन "
+"किया गया था और इन अनुप्रयोगों या PHP कोर ही भीतर संभावित अज्ञात कमजोरियों के खिलाफ "
+"दूसरे हाथ पर ।  यदि आपके सर्वर पर सक्षम किया गया है, Suhosin को अपनी डेटा सबमिशन "
+"सीमा को बढ़ाने के लिए कॉंफ़िगर करने की आवश्यकता हो सकती है ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:461
+msgid "MySQL Version"
+msgstr "MySQL संस्करण"
+
+#: redux-framework/inc/welcome/views/health-report.php:463
+msgid "The version of MySQL installed on your hosting server."
+msgstr "अपने होस्टिंग सर्वर पर स्थापित MySQL के संस्करण ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:468
+msgid "Max Upload Size"
+msgstr "अधिकतम अपलोड आकार"
+
+#: redux-framework/inc/welcome/views/health-report.php:470
+msgid ""
+"The largest filesize that can be uploaded to your WordPress installation."
+msgstr ""
+"सबसे बड़ी फ़ाइल का साइज़ कि अपने WordPress स्थापना के लिए अपलोड किया जा सकता है ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:476
+msgid "Default Timezone is UTC"
+msgstr "UTC डिफ़ॉल्ट समयक्षेत्र है"
+
+#: redux-framework/inc/welcome/views/health-report.php:479
+msgid "The default timezone for your server."
+msgstr "आपके सर्वर के लिए डिफ़ॉल्ट समयक्षेत्र ।"
+
+#. translators: %s default time zone.
+#: redux-framework/inc/welcome/views/health-report.php:487
+msgid "Default timezone is"
+msgstr "डिफ़ॉल्ट समयक्षेत्र है"
+
+#: redux-framework/inc/welcome/views/health-report.php:487
+msgid "it should be UTC"
+msgstr "यह यूटीसी होना चाहिए"
+
+#: redux-framework/inc/welcome/views/health-report.php:502
+msgid "Used when communicating with remote services with PHP."
+msgstr "इस्तेमाल किया जब PHP के साथ दूरदराज के सेवाओं के साथ संवाद स्थापित ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:508
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+"आपके सर्वर fsockopen या कर्ल सक्षम नहीं है-कर्ल अंय सर्वरों के साथ संवाद करने के लिए प्रयोग "
+"किया जाता है । कृपया अपने होस्टिंग प्रदाता से संपर्क करें ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:512
+msgid "Remote Post"
+msgstr "रिमोट पोस्ट"
+
+#: redux-framework/inc/welcome/views/health-report.php:513
+msgid "Used to send data to remote servers."
+msgstr "दूरस्थ सर्वर पर डेटा भेजने के लिए उपयोग किया जाता है ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:518
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+"wp_remote_post () विफल रहा । कई उन्नत सुविधाएँ कार्य नहीं हो सकता है । अपने होस्टिंग "
+"प्रदाता से संपर्क करें ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:521
+#: redux-framework/inc/welcome/views/health-report.php:536
+msgid "Error:"
+msgstr "चूक:"
+
+#: redux-framework/inc/welcome/views/health-report.php:528
+msgid "Remote Get"
+msgstr "रिमोट प्राप्त करें"
+
+#: redux-framework/inc/welcome/views/health-report.php:529
+msgid "Used to grab information from remote servers for updates updates."
+msgstr "अद्यतन अद्यतन के लिए दूरदराज के सर्वर से जानकारी हड़पने के लिए इस्तेमाल किया ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:534
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+"wp_remote_get () विफल रहा । यह दूरस्थ सर्वर से जानकारी प्राप्त करने के लिए आवश्यक है । "
+"अपने होस्टिंग प्रदाता से संपर्क करें ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:572
+msgid "Active Plugins"
+msgstr "सक्रिय प्लगइंस"
+
+#: redux-framework/inc/welcome/views/health-report.php:585
+msgid "Visit plugin homepage"
+msgstr "यात्रा प्लगइन मुखपृष्ठ"
+
+#. translators: %s Author name and URL.
+#: redux-framework/inc/welcome/views/health-report.php:593
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr "(s) पहले"
+
+#: redux-framework/inc/welcome/views/health-report.php:613
+msgid "Redux Instance: "
+msgstr "Redux उदाहरण:"
+
+#: redux-framework/inc/welcome/views/health-report.php:623
+msgid "The opt_name argument for this instance of Redux."
+msgstr "Redux की इस आवृत्ति के लिए opt_name तर्क है ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:633
+msgid "The global_variable argument for this instance of Redux."
+msgstr "Redux की इस आवृत्ति के लिए global_variable तर्क है ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:643
+msgid "Indicates if developer mode is enabled for this instance of Redux."
+msgstr "यह इंगित करता है कि डेवलपर मोड Redux की इस आवृत्ति के लिए सक्षम है या नहीं."
+
+#: redux-framework/inc/welcome/views/health-report.php:662
+msgid "Indicates if ajax based saving is enabled for this instance of Redux."
+msgstr "यदि ajax आधारित बचत Redux के इस उदाहरण के लिए सक्षम है इंगित करता है ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:681
+msgid ""
+"The page slug denotes the string used for the options panel page for this "
+"instance of Redux."
+msgstr ""
+"पृष्ठ स्लग Redux की इस आवृत्ति के लिए विकल्प पैनल पृष्ठ के लिए इस्तेमाल किया स्ट्रिंग को "
+"दर्शाता है ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:688
+msgid ""
+"The page permissions variable sets the permission level required to access "
+"the options panel for this instance of Redux."
+msgstr ""
+"पृष्ठ अनुमतियां चर Redux की इस आवृत्ति के लिए विकल्प फलक तक पहुंचने के लिए आवश्यक अनुमति "
+"स्तर सेट करता है ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:695
+msgid ""
+"This variable set whether or not the menu is displayed as an admin menu item "
+"for this instance of Redux."
+msgstr ""
+"यह चर सेट करें या नहीं मेनू Redux की इस आवृत्ति के लिए कोई व्यवस्थापक मेनू आइटम के रूप में "
+"प्रदर्शित किया जाता है ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:702
+msgid ""
+"The page parent variable sets where the options menu will be placed on the "
+"WordPress admin sidebar for this instance of Redux."
+msgstr ""
+"पृष्ठ माता पिता चर सेट जहां विकल्प मेनू Redux के इस उदाहरण के लिए WordPress व्यवस्थापक "
+"साइडबार पर रखा जाएगा ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:710
+msgid "Indicates if the compiler flag is enabled for this instance of Redux."
+msgstr "कंपाइलर ध्वज Redux की इस आवृत्ति के लिए सक्षम किया गया है, तो इंगित करता है ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:729
+msgid ""
+"Indicates if output flag for globally shutting off all CSS output is enabled "
+"for this instance of Redux."
+msgstr ""
+"यदि आउटपुट ध्वज को वैश्विक रूप से बंद सभी सीएसएस उत्पादन के लिए Redux के इस उदाहरण के "
+"लिए सक्षम है इंगित करता है ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:748
+msgid ""
+"The output_tag variable sets whether or not dynamic CSS will be generated "
+"for the customizer and Google fonts for this instance of Redux."
+msgstr ""
+"Output_tag चर सेट या नहीं गतिशील सीएसएस redux के इस उदाहरण के लिए अनुकूलक और गूगल "
+"फ़ॉंट के लिए उत्पंन किया जाएगा ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:768
+msgid ""
+"These files are calling this opt_name. If you want to alter the config of "
+"this opt_name, modify these files."
+msgstr ""
+"ये फाइलें इस opt_name को बुला रही हैं। यदि आप इस opt_name के कॉन्फिग को बदलना चाहते "
+"हैं, तो इन फ़ाइलों को संशोधित करें।"
+
+#: redux-framework/inc/welcome/views/health-report.php:800
+msgid ""
+"The specified template path containing custom template files for this "
+"instance of Redux."
+msgstr "निर्दिष्ट टेंपलेट पथ जिसमें Redux की इस आवृत्ति के लिए कस्टम टेंपलेट फ़ाइलें हैं ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:807
+msgid "List of template files overriding the default Redux template files."
+msgstr "डिफ़ॉल्ट Redux टेम्पलेट फ़ाइलों को ओवरराइड करने वाली टेम्पलेट फ़ाइलों की सूची."
+
+#: redux-framework/inc/welcome/views/health-report.php:835
+msgid "Indicates the installed Redux extensions and their version numbers."
+msgstr "स्थापित Redux एक्सटेंशन और उनके संस्करण संख्याओं को इंगित करता है ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:868
+msgid "Name"
+msgstr "नाम"
+
+#: redux-framework/inc/welcome/views/health-report.php:870
+msgid "The name of the current active theme."
+msgstr "वर्तमान सक्रिय विषयवस्तु का नाम ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:877
+msgid "The installed version of the current active theme."
+msgstr "वर्तमान सक्रिय विषयवस्तु का स्थापित संस्करण ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:885
+msgid "is available"
+msgstr "उपलब्ध है"
+
+#: redux-framework/inc/welcome/views/health-report.php:891
+msgid "Author URL"
+msgstr "लेखक यूआरएल"
+
+#: redux-framework/inc/welcome/views/health-report.php:893
+msgid "The theme developers URL."
+msgstr "थीम डेवलपर्स यूआरएल ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:898
+msgid "Child Theme"
+msgstr "चाइल्ड थीम"
+
+#: redux-framework/inc/welcome/views/health-report.php:900
+msgid "Displays whether or not the current theme is a child theme."
+msgstr "प्रदर्शित करता है कि वर्तमान विषयवस्तु कोई चाइल्ड विषयवस्तु है या नहीं ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:908
+#, php-format
+msgid ""
+"If you are modifying Redux Framework on a parent theme that you did not "
+"build personally we recommend using a child theme. See: <a href=\"%s\" "
+"target=\"_blank\">How to create a child theme</a>"
+msgstr ""
+"यदि आप एक माता-पिता के विषय पर रेडक्स फ्रेमवर्क को संशोधित कर रहे हैं जिसे आपने व्यक्तिगत "
+"रूप से नहीं बनाया था तो हम एक बच्चे के विषय का उपयोग करने की सलाह देते हैं। देखें: <a href="
+"\"%s\" target=\"_blank\">बच्चे की थीम कैसे बनाएं</a>"
+
+#: redux-framework/inc/welcome/views/health-report.php:917
+msgid "Parent Theme Name"
+msgstr "पेरेंट विषयवस्तु नाम"
+
+#: redux-framework/inc/welcome/views/health-report.php:921
+msgid "The name of the parent theme."
+msgstr "पैरेंट विषयवस्तु का नाम ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:927
+msgid "Parent Theme Version"
+msgstr "पैरेंट थीम संस्करण"
+
+#: redux-framework/inc/welcome/views/health-report.php:930
+msgid "The installed version of the parent theme."
+msgstr "पैरेंट विषयवस्तु का स्थापित संस्करण ।"
+
+#: redux-framework/inc/welcome/views/health-report.php:936
+msgid "Parent Theme Author URL"
+msgstr "पेरेंट विषयवस्तु लेखक URL"
+
+#: redux-framework/inc/welcome/views/health-report.php:939
+msgid "The parent theme developers URL."
+msgstr "पैरेंट थीम डेवलपर्स URL ।"
+
+#: redux-framework/templates/panel/footer.tpl.php:58
+#: redux-framework/templates/panel/header-stickybar.tpl.php:22
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: redux-framework/templates/panel/footer.tpl.php:62
+#: redux-framework/templates/panel/header-stickybar.tpl.php:26
+msgid "Reset Section"
+msgstr "अनुभाग रीसेट करें"
+
+#: redux-framework/templates/panel/footer.tpl.php:63
+#: redux-framework/templates/panel/header-stickybar.tpl.php:27
+msgid "Reset All"
+msgstr "सभी रीसेट करें"
+
+#: redux-framework/templates/panel/footer.tpl.php:67
+#: redux-framework/templates/panel/header-stickybar.tpl.php:31
+msgid "Working..."
+msgstr "काम..."
+
+#: redux-framework/templates/panel/header-stickybar.tpl.php:16
+msgid "Expand"
+msgstr "विस्तृत"
+
+#: redux-framework/templates/panel/header.tpl.php:11
+#: redux-framework/templates/panel/header.tpl.php:48
+msgid "Developer Mode Enabled"
+msgstr "डेवलपर मोड सक्षम किया गया"
+
+#: redux-framework/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr "WP_DEBUG सक्षम किया गया है"
+
+#: redux-framework/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr "आप एक स्थानीय होस्ट वातावरण में काम कर रहे हैं"
+
+#: redux-framework/templates/panel/header.tpl.php:31
+#, fuzzy
+msgid "and"
+msgstr "और"
+
+#: redux-framework/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr "यह स्वचालित रूप से सक्षम किया गया है क्योंकि"
+
+#: redux-framework/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+"आप एक डेवलपर नहीं हैं, तो अपने विषय/प्लगइन लेखक डेवलपर मोड सक्षम के साथ भेज दिया. इसे "
+"ठीक करने के लिए सीधे संपर्क करें ।"
+
+#: user_profile/index.php:7
+msgid "Package Information"
+msgstr "पैकेज जानकारी"
+
+#: user_profile/index.php:28
+msgid "N/A"
+msgstr "लागू नहीं"
+
+#: user_profile/index.php:31
+msgid " Jobs"
+msgstr "नौकरियां"
+
+#: user_profile/index.php:43
+msgid "Jobs applied (-1 means unlimited)"
+msgstr "लागू नौकरियां (-1 असीमित का मतलब है)"
+
+#: user_profile/index.php:50 user_profile/index.php:81
+msgid "Featured profile (Y-mm-dd)"
+msgstr "विशेष रुप से प्रदर्शित प्रोफ़ाइल (Y-mm-dd)"
+
+#: user_profile/index.php:60
+msgid " Package expiry (Y-mm-dd)"
+msgstr " पैकेज समाप्ति (Y-mm-dd)"
+
+#: user_profile/index.php:92
+msgid "Candidates Resumes Access"
+msgstr "उंमीदवारों को फिर से प्रवेश"
+
+#: user_profile/index.php:101
+msgid "User Profile Information"
+msgstr "उपयोगकर्ता प्रोफ़ाइल जानकारी"
+
+#: user_profile/index.php:114 user_profile/index.php:132
+msgid "Selet an option"
+msgstr "एक विकल्प सेलेट"
+
+#: user_profile/index.php:129
+msgid "User Profile Setting"
+msgstr "उपयोगकर्ता प्रोफ़ाइल सेटिंग"
+
+#: user_profile/index.php:137
+msgid "Public"
+msgstr "सार्वजनिक"
+
+#: user_profile/index.php:142
+msgid "Private"
+msgstr "निजी"
+
+#. Plugin Name of the plugin/theme
+msgid "Nokri Framework"
+msgstr "Nokri फ्रेमवर्क"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/scriptsbundle"
+msgstr "https://themeforest.net/user/scriptsbundle"
+
+#. Description of the plugin/theme
+msgid "This plugin is essential for the proper theme funcationality."
+msgstr "इस प्लगइन उचित विषय funcationality के लिए आवश्यक है ।"
+
+#. Author of the plugin/theme
+msgid "scriptsbundle"
+msgstr "scriptsbundle"

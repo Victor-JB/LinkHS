@@ -1,0 +1,16 @@
+
+---Downloaded files---
+The import files for: Demo-elementor were successfully downloaded!
+Initial max execution time = 1800
+Files info:
+Site URL = https://linkhs.co
+Data file = /home2/linkhsco/public_html/wp-content/plugins/nokri_framework/demo-data/Demo-elementor/content.xml
+Widget file = /home2/linkhsco/public_html/wp-content/plugins/nokri_framework/demo-data/Demo-elementor/widgets.txt
+Customizer file = not defined!
+Redux files:
+nokri -> /home2/linkhsco/public_html/wp-content/plugins/nokri_framework/demo-data/Demo-elementor/theme-options.txt 
+
+
+------
+New AJAX call!
+

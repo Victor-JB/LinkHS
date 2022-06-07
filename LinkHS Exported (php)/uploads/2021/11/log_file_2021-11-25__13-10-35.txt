@@ -1,0 +1,18 @@
+
+---Downloaded files---
+The import files for: Demo were successfully downloaded!
+Initial max execution time = 1800
+Files info:
+Site URL = https://linkhs.co
+Data file = /home2/linkhsco/public_html/wp-content/plugins/nokri_framework/demo-data/Demo/content.xml
+Widget file = /home2/linkhsco/public_html/wp-content/plugins/nokri_framework/demo-data/Demo/widgets.json
+Customizer file = /home2/linkhsco/public_html/wp-content/plugins/nokri_framework/demo-data/Demo/customizer.dat
+Redux files:
+nokri -> /home2/linkhsco/public_html/wp-content/plugins/nokri_framework/demo-data/Demo/theme-options.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+

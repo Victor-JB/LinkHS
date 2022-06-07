@@ -1,0 +1,1 @@
+<?php  if ( is_active_sidebar( 'horizontal_searchbar' ) ) { dynamic_sidebar('horizontal_searchbar'); }  ?>

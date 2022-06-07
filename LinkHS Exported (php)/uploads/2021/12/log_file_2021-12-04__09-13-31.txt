@@ -1,0 +1,95 @@
+
+---Downloaded files---
+The import files for: Demo-elementor were successfully downloaded!
+Initial max execution time = 1800
+Files info:
+Site URL = https://linkhs.co
+Data file = /home2/linkhsco/public_html/wp-content/plugins/nokri_framework/demo-data/Demo-elementor/content.xml
+Widget file = /home2/linkhsco/public_html/wp-content/plugins/nokri_framework/demo-data/Demo-elementor/widgets.txt
+Customizer file = not defined!
+Redux files:
+nokri -> /home2/linkhsco/public_html/wp-content/plugins/nokri_framework/demo-data/Demo-elementor/theme-options.txt 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Search sidebar : 
+
+Nokri search by keyword - Search by Keywords - Imported
+Nokri Search Categories - Search by Category - Imported
+Nokri All Search Widget - Job Type - Imported
+Nokri All Search Widget - Job Qualification - Imported
+Nokri All Search Widget - Job Level - Imported
+Nokri All Search Widget - Salary Type - Imported
+Nokri All Search Widget - Job Salary - Imported
+Nokri All Search Widget - Job Skills - Imported
+Nokri All Search Widget - Job Experience - Imported
+Nokri All Search Widget - Job Currency - Imported
+Nokri All Search Widget - Job Shift - Imported
+Nokri All Search Widget - Job Tags - Imported
+Nokri All Search Widget - Job Class - Imported
+Nokri Custom Locations - Location - Imported
+nokri_advertisement_widget - Adevrtisement - Site does not support widget
+
+Candidates sidebar : 
+
+Candidate Title - Candidate Name - Imported
+Candidate Headline - Candidate Profession - Imported
+Candidate Level - Candidate Level - Imported
+Candidate Experience - Candidate Experience - Imported
+Candidate Type - Candidate Type - Imported
+Candidate Gender - Candidate Gender - Imported
+Candidate Salary Range - Salary Range - Imported
+Candidate Salary Type - Salary Type - Imported
+Candidate Salary Currency - Salary Currency - Imported
+nokri_advertisement_widget - Adevrtisement - Site does not support widget
+
+Employer sidebar : 
+
+Employer Title - Search by Name - Imported
+Employer Specialization - Specialization - Imported
+nokri_advertisement_widget - Adevrtisement - Site does not support widget
+
+
+
+---Importing Redux settings---
+Redux settings import for: nokri finished successfully!
+
+---ocdi/after_import---
+

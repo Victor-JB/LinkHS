@@ -1,0 +1,69 @@
+.showDefaults {
+	display: none !important;
+}
+.project_meta {
+	padding: 3px 8px;
+	font-size: 1.7em;
+	line-height: 100%;
+	height: 1.7em;
+	width: 100%;
+	outline: 0;
+	margin: 0 0 3px;
+	background-color: #fff;
+}
+.margin_top {
+	margin-top: 12px;
+	position:relative;
+	overflow:hidden;
+}
+#vc_license-activation-notice {
+	display: none;
+}
+.rAds {
+	display: none;
+}
+.redux-notice {
+	display: none;
+}
+#sb_video_link
+{
+	display:none;
+}
+.wp-admin .postbox-container select {
+    height: 36px;
+	width:100%;
+}
+.datepickers-container {
+    z-index: 999;
+}
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 30.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+[class*="col-"] {
+  /*float: left;*/
+  padding: 15px;
+}
+.postbox-container [class*="col-"] input[type="email"], .postbox-container [class*="col-"] input[type="number"], .postbox-container [class*="col-"] input[type="password"] , .postbox-container [class*="col-"] input[type="text"], .postbox-container [class*="col-"] input[type="url"], .postbox-container [class*="col-"] select, .postbox-container [class*="col-"] textarea {
+	width:100%;
+	height:36px;	
+}
+
+.custom_feilds_repeats {
+    border: 1px solid 
+    #ddd;
+    padding: 10px 30px;
+	margin-bottom:20px;
+	background-color:#f1f1f1;
+}
+textarea {
+	width:100%;
+}
