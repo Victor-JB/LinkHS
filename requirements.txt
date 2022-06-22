@@ -1,0 +1,4 @@
+pyresparser
+nltk
+python-docx
+spacy==2.2.4
