@@ -28,3 +28,11 @@ class Post(models.Model):
 
     def __str__(self):
         return self.title
+
+class Job(models.Model):
+    locations = models.TextField(blank=True)
+    date = models.TextField(blank=True)
+    url = models.TextField(blank=True) 
+    title = models.TextField(blank=True)
+    company = models.TextField(blank=True)
+    time = models.FloatField(blank=True)

@@ -685,13 +685,13 @@
 														<div class="n-hero-two-form-cat">
 															<div class="n-saech-two-form">
 																<div class="row">
-																	<form method="get" action="./search-page/">
-
+																	<form action="{% url 'home' %}" method="POST">
+																		{% csrf_token %}
 																		<div
 																			class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
 																			<div class="form-group">
-																				<label><i class="ti-search"></i> Search
-																					Job</label>
+																				<label>
+																					<i class="ti-search"></i> Search Job</label>
 																				<input type="text" class="form-control"
 																					name="job-title"
 																					placeholder="Keyword">
@@ -702,97 +702,9 @@
 																			<div class="form-group">
 																				<label><i class="ti-location-pin"></i>
 																					Location</label>
-																				<select class="js-example-basic-single"
-																					data-allow-clear="true"
-																					data-placeholder="Select Location"
-																					style="width: 100%"
-																					name="job-location">
-																					<option value=""><label><i
-																								class="ti-location-pin"></i>
-																							Location</label></option>
-																					<option value="76">Germany (2)
-																					</option>
-																					<option value="78">&nbsp;&nbsp; -
-																						&nbsp;Berlin (0) </option>
-																					<option value="175">&nbsp;&nbsp; -
-																						&nbsp; - &nbsp;Frankfurt (0)
-																					</option>
-																					<option value="177">&nbsp;&nbsp; -
-																						&nbsp; - &nbsp;Kassel (0)
-																					</option>
-																					<option value="176">&nbsp;&nbsp; -
-																						&nbsp; - &nbsp;Wiesbaden (0)
-																					</option>
-																					<option value="77">&nbsp;&nbsp; -
-																						&nbsp;Hamburg (0) </option>
-																					<option value="182">&nbsp;&nbsp; -
-																						&nbsp; - &nbsp;Alster (0)
-																					</option>
-																					<option value="181">&nbsp;&nbsp; -
-																						&nbsp; - &nbsp;Miniatur
-																						Wunderland (0) </option>
-																					<option value="174">&nbsp;&nbsp; -
-																						&nbsp;Hesse (0) </option>
-																					<option value="179">&nbsp;&nbsp; -
-																						&nbsp; - &nbsp;Berlin Wall (0)
-																					</option>
-																					<option value="178">&nbsp;&nbsp; -
-																						&nbsp; - &nbsp;Brandenburg Gate
-																						(0) </option>
-																					<option value="180">&nbsp;&nbsp; -
-																						&nbsp; - &nbsp;Museum Island (0)
-																					</option>
-																					<option value="70">India (1)
-																					</option>
-																					<option value="71">&nbsp;&nbsp; -
-																						&nbsp;Delhi (1) </option>
-																					<option value="72">New delhi (0)
-																					</option>
-																					<option value="132">Pakistan (2)
-																					</option>
-																					<option value="133">&nbsp;&nbsp; -
-																						&nbsp;Punjab (0) </option>
-																					<option value="134">&nbsp;&nbsp; -
-																						&nbsp; - &nbsp;Lahore (0)
-																					</option>
-																					<option value="207">&nbsp;&nbsp; -
-																						&nbsp; - &nbsp;- &nbsp;Model
-																						Town (0) </option>
-																					<option value="73">UAE (1)</option>
-																					<option value="184">&nbsp;&nbsp; -
-																						&nbsp;Abu Dhabi (0) </option>
-																					<option value="187">&nbsp;&nbsp; -
-																						&nbsp;Bahrain (0) </option>
-																					<option value="189">&nbsp;&nbsp; -
-																						&nbsp; - &nbsp;Arad, Bahrain (0)
-																					</option>
-																					<option value="190">&nbsp;&nbsp; -
-																						&nbsp; - &nbsp;Muharraq (0)
-																					</option>
-																					<option value="188">&nbsp;&nbsp; -
-																						&nbsp; - &nbsp;Riffa (0)
-																					</option>
-																					<option value="74">&nbsp;&nbsp; -
-																						&nbsp;Dubai (0) </option>
-																					<option value="75">&nbsp;&nbsp; -
-																						&nbsp; - &nbsp;Marina (0)
-																					</option>
-																					<option value="186">&nbsp;&nbsp; -
-																						&nbsp;Qatar (0) </option>
-																					<option value="185">&nbsp;&nbsp; -
-																						&nbsp;Sharjah (0) </option>
-																					<option value="66">USA (12)</option>
-																					<option value="67">&nbsp;&nbsp; -
-																						&nbsp;Albama (6) </option>
-																					<option value="68">&nbsp;&nbsp; -
-																						&nbsp; - &nbsp;Anniston (0)
-																					</option>
-																					<option value="69">&nbsp;&nbsp; -
-																						&nbsp; - &nbsp;- &nbsp;Chickasaw
-																						(1) </option>
-																					<option value="183">Victoria (0)
-																					</option>
-																				</select>
+																				<input type="text" class="form-control"
+																					name="location"
+																					placeholder="Arizona">
 																			</div>
 																		</div>
 																		<div
