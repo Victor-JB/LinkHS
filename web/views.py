@@ -1,4 +1,4 @@
-import logging, requests, json, time
+import logging, requests, json, time, re
 import pandas as pd
 from django.shortcuts import render
 from django.views.generic import TemplateView
@@ -41,11 +41,13 @@ class SearchView(TemplateView):
 
         careerjet = pd.DataFrame(careerjet).iloc[::-1]
 
-        careerjet = careerjet.drop(columns=['site', 'salary', 'salary_min', 'salary_max', 'salary_type', 'salary_currency_code', 'description'])
+        careerjet = careerjet.drop(columns=['site', 'salary', 'salary_min', 'salary_max', 'salary_type', 'salary_currency_code'])
 
         df_records = careerjet.to_dict('records')
 
         t = float(time.time())
+
+        CLEANR = re.compile('<.*?>|&([a-z0-9]+|#[0-9]{1,6}|#x[0-9a-f]{1,6});')
 
         job_instances = [Job(
             locations=record['locations'],
@@ -53,7 +55,8 @@ class SearchView(TemplateView):
             url=record['url'],
             title=record['title'],
             company=record['company'],
-            time = t
+            time = t,
+            description=re.sub(CLEANR, '', record['description'])
         ) for record in df_records]
 
         Job.objects.bulk_create(job_instances)

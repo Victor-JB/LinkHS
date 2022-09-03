@@ -1147,9 +1147,7 @@
                                 <h4>{{ job.title }}</h4>
                                 <p class="company-name">{{ job.company }}</p>
                                 <ul class="featured-badge-list">
-                                  <li style=" background-color: rgba(250,122,86,0.2) !important;"><a
-                                      href="./index.html?job_class=63" class="job-class-tags-anchor"
-                                      style="color: #fa7a56 !important;">Feature</a></li>
+                                  <li style=" background-color: rgba(250,122,86,0.2) !important;">{{ job.locations }}</li>
                                 </ul>
                               </li>
                               <li class="n-job-short">
@@ -1158,6 +1156,7 @@
                               <li class="n-job-btns">
                                 <a href="{{ job.url }}" class="btn n-btn-rounded apply_job">Apply now </a>
                               </li>
+                              <p class="company-name">{{ job.description }}</p>
                             </ul>
                           </div>
                         </div>

@@ -36,3 +36,4 @@ class Job(models.Model):
     title = models.TextField(blank=True)
     company = models.TextField(blank=True)
     time = models.FloatField(blank=True)
+    description = models.TextField(blank=True)
